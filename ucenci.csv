@@ -475,6 +475,7 @@ ZAVSIFMAT,ZAVMATNAZ,ZAVSIF,ZAVNAZ,KAT_MAT,KATEGORIJA,REGIJA,OBCINA,DAT_OD,DAT_DO
 1081,Vrtec Ravne na Koroškem,11851,"Vrtec Ravne na Koroškem, ENOTA LEVI DEVŽEJ",1010,1010,Koroška,Ravne na Koroškem,24.11.2020,04.12.2020,25.11.2020,1001,1. star. obd.,6001,Sum na okužbo
 1081,Vrtec Ravne na Koroškem,11851,"Vrtec Ravne na Koroškem, ENOTA LEVI DEVŽEJ",1010,1010,Koroška,Ravne na Koroškem,30.12.2020,10.01.2021,04.01.2021,1001,1. star. obd.,6001,Sum na okužbo
 1081,Vrtec Ravne na Koroškem,11851,"Vrtec Ravne na Koroškem, ENOTA LEVI DEVŽEJ",1010,1010,Koroška,Ravne na Koroškem,30.12.2020,10.01.2021,04.01.2021,1002,2. star. obd.,6001,Sum na okužbo
+1081,Vrtec Ravne na Koroškem,22995,"Vrtec Ravne na Koroškem, oddelek na OŠ Prežihov Voranc",1010,1010,Koroška,Ravne na Koroškem,09.02.2021,18.02.2021,10.02.2021,1002,2. star. obd.,6001,Sum na okužbo
 1081,Vrtec Ravne na Koroškem,22995,"Vrtec Ravne na Koroškem, oddelek na OŠ Prežihov Voranc",1010,1010,Koroška,Ravne na Koroškem,25.10.2020,04.11.2020,26.10.2020,1002,2. star. obd.,6001,Sum na okužbo
 1082,Vrtec Otona Župančiča Slovenska Bistrica,11109,"Vrtec Otona Župančiča Slovenska Bistrica, Enota Sonček",1010,1010,Podravska,Slovenska Bistrica,04.12.2020,14.12.2020,10.12.2020,1002,2. star. obd.,6001,Sum na okužbo
 1082,Vrtec Otona Župančiča Slovenska Bistrica,11109,"Vrtec Otona Župančiča Slovenska Bistrica, Enota Sonček",1010,1010,Podravska,Slovenska Bistrica,07.12.2020,16.12.2020,17.12.2020,1002,2. star. obd.,6001,Sum na okužbo
@@ -1146,7 +1147,7 @@ ZAVSIFMAT,ZAVMATNAZ,ZAVSIF,ZAVNAZ,KAT_MAT,KATEGORIJA,REGIJA,OBCINA,DAT_OD,DAT_DO
 112,Osnovna šola Ledina,112,Osnovna šola Ledina,2010,2010,Osrednjeslovenska,Ljubljana,23.10.2020,02.11.2020,27.10.2020,1005,2. razred,6003,Sum na okužbo
 112,Osnovna šola Ledina,112,Osnovna šola Ledina,2010,2010,Osrednjeslovenska,Ljubljana,25.09.2020,30.09.2020,27.09.2020,1006,3. razred,6003,Sum na okužbo
 112,Osnovna šola Ledina,112,Osnovna šola Ledina,2010,2010,Osrednjeslovenska,Ljubljana,26.01.2021,01.02.2021,01.02.2021,1006,3. razred,6003,Sum na okužbo
-112,Osnovna šola Ledina,112,Osnovna šola Ledina,2010,2010,Osrednjeslovenska,Ljubljana,26.01.2021,02.02.2021,02.02.2021,1006,3. razred,6018,Starši učenca niso poslali v šolo zaradi osebnih razlogov (nima opravičila zdravnika)
+112,Osnovna šola Ledina,112,Osnovna šola Ledina,2010,2010,Osrednjeslovenska,Ljubljana,26.01.2021,18.02.2021,09.02.2021,1006,3. razred,6018,Starši učenca niso poslali v šolo zaradi osebnih razlogov (nima opravičila zdravnika)
 112,Osnovna šola Ledina,112,Osnovna šola Ledina,2010,2010,Osrednjeslovenska,Ljubljana,26.01.2021,29.01.2021,01.02.2021,1006,3. razred,6003,Sum na okužbo
 112,Osnovna šola Ledina,112,Osnovna šola Ledina,2010,2010,Osrednjeslovenska,Ljubljana,28.01.2021,01.02.2021,02.02.2021,1006,3. razred,6018,Starši učenca niso poslali v šolo zaradi osebnih razlogov (nima opravičila zdravnika)
 114,Šolski center Slovenske Konjice - Zreče,9972,"Šolski center Slovenske Konjice - Zreče, Gimnazija Slovenske Konjice",3010,3010,Savinjska,Slovenske Konjice,01.10.2020,07.10.2020,02.10.2020,1031,4. letnik,6009,Sum na okužbo
@@ -1496,8 +1497,10 @@ ZAVSIFMAT,ZAVMATNAZ,ZAVSIF,ZAVNAZ,KAT_MAT,KATEGORIJA,REGIJA,OBCINA,DAT_OD,DAT_DO
 1233,Osnovna šola Ivanjkovci,1233,Osnovna šola Ivanjkovci,2010,2010,Podravska,Ormož,25.01.2021,31.01.2021,25.01.2021,1004,1. razred,6003,Sum na okužbo
 1234,Osnovna šola Rovte,1234,Osnovna šola Rovte,2010,2010,Osrednjeslovenska,Logatec,01.02.2021,02.02.2021,02.02.2021,1004,1. razred,6003,Sum na okužbo
 1234,Osnovna šola Rovte,1234,Osnovna šola Rovte,2010,2010,Osrednjeslovenska,Logatec,01.02.2021,02.02.2021,03.02.2021,1004,1. razred,6003,Sum na okužbo
-1234,Osnovna šola Rovte,1234,Osnovna šola Rovte,2010,2010,Osrednjeslovenska,Logatec,01.02.2021,10.02.2021,02.02.2021,1006,3. razred,6003,Sum na okužbo
-1234,Osnovna šola Rovte,1234,Osnovna šola Rovte,2010,2010,Osrednjeslovenska,Logatec,03.02.2021,12.02.2021,04.02.2021,1006,3. razred,6003,Sum na okužbo
+1234,Osnovna šola Rovte,1234,Osnovna šola Rovte,2010,2010,Osrednjeslovenska,Logatec,01.02.2021,08.02.2021,10.02.2021,1006,3. razred,6003,Sum na okužbo
+1234,Osnovna šola Rovte,1234,Osnovna šola Rovte,2010,2010,Osrednjeslovenska,Logatec,03.02.2021,08.02.2021,10.02.2021,1006,3. razred,6003,Sum na okužbo
+1234,Osnovna šola Rovte,1234,Osnovna šola Rovte,2010,2010,Osrednjeslovenska,Logatec,09.02.2021,12.02.2021,10.02.2021,1005,2. razred,6003,Sum na okužbo
+1234,Osnovna šola Rovte,1234,Osnovna šola Rovte,2010,2010,Osrednjeslovenska,Logatec,09.02.2021,12.02.2021,10.02.2021,1005,2. razred,6003,Sum na okužbo
 1234,Osnovna šola Rovte,1234,Osnovna šola Rovte,2010,2010,Osrednjeslovenska,Logatec,14.09.2020,24.09.2020,24.09.2020,1008,5. razred,6003,Sum na okužbo
 1234,Osnovna šola Rovte,1234,Osnovna šola Rovte,2010,2010,Osrednjeslovenska,Logatec,14.09.2020,24.09.2020,24.09.2020,1012,9. razred,6003,Sum na okužbo
 1234,Osnovna šola Rovte,1234,Osnovna šola Rovte,2010,2010,Osrednjeslovenska,Logatec,14.10.2020,18.10.2020,16.10.2020,1012,9. razred,6003,Sum na okužbo
@@ -1505,6 +1508,7 @@ ZAVSIFMAT,ZAVMATNAZ,ZAVSIF,ZAVNAZ,KAT_MAT,KATEGORIJA,REGIJA,OBCINA,DAT_OD,DAT_DO
 1234,Osnovna šola Rovte,1234,Osnovna šola Rovte,2010,2010,Osrednjeslovenska,Logatec,16.10.2020,18.10.2020,16.10.2020,1012,9. razred,6003,Sum na okužbo
 1234,Osnovna šola Rovte,1234,Osnovna šola Rovte,2010,2010,Osrednjeslovenska,Logatec,26.01.2021,29.01.2021,27.01.2021,1005,2. razred,6003,Sum na okužbo
 1234,Osnovna šola Rovte,1234,Osnovna šola Rovte,2010,2010,Osrednjeslovenska,Logatec,26.01.2021,29.01.2021,27.01.2021,1005,2. razred,6004,Okužba s Covid-19
+1234,Osnovna šola Rovte,1238,Osnovna šola Rovte Podružnica Vrh Svetih treh kraljev,2010,2010,Osrednjeslovenska,Logatec,09.02.2021,12.02.2021,10.02.2021,1006,3. razred,6003,Sum na okužbo
 1241,Osnovna šola Hruševec Šentjur,1241,Osnovna šola Hruševec Šentjur,2010,2010,Savinjska,Šentjur,01.11.2020,10.11.2020,03.11.2020,1008,5. razred,6003,Sum na okužbo
 1241,Osnovna šola Hruševec Šentjur,1241,Osnovna šola Hruševec Šentjur,2010,2010,Savinjska,Šentjur,05.11.2020,15.11.2020,05.11.2020,1006,3. razred,6004,Okužba s Covid-19
 1241,Osnovna šola Hruševec Šentjur,1241,Osnovna šola Hruševec Šentjur,2010,2010,Savinjska,Šentjur,09.02.2021,19.02.2021,09.02.2021,1006,3. razred,6003,Sum na okužbo
@@ -1864,6 +1868,7 @@ ZAVSIFMAT,ZAVMATNAZ,ZAVSIF,ZAVNAZ,KAT_MAT,KATEGORIJA,REGIJA,OBCINA,DAT_OD,DAT_DO
 1344,Osnovna šola Koroška Bela Jesenice,1344,Osnovna šola Koroška Bela Jesenice,2010,2010,Gorenjska,Jesenice,05.10.2020,10.10.2020,05.10.2020,1010,7. razred,6003,Sum na okužbo
 1344,Osnovna šola Koroška Bela Jesenice,1344,Osnovna šola Koroška Bela Jesenice,2010,2010,Gorenjska,Jesenice,06.02.2021,16.02.2021,09.02.2021,1006,3. razred,6003,Sum na okužbo
 1344,Osnovna šola Koroška Bela Jesenice,1344,Osnovna šola Koroška Bela Jesenice,2010,2010,Gorenjska,Jesenice,09.02.2021,19.02.2021,09.02.2021,1005,2. razred,6003,Sum na okužbo
+1344,Osnovna šola Koroška Bela Jesenice,1344,Osnovna šola Koroška Bela Jesenice,2010,2010,Gorenjska,Jesenice,09.02.2021,19.02.2021,09.02.2021,1006,3. razred,6003,Sum na okužbo
 1344,Osnovna šola Koroška Bela Jesenice,1344,Osnovna šola Koroška Bela Jesenice,2010,2010,Gorenjska,Jesenice,11.10.2020,18.10.2020,09.10.2020,1011,8. razred,6003,Sum na okužbo
 1344,Osnovna šola Koroška Bela Jesenice,1344,Osnovna šola Koroška Bela Jesenice,2010,2010,Gorenjska,Jesenice,12.10.2020,14.10.2020,18.10.2020,1010,7. razred,6003,Sum na okužbo
 1344,Osnovna šola Koroška Bela Jesenice,1344,Osnovna šola Koroška Bela Jesenice,2010,2010,Gorenjska,Jesenice,12.10.2020,15.10.2020,18.10.2020,1012,9. razred,6003,Sum na okužbo
@@ -2088,6 +2093,7 @@ ZAVSIFMAT,ZAVMATNAZ,ZAVSIF,ZAVNAZ,KAT_MAT,KATEGORIJA,REGIJA,OBCINA,DAT_OD,DAT_DO
 141,Osnovna šola Vojnik,141,Osnovna šola Vojnik,2010,2010,Savinjska,Vojnik,22.10.2020,23.10.2020,22.10.2020,1005,2. razred,6003,Sum na okužbo
 141,Osnovna šola Vojnik,141,Osnovna šola Vojnik,2010,2010,Savinjska,Vojnik,24.09.2020,13.10.2020,30.09.2020,1012,9. razred,6004,Okužba s Covid-19
 141,Osnovna šola Vojnik,141,Osnovna šola Vojnik,2010,2010,Savinjska,Vojnik,25.09.2020,04.10.2020,25.09.2020,1010,7. razred,6003,Sum na okužbo
+141,Osnovna šola Vojnik,651,Osnovna šola Vojnik Podružnica Šmartno v Rožni dolini,2010,2010,Savinjska,Celje,03.02.2021,13.02.2021,10.02.2021,1005,2. razred,6003,Sum na okužbo
 142,Osnovna šola Antona Bezenška Frankolovo,142,Osnovna šola Antona Bezenška Frankolovo,2010,2010,Savinjska,Vojnik,01.02.2021,09.02.2021,09.02.2021,1006,3. razred,6003,Sum na okužbo
 142,Osnovna šola Antona Bezenška Frankolovo,142,Osnovna šola Antona Bezenška Frankolovo,2010,2010,Savinjska,Vojnik,08.10.2020,18.10.2020,09.10.2020,1007,4. razred,6003,Sum na okužbo
 142,Osnovna šola Antona Bezenška Frankolovo,142,Osnovna šola Antona Bezenška Frankolovo,2010,2010,Savinjska,Vojnik,12.10.2020,22.10.2020,12.10.2020,1007,4. razred,6003,Sum na okužbo
@@ -2160,6 +2166,15 @@ ZAVSIFMAT,ZAVMATNAZ,ZAVSIF,ZAVNAZ,KAT_MAT,KATEGORIJA,REGIJA,OBCINA,DAT_OD,DAT_DO
 145,Osnovna šola Jožeta Krajca Rakek,145,Osnovna šola Jožeta Krajca Rakek,2010,2010,Primorsko-notranjska,Cerknica,05.02.2021,05.02.2021,05.02.2021,1005,2. razred,6003,Sum na okužbo
 145,Osnovna šola Jožeta Krajca Rakek,145,Osnovna šola Jožeta Krajca Rakek,2010,2010,Primorsko-notranjska,Cerknica,05.02.2021,05.02.2021,05.02.2021,1005,2. razred,6018,Starši učenca niso poslali v šolo zaradi osebnih razlogov (nima opravičila zdravnika)
 145,Osnovna šola Jožeta Krajca Rakek,145,Osnovna šola Jožeta Krajca Rakek,2010,2010,Primorsko-notranjska,Cerknica,05.02.2021,05.02.2021,05.02.2021,1006,3. razred,6018,Starši učenca niso poslali v šolo zaradi osebnih razlogov (nima opravičila zdravnika)
+145,Osnovna šola Jožeta Krajca Rakek,145,Osnovna šola Jožeta Krajca Rakek,2010,2010,Primorsko-notranjska,Cerknica,09.02.2021,09.02.2021,09.02.2021,1004,1. razred,6018,Starši učenca niso poslali v šolo zaradi osebnih razlogov (nima opravičila zdravnika)
+145,Osnovna šola Jožeta Krajca Rakek,145,Osnovna šola Jožeta Krajca Rakek,2010,2010,Primorsko-notranjska,Cerknica,09.02.2021,09.02.2021,09.02.2021,1004,1. razred,6018,Starši učenca niso poslali v šolo zaradi osebnih razlogov (nima opravičila zdravnika)
+145,Osnovna šola Jožeta Krajca Rakek,145,Osnovna šola Jožeta Krajca Rakek,2010,2010,Primorsko-notranjska,Cerknica,09.02.2021,09.02.2021,09.02.2021,1004,1. razred,6018,Starši učenca niso poslali v šolo zaradi osebnih razlogov (nima opravičila zdravnika)
+145,Osnovna šola Jožeta Krajca Rakek,145,Osnovna šola Jožeta Krajca Rakek,2010,2010,Primorsko-notranjska,Cerknica,09.02.2021,09.02.2021,09.02.2021,1004,1. razred,6018,Starši učenca niso poslali v šolo zaradi osebnih razlogov (nima opravičila zdravnika)
+145,Osnovna šola Jožeta Krajca Rakek,145,Osnovna šola Jožeta Krajca Rakek,2010,2010,Primorsko-notranjska,Cerknica,09.02.2021,09.02.2021,09.02.2021,1004,1. razred,6018,Starši učenca niso poslali v šolo zaradi osebnih razlogov (nima opravičila zdravnika)
+145,Osnovna šola Jožeta Krajca Rakek,145,Osnovna šola Jožeta Krajca Rakek,2010,2010,Primorsko-notranjska,Cerknica,09.02.2021,09.02.2021,09.02.2021,1004,1. razred,6018,Starši učenca niso poslali v šolo zaradi osebnih razlogov (nima opravičila zdravnika)
+145,Osnovna šola Jožeta Krajca Rakek,145,Osnovna šola Jožeta Krajca Rakek,2010,2010,Primorsko-notranjska,Cerknica,09.02.2021,09.02.2021,09.02.2021,1005,2. razred,6018,Starši učenca niso poslali v šolo zaradi osebnih razlogov (nima opravičila zdravnika)
+145,Osnovna šola Jožeta Krajca Rakek,145,Osnovna šola Jožeta Krajca Rakek,2010,2010,Primorsko-notranjska,Cerknica,09.02.2021,09.02.2021,09.02.2021,1005,2. razred,6018,Starši učenca niso poslali v šolo zaradi osebnih razlogov (nima opravičila zdravnika)
+145,Osnovna šola Jožeta Krajca Rakek,145,Osnovna šola Jožeta Krajca Rakek,2010,2010,Primorsko-notranjska,Cerknica,09.02.2021,09.02.2021,09.02.2021,1006,3. razred,6018,Starši učenca niso poslali v šolo zaradi osebnih razlogov (nima opravičila zdravnika)
 145,Osnovna šola Jožeta Krajca Rakek,145,Osnovna šola Jožeta Krajca Rakek,2010,2010,Primorsko-notranjska,Cerknica,27.01.2021,27.01.2021,28.01.2021,1004,1. razred,6018,Starši učenca niso poslali v šolo zaradi osebnih razlogov (nima opravičila zdravnika)
 145,Osnovna šola Jožeta Krajca Rakek,145,Osnovna šola Jožeta Krajca Rakek,2010,2010,Primorsko-notranjska,Cerknica,27.01.2021,27.01.2021,28.01.2021,1004,1. razred,6018,Starši učenca niso poslali v šolo zaradi osebnih razlogov (nima opravičila zdravnika)
 145,Osnovna šola Jožeta Krajca Rakek,145,Osnovna šola Jožeta Krajca Rakek,2010,2010,Primorsko-notranjska,Cerknica,27.01.2021,27.01.2021,28.01.2021,1005,2. razred,6018,Starši učenca niso poslali v šolo zaradi osebnih razlogov (nima opravičila zdravnika)
@@ -2200,6 +2215,9 @@ ZAVSIFMAT,ZAVMATNAZ,ZAVSIF,ZAVNAZ,KAT_MAT,KATEGORIJA,REGIJA,OBCINA,DAT_OD,DAT_DO
 145,Osnovna šola Jožeta Krajca Rakek,652,Osnovna šola Jožeta Krajca Rakek Podružnica Rudolfa Maistra Unec,2010,2010,Primorsko-notranjska,Cerknica,05.02.2021,05.02.2021,05.02.2021,1004,1. razred,6018,Starši učenca niso poslali v šolo zaradi osebnih razlogov (nima opravičila zdravnika)
 145,Osnovna šola Jožeta Krajca Rakek,652,Osnovna šola Jožeta Krajca Rakek Podružnica Rudolfa Maistra Unec,2010,2010,Primorsko-notranjska,Cerknica,05.02.2021,05.02.2021,05.02.2021,1004,1. razred,6018,Starši učenca niso poslali v šolo zaradi osebnih razlogov (nima opravičila zdravnika)
 145,Osnovna šola Jožeta Krajca Rakek,652,Osnovna šola Jožeta Krajca Rakek Podružnica Rudolfa Maistra Unec,2010,2010,Primorsko-notranjska,Cerknica,05.02.2021,05.02.2021,05.02.2021,1006,3. razred,6003,Sum na okužbo
+145,Osnovna šola Jožeta Krajca Rakek,652,Osnovna šola Jožeta Krajca Rakek Podružnica Rudolfa Maistra Unec,2010,2010,Primorsko-notranjska,Cerknica,09.02.2021,14.02.2021,09.02.2021,1004,1. razred,6003,Sum na okužbo
+145,Osnovna šola Jožeta Krajca Rakek,652,Osnovna šola Jožeta Krajca Rakek Podružnica Rudolfa Maistra Unec,2010,2010,Primorsko-notranjska,Cerknica,09.02.2021,14.02.2021,09.02.2021,1005,2. razred,6003,Sum na okužbo
+145,Osnovna šola Jožeta Krajca Rakek,652,Osnovna šola Jožeta Krajca Rakek Podružnica Rudolfa Maistra Unec,2010,2010,Primorsko-notranjska,Cerknica,09.02.2021,14.02.2021,09.02.2021,1006,3. razred,6003,Sum na okužbo
 145,Osnovna šola Jožeta Krajca Rakek,652,Osnovna šola Jožeta Krajca Rakek Podružnica Rudolfa Maistra Unec,2010,2010,Primorsko-notranjska,Cerknica,28.01.2021,28.01.2021,28.01.2021,1005,2. razred,6018,Starši učenca niso poslali v šolo zaradi osebnih razlogov (nima opravičila zdravnika)
 145,Osnovna šola Jožeta Krajca Rakek,652,Osnovna šola Jožeta Krajca Rakek Podružnica Rudolfa Maistra Unec,2010,2010,Primorsko-notranjska,Cerknica,29.01.2021,29.01.2021,29.01.2021,1004,1. razred,6018,Starši učenca niso poslali v šolo zaradi osebnih razlogov (nima opravičila zdravnika)
 145,Osnovna šola Jožeta Krajca Rakek,652,Osnovna šola Jožeta Krajca Rakek Podružnica Rudolfa Maistra Unec,2010,2010,Primorsko-notranjska,Cerknica,29.01.2021,29.01.2021,29.01.2021,1006,3. razred,6018,Starši učenca niso poslali v šolo zaradi osebnih razlogov (nima opravičila zdravnika)
@@ -2216,6 +2234,7 @@ ZAVSIFMAT,ZAVMATNAZ,ZAVSIF,ZAVNAZ,KAT_MAT,KATEGORIJA,REGIJA,OBCINA,DAT_OD,DAT_DO
 149,Osnovna šola Belokranjskega odreda Semič,1274,"Osnovna šola Belokranjskega odreda Semič, enota vrtec Sonček",2010,1010,Jugovzhodna Slovenija,Semič,24.12.2020,02.01.2021,24.12.2020,1003,Komb. 1. in 2. star. obd.,6003,Sum na okužbo
 149,Osnovna šola Belokranjskega odreda Semič,1274,"Osnovna šola Belokranjskega odreda Semič, enota vrtec Sonček",2010,1010,Jugovzhodna Slovenija,Semič,24.12.2020,02.01.2021,24.12.2020,1003,Komb. 1. in 2. star. obd.,6003,Sum na okužbo
 149,Osnovna šola Belokranjskega odreda Semič,1274,"Osnovna šola Belokranjskega odreda Semič, enota vrtec Sonček",2010,1010,Jugovzhodna Slovenija,Semič,24.12.2020,02.01.2021,24.12.2020,1003,Komb. 1. in 2. star. obd.,6003,Sum na okužbo
+149,Osnovna šola Belokranjskega odreda Semič,669,"Osnovna šola Belokranjskega odreda Semič, Podružnična šola Štrekljevec",2010,2010,Jugovzhodna Slovenija,Semič,09.02.2021,19.02.2021,09.02.2021,1005,2. razred,6003,Sum na okužbo
 150,Osnovna šola Mirana Jarca Črnomelj,150,Osnovna šola Mirana Jarca Črnomelj,2010,2010,Jugovzhodna Slovenija,Črnomelj,19.10.2020,25.10.2020,18.10.2020,1007,4. razred,6004,Okužba s Covid-19
 152,Osnovna šola Milke Šobar - Nataše Črnomelj,152,Osnovna šola Milke Šobar - Nataše Črnomelj,2020,2020,Jugovzhodna Slovenija,Črnomelj,01.02.2021,11.02.2021,01.02.2021,1026,V. stopnja,6019,Starši učenca niso poslali v šolo zaradi osebnih razlogov (nima opravičila zdravnika)
 152,Osnovna šola Milke Šobar - Nataše Črnomelj,152,Osnovna šola Milke Šobar - Nataše Črnomelj,2020,2020,Jugovzhodna Slovenija,Črnomelj,01.02.2021,11.02.2021,01.02.2021,1026,V. stopnja,6019,Starši učenca niso poslali v šolo zaradi osebnih razlogov (nima opravičila zdravnika)
@@ -3027,6 +3046,12 @@ ZAVSIFMAT,ZAVMATNAZ,ZAVSIF,ZAVNAZ,KAT_MAT,KATEGORIJA,REGIJA,OBCINA,DAT_OD,DAT_DO
 225,Osnovna šola Stražišče Kranj,225,Osnovna šola Stražišče Kranj,2010,2010,Gorenjska,Kranj,16.10.2020,26.10.2020,18.10.2020,1008,5. razred,6003,Sum na okužbo
 225,Osnovna šola Stražišče Kranj,225,Osnovna šola Stražišče Kranj,2010,2010,Gorenjska,Kranj,17.10.2020,18.10.2020,19.10.2020,1012,9. razred,6004,Okužba s Covid-19
 225,Osnovna šola Stražišče Kranj,225,Osnovna šola Stražišče Kranj,2010,2010,Gorenjska,Kranj,19.10.2020,23.10.2020,23.10.2020,1005,2. razred,6003,Sum na okužbo
+225,Osnovna šola Stražišče Kranj,589,"Osnovna šola Stražišče Kranj, Enota Vrtec v Podružnici Besnica",2010,1010,Gorenjska,Kranj,04.02.2021,14.02.2021,09.02.2021,1003,Komb. 1. in 2. star. obd.,6004,Okužba s Covid-19
+225,Osnovna šola Stražišče Kranj,589,"Osnovna šola Stražišče Kranj, Enota Vrtec v Podružnici Besnica",2010,1010,Gorenjska,Kranj,04.02.2021,14.02.2021,09.02.2021,1003,Komb. 1. in 2. star. obd.,6004,Okužba s Covid-19
+225,Osnovna šola Stražišče Kranj,589,"Osnovna šola Stražišče Kranj, Enota Vrtec v Podružnici Besnica",2010,1010,Gorenjska,Kranj,04.02.2021,14.02.2021,09.02.2021,1003,Komb. 1. in 2. star. obd.,6004,Okužba s Covid-19
+225,Osnovna šola Stražišče Kranj,589,"Osnovna šola Stražišče Kranj, Enota Vrtec v Podružnici Besnica",2010,1010,Gorenjska,Kranj,05.02.2021,15.02.2021,09.02.2021,1001,1. star. obd.,6004,Okužba s Covid-19
+225,Osnovna šola Stražišče Kranj,589,"Osnovna šola Stražišče Kranj, Enota Vrtec v Podružnici Besnica",2010,1010,Gorenjska,Kranj,05.02.2021,15.02.2021,09.02.2021,1003,Komb. 1. in 2. star. obd.,6003,Sum na okužbo
+225,Osnovna šola Stražišče Kranj,589,"Osnovna šola Stražišče Kranj, Enota Vrtec v Podružnici Besnica",2010,1010,Gorenjska,Kranj,06.02.2021,16.02.2021,09.02.2021,1003,Komb. 1. in 2. star. obd.,6003,Sum na okužbo
 225,Osnovna šola Stražišče Kranj,589,"Osnovna šola Stražišče Kranj, Enota Vrtec v Podružnici Besnica",2010,1010,Gorenjska,Kranj,09.10.2020,19.10.2020,18.10.2020,1001,1. star. obd.,6003,Sum na okužbo
 225,Osnovna šola Stražišče Kranj,589,"Osnovna šola Stražišče Kranj, Enota Vrtec v Podružnici Besnica",2010,1010,Gorenjska,Kranj,09.10.2020,19.10.2020,18.10.2020,1001,1. star. obd.,6003,Sum na okužbo
 225,Osnovna šola Stražišče Kranj,589,"Osnovna šola Stražišče Kranj, Enota Vrtec v Podružnici Besnica",2010,1010,Gorenjska,Kranj,17.10.2020,27.10.2020,18.10.2020,1002,2. star. obd.,6003,Sum na okužbo
@@ -3268,8 +3293,12 @@ ZAVSIFMAT,ZAVMATNAZ,ZAVSIF,ZAVNAZ,KAT_MAT,KATEGORIJA,REGIJA,OBCINA,DAT_OD,DAT_DO
 236,Glasbena šola Krško,236,Glasbena šola Krško,2030,2030,Posavska,Krško,14.10.2020,24.10.2020,15.10.2020,1508,Kitara,6007,Sum na okužbo
 236,Glasbena šola Krško,236,Glasbena šola Krško,2030,2030,Posavska,Krško,14.10.2020,24.10.2020,15.10.2020,1509,Klarinet,6007,Sum na okužbo
 236,Glasbena šola Krško,236,Glasbena šola Krško,2030,2030,Posavska,Krško,14.10.2020,24.10.2020,15.10.2020,1510,Klavir,6007,Sum na okužbo
+237,Osnovna šola Leskovec pri Krškem,237,Osnovna šola Leskovec pri Krškem,2010,2010,Posavska,Krško,02.02.2021,11.02.2021,09.02.2021,1006,3. razred,6003,Sum na okužbo
+237,Osnovna šola Leskovec pri Krškem,237,Osnovna šola Leskovec pri Krškem,2010,2010,Posavska,Krško,05.02.2021,14.02.2021,09.02.2021,1005,2. razred,6003,Sum na okužbo
+237,Osnovna šola Leskovec pri Krškem,237,Osnovna šola Leskovec pri Krškem,2010,2010,Posavska,Krško,05.02.2021,14.02.2021,09.02.2021,1005,2. razred,6003,Sum na okužbo
 237,Osnovna šola Leskovec pri Krškem,237,Osnovna šola Leskovec pri Krškem,2010,2010,Posavska,Krško,05.10.2020,15.10.2020,05.10.2020,1005,2. razred,6003,Sum na okužbo
 237,Osnovna šola Leskovec pri Krškem,237,Osnovna šola Leskovec pri Krškem,2010,2010,Posavska,Krško,05.10.2020,15.10.2020,05.10.2020,1007,4. razred,6003,Sum na okužbo
+237,Osnovna šola Leskovec pri Krškem,237,Osnovna šola Leskovec pri Krškem,2010,2010,Posavska,Krško,07.02.2021,16.02.2021,09.02.2021,1004,1. razred,6003,Sum na okužbo
 237,Osnovna šola Leskovec pri Krškem,237,Osnovna šola Leskovec pri Krškem,2010,2010,Posavska,Krško,09.10.2020,18.10.2020,09.10.2020,1009,6. razred,6003,Sum na okužbo
 237,Osnovna šola Leskovec pri Krškem,237,Osnovna šola Leskovec pri Krškem,2010,2010,Posavska,Krško,09.10.2020,18.10.2020,09.10.2020,1011,8. razred,6003,Sum na okužbo
 237,Osnovna šola Leskovec pri Krškem,237,Osnovna šola Leskovec pri Krškem,2010,2010,Posavska,Krško,09.10.2020,18.10.2020,09.10.2020,1011,8. razred,6003,Sum na okužbo
@@ -3762,6 +3791,7 @@ ZAVSIFMAT,ZAVMATNAZ,ZAVSIF,ZAVNAZ,KAT_MAT,KATEGORIJA,REGIJA,OBCINA,DAT_OD,DAT_DO
 297,Osnovna šola Vižmarje - Brod,297,Osnovna šola Vižmarje - Brod,2010,2010,Osrednjeslovenska,Ljubljana,25.01.2021,05.02.2021,01.02.2021,1006,3. razred,6018,Starši učenca niso poslali v šolo zaradi osebnih razlogov (nima opravičila zdravnika)
 297,Osnovna šola Vižmarje - Brod,297,Osnovna šola Vižmarje - Brod,2010,2010,Osrednjeslovenska,Ljubljana,29.01.2021,05.02.2021,01.02.2021,1005,2. razred,6003,Sum na okužbo
 297,Osnovna šola Vižmarje - Brod,297,Osnovna šola Vižmarje - Brod,2010,2010,Osrednjeslovenska,Ljubljana,29.01.2021,07.02.2021,01.02.2021,1004,1. razred,6003,Sum na okužbo
+298,Osnovna šola Koseze,298,Osnovna šola Koseze,2010,2010,Osrednjeslovenska,Ljubljana,01.02.2021,12.02.2021,10.02.2021,1006,3. razred,6004,Okužba s Covid-19
 298,Osnovna šola Koseze,298,Osnovna šola Koseze,2010,2010,Osrednjeslovenska,Ljubljana,04.09.2020,14.09.2020,12.09.2020,1010,7. razred,6004,Okužba s Covid-19
 298,Osnovna šola Koseze,298,Osnovna šola Koseze,2010,2010,Osrednjeslovenska,Ljubljana,06.09.2020,16.09.2020,12.09.2020,1004,1. razred,6004,Okužba s Covid-19
 298,Osnovna šola Koseze,298,Osnovna šola Koseze,2010,2010,Osrednjeslovenska,Ljubljana,06.09.2020,16.09.2020,15.09.2020,1010,7. razred,6004,Okužba s Covid-19
@@ -3882,8 +3912,18 @@ ZAVSIFMAT,ZAVMATNAZ,ZAVSIF,ZAVNAZ,KAT_MAT,KATEGORIJA,REGIJA,OBCINA,DAT_OD,DAT_DO
 311,Osnovna šola Vodice,311,Osnovna šola Vodice,2010,2010,Osrednjeslovenska,Vodice,04.10.2020,08.10.2020,05.10.2020,1008,5. razred,6003,Sum na okužbo
 311,Osnovna šola Vodice,311,Osnovna šola Vodice,2010,2010,Osrednjeslovenska,Vodice,07.09.2020,17.09.2020,13.09.2020,1012,9. razred,6003,Sum na okužbo
 311,Osnovna šola Vodice,311,Osnovna šola Vodice,2010,2010,Osrednjeslovenska,Vodice,08.10.2020,12.10.2020,09.10.2020,1010,7. razred,6003,Sum na okužbo
+311,Osnovna šola Vodice,311,Osnovna šola Vodice,2010,2010,Osrednjeslovenska,Vodice,09.02.2021,19.02.2021,10.02.2021,1004,1. razred,6018,Starši učenca niso poslali v šolo zaradi osebnih razlogov (nima opravičila zdravnika)
+311,Osnovna šola Vodice,311,Osnovna šola Vodice,2010,2010,Osrednjeslovenska,Vodice,09.02.2021,19.02.2021,10.02.2021,1004,1. razred,6018,Starši učenca niso poslali v šolo zaradi osebnih razlogov (nima opravičila zdravnika)
+311,Osnovna šola Vodice,311,Osnovna šola Vodice,2010,2010,Osrednjeslovenska,Vodice,09.02.2021,19.02.2021,10.02.2021,1004,1. razred,6018,Starši učenca niso poslali v šolo zaradi osebnih razlogov (nima opravičila zdravnika)
+311,Osnovna šola Vodice,311,Osnovna šola Vodice,2010,2010,Osrednjeslovenska,Vodice,09.02.2021,19.02.2021,10.02.2021,1004,1. razred,6018,Starši učenca niso poslali v šolo zaradi osebnih razlogov (nima opravičila zdravnika)
+311,Osnovna šola Vodice,311,Osnovna šola Vodice,2010,2010,Osrednjeslovenska,Vodice,09.02.2021,19.02.2021,10.02.2021,1004,1. razred,6003,Sum na okužbo
+311,Osnovna šola Vodice,311,Osnovna šola Vodice,2010,2010,Osrednjeslovenska,Vodice,09.02.2021,19.02.2021,10.02.2021,1004,1. razred,6018,Starši učenca niso poslali v šolo zaradi osebnih razlogov (nima opravičila zdravnika)
+311,Osnovna šola Vodice,311,Osnovna šola Vodice,2010,2010,Osrednjeslovenska,Vodice,09.02.2021,19.02.2021,10.02.2021,1005,2. razred,6018,Starši učenca niso poslali v šolo zaradi osebnih razlogov (nima opravičila zdravnika)
+311,Osnovna šola Vodice,311,Osnovna šola Vodice,2010,2010,Osrednjeslovenska,Vodice,09.02.2021,19.02.2021,10.02.2021,1005,2. razred,6018,Starši učenca niso poslali v šolo zaradi osebnih razlogov (nima opravičila zdravnika)
+311,Osnovna šola Vodice,311,Osnovna šola Vodice,2010,2010,Osrednjeslovenska,Vodice,09.02.2021,19.02.2021,10.02.2021,1005,2. razred,6018,Starši učenca niso poslali v šolo zaradi osebnih razlogov (nima opravičila zdravnika)
 311,Osnovna šola Vodice,311,Osnovna šola Vodice,2010,2010,Osrednjeslovenska,Vodice,09.10.2020,17.10.2020,18.10.2020,1004,1. razred,6003,Sum na okužbo
 311,Osnovna šola Vodice,311,Osnovna šola Vodice,2010,2010,Osrednjeslovenska,Vodice,09.10.2020,17.10.2020,18.10.2020,1006,3. razred,6003,Sum na okužbo
+311,Osnovna šola Vodice,311,Osnovna šola Vodice,2010,2010,Osrednjeslovenska,Vodice,10.02.2021,20.02.2021,10.02.2021,1005,2. razred,6003,Sum na okužbo
 311,Osnovna šola Vodice,311,Osnovna šola Vodice,2010,2010,Osrednjeslovenska,Vodice,13.10.2020,23.10.2020,13.10.2020,1006,3. razred,6003,Sum na okužbo
 311,Osnovna šola Vodice,311,Osnovna šola Vodice,2010,2010,Osrednjeslovenska,Vodice,14.10.2020,24.10.2020,14.10.2020,1007,4. razred,6003,Sum na okužbo
 311,Osnovna šola Vodice,311,Osnovna šola Vodice,2010,2010,Osrednjeslovenska,Vodice,16.10.2020,18.10.2020,18.10.2020,1010,7. razred,6003,Sum na okužbo
@@ -3917,6 +3957,14 @@ ZAVSIFMAT,ZAVMATNAZ,ZAVSIF,ZAVNAZ,KAT_MAT,KATEGORIJA,REGIJA,OBCINA,DAT_OD,DAT_DO
 311,Osnovna šola Vodice,311,Osnovna šola Vodice,2010,2010,Osrednjeslovenska,Vodice,29.01.2021,08.02.2021,29.01.2021,1006,3. razred,6018,Starši učenca niso poslali v šolo zaradi osebnih razlogov (nima opravičila zdravnika)
 311,Osnovna šola Vodice,311,Osnovna šola Vodice,2010,2010,Osrednjeslovenska,Vodice,29.01.2021,08.02.2021,29.01.2021,1006,3. razred,6018,Starši učenca niso poslali v šolo zaradi osebnih razlogov (nima opravičila zdravnika)
 311,Osnovna šola Vodice,964,Osnovna šola Vodice Podružnica Utik,2010,2010,Osrednjeslovenska,Vodice,02.02.2021,12.02.2021,02.02.2021,1006,3. razred,6003,Sum na okužbo
+311,Osnovna šola Vodice,964,Osnovna šola Vodice Podružnica Utik,2010,2010,Osrednjeslovenska,Vodice,09.02.2021,19.02.2021,10.02.2021,1004,1. razred,6018,Starši učenca niso poslali v šolo zaradi osebnih razlogov (nima opravičila zdravnika)
+311,Osnovna šola Vodice,964,Osnovna šola Vodice Podružnica Utik,2010,2010,Osrednjeslovenska,Vodice,09.02.2021,19.02.2021,10.02.2021,1004,1. razred,6018,Starši učenca niso poslali v šolo zaradi osebnih razlogov (nima opravičila zdravnika)
+311,Osnovna šola Vodice,964,Osnovna šola Vodice Podružnica Utik,2010,2010,Osrednjeslovenska,Vodice,09.02.2021,19.02.2021,10.02.2021,1005,2. razred,6018,Starši učenca niso poslali v šolo zaradi osebnih razlogov (nima opravičila zdravnika)
+311,Osnovna šola Vodice,964,Osnovna šola Vodice Podružnica Utik,2010,2010,Osrednjeslovenska,Vodice,09.02.2021,19.02.2021,10.02.2021,1005,2. razred,6018,Starši učenca niso poslali v šolo zaradi osebnih razlogov (nima opravičila zdravnika)
+311,Osnovna šola Vodice,964,Osnovna šola Vodice Podružnica Utik,2010,2010,Osrednjeslovenska,Vodice,09.02.2021,19.02.2021,10.02.2021,1006,3. razred,6018,Starši učenca niso poslali v šolo zaradi osebnih razlogov (nima opravičila zdravnika)
+311,Osnovna šola Vodice,964,Osnovna šola Vodice Podružnica Utik,2010,2010,Osrednjeslovenska,Vodice,09.02.2021,19.02.2021,10.02.2021,1006,3. razred,6018,Starši učenca niso poslali v šolo zaradi osebnih razlogov (nima opravičila zdravnika)
+311,Osnovna šola Vodice,964,Osnovna šola Vodice Podružnica Utik,2010,2010,Osrednjeslovenska,Vodice,10.02.2021,20.02.2021,10.02.2021,1004,1. razred,6003,Sum na okužbo
+311,Osnovna šola Vodice,964,Osnovna šola Vodice Podružnica Utik,2010,2010,Osrednjeslovenska,Vodice,10.02.2021,20.02.2021,10.02.2021,1004,1. razred,6003,Sum na okužbo
 311,Osnovna šola Vodice,964,Osnovna šola Vodice Podružnica Utik,2010,2010,Osrednjeslovenska,Vodice,16.10.2020,26.10.2020,18.10.2020,1004,1. razred,6003,Sum na okužbo
 311,Osnovna šola Vodice,964,Osnovna šola Vodice Podružnica Utik,2010,2010,Osrednjeslovenska,Vodice,26.01.2021,05.02.2021,28.01.2021,1005,2. razred,6018,Starši učenca niso poslali v šolo zaradi osebnih razlogov (nima opravičila zdravnika)
 311,Osnovna šola Vodice,964,Osnovna šola Vodice Podružnica Utik,2010,2010,Osrednjeslovenska,Vodice,26.01.2021,08.01.2021,27.01.2021,1005,2. razred,6018,Starši učenca niso poslali v šolo zaradi osebnih razlogov (nima opravičila zdravnika)
@@ -4918,6 +4966,10 @@ ZAVSIFMAT,ZAVMATNAZ,ZAVSIF,ZAVNAZ,KAT_MAT,KATEGORIJA,REGIJA,OBCINA,DAT_OD,DAT_DO
 385,Osnovna šola Dolenjske Toplice,1152,"Osnovna šola Dolenjske Toplice, Vrtec Gumbek",2010,1010,Jugovzhodna Slovenija,Dolenjske Toplice,01.12.2020,10.12.2020,03.12.2020,1003,Komb. 1. in 2. star. obd.,6003,Sum na okužbo
 385,Osnovna šola Dolenjske Toplice,1152,"Osnovna šola Dolenjske Toplice, Vrtec Gumbek",2010,1010,Jugovzhodna Slovenija,Dolenjske Toplice,01.12.2020,11.12.2020,03.12.2020,1001,1. star. obd.,6004,Okužba s Covid-19
 385,Osnovna šola Dolenjske Toplice,1152,"Osnovna šola Dolenjske Toplice, Vrtec Gumbek",2010,1010,Jugovzhodna Slovenija,Dolenjske Toplice,04.12.2020,13.12.2020,04.12.2020,1001,1. star. obd.,6003,Sum na okužbo
+385,Osnovna šola Dolenjske Toplice,1152,"Osnovna šola Dolenjske Toplice, Vrtec Gumbek",2010,1010,Jugovzhodna Slovenija,Dolenjske Toplice,06.02.2021,15.02.2021,10.02.2021,1001,1. star. obd.,6003,Sum na okužbo
+385,Osnovna šola Dolenjske Toplice,1152,"Osnovna šola Dolenjske Toplice, Vrtec Gumbek",2010,1010,Jugovzhodna Slovenija,Dolenjske Toplice,06.02.2021,15.02.2021,10.02.2021,1002,2. star. obd.,6003,Sum na okužbo
+385,Osnovna šola Dolenjske Toplice,1152,"Osnovna šola Dolenjske Toplice, Vrtec Gumbek",2010,1010,Jugovzhodna Slovenija,Dolenjske Toplice,06.02.2021,15.02.2021,10.02.2021,1002,2. star. obd.,6003,Sum na okužbo
+385,Osnovna šola Dolenjske Toplice,1152,"Osnovna šola Dolenjske Toplice, Vrtec Gumbek",2010,1010,Jugovzhodna Slovenija,Dolenjske Toplice,09.02.2021,18.02.2021,10.02.2021,1002,2. star. obd.,6003,Sum na okužbo
 385,Osnovna šola Dolenjske Toplice,1152,"Osnovna šola Dolenjske Toplice, Vrtec Gumbek",2010,1010,Jugovzhodna Slovenija,Dolenjske Toplice,12.09.2020,19.09.2020,23.09.2020,1001,1. star. obd.,6003,Sum na okužbo
 385,Osnovna šola Dolenjske Toplice,1152,"Osnovna šola Dolenjske Toplice, Vrtec Gumbek",2010,1010,Jugovzhodna Slovenija,Dolenjske Toplice,12.09.2020,19.09.2020,23.09.2020,1001,1. star. obd.,6003,Sum na okužbo
 385,Osnovna šola Dolenjske Toplice,1152,"Osnovna šola Dolenjske Toplice, Vrtec Gumbek",2010,1010,Jugovzhodna Slovenija,Dolenjske Toplice,13.10.2020,23.10.2020,19.10.2020,1002,2. star. obd.,6003,Sum na okužbo
@@ -4933,6 +4985,7 @@ ZAVSIFMAT,ZAVMATNAZ,ZAVSIF,ZAVNAZ,KAT_MAT,KATEGORIJA,REGIJA,OBCINA,DAT_OD,DAT_DO
 385,Osnovna šola Dolenjske Toplice,385,Osnovna šola Dolenjske Toplice,2010,2010,Jugovzhodna Slovenija,Dolenjske Toplice,01.09.2020,06.09.2020,28.09.2020,1005,2. razred,6003,Sum na okužbo
 385,Osnovna šola Dolenjske Toplice,385,Osnovna šola Dolenjske Toplice,2010,2010,Jugovzhodna Slovenija,Dolenjske Toplice,01.09.2020,06.09.2020,28.09.2020,1008,5. razred,6003,Sum na okužbo
 385,Osnovna šola Dolenjske Toplice,385,Osnovna šola Dolenjske Toplice,2010,2010,Jugovzhodna Slovenija,Dolenjske Toplice,01.10.2020,12.10.2020,02.10.2020,1012,9. razred,6003,Sum na okužbo
+385,Osnovna šola Dolenjske Toplice,385,Osnovna šola Dolenjske Toplice,2010,2010,Jugovzhodna Slovenija,Dolenjske Toplice,09.02.2021,19.02.2021,09.02.2021,1006,3. razred,6003,Sum na okužbo
 385,Osnovna šola Dolenjske Toplice,385,Osnovna šola Dolenjske Toplice,2010,2010,Jugovzhodna Slovenija,Dolenjske Toplice,11.10.2020,19.10.2020,11.10.2020,1006,3. razred,6003,Sum na okužbo
 385,Osnovna šola Dolenjske Toplice,385,Osnovna šola Dolenjske Toplice,2010,2010,Jugovzhodna Slovenija,Dolenjske Toplice,11.10.2020,19.10.2020,11.10.2020,1008,5. razred,6003,Sum na okužbo
 385,Osnovna šola Dolenjske Toplice,385,Osnovna šola Dolenjske Toplice,2010,2010,Jugovzhodna Slovenija,Dolenjske Toplice,14.10.2020,24.10.2020,22.10.2020,1005,2. razred,6003,Sum na okužbo
@@ -5080,6 +5133,7 @@ ZAVSIFMAT,ZAVMATNAZ,ZAVSIF,ZAVNAZ,KAT_MAT,KATEGORIJA,REGIJA,OBCINA,DAT_OD,DAT_DO
 401,Osnovna šola Miroslava Vilharja Postojna,966,"Osnovna šola Miroslava Vilharja, Podružnična šola s prilagojenim uč.prog.",2010,2020,Primorsko-notranjska,Postojna,05.01.2021,14.01.2021,19.01.2021,1023,II. stopnja,6003,Sum na okužbo
 401,Osnovna šola Miroslava Vilharja Postojna,966,"Osnovna šola Miroslava Vilharja, Podružnična šola s prilagojenim uč.prog.",2010,2020,Primorsko-notranjska,Postojna,05.01.2021,14.01.2021,19.01.2021,1023,II. stopnja,6003,Sum na okužbo
 401,Osnovna šola Miroslava Vilharja Postojna,966,"Osnovna šola Miroslava Vilharja, Podružnična šola s prilagojenim uč.prog.",2010,2020,Primorsko-notranjska,Postojna,06.01.2021,15.01.2021,19.01.2021,1022,I. stopnja,6003,Sum na okužbo
+401,Osnovna šola Miroslava Vilharja Postojna,966,"Osnovna šola Miroslava Vilharja, Podružnična šola s prilagojenim uč.prog.",2010,2020,Primorsko-notranjska,Postojna,10.02.2021,20.02.2021,09.02.2021,1021,9. razred,6003,Sum na okužbo
 401,Osnovna šola Miroslava Vilharja Postojna,966,"Osnovna šola Miroslava Vilharja, Podružnična šola s prilagojenim uč.prog.",2010,2020,Primorsko-notranjska,Postojna,12.12.2020,21.12.2020,18.12.2020,1020,8. razred,6004,Okužba s Covid-19
 401,Osnovna šola Miroslava Vilharja Postojna,966,"Osnovna šola Miroslava Vilharja, Podružnična šola s prilagojenim uč.prog.",2010,2020,Primorsko-notranjska,Postojna,19.01.2021,28.01.2021,19.01.2021,1018,6. razred,6003,Sum na okužbo
 401,Osnovna šola Miroslava Vilharja Postojna,966,"Osnovna šola Miroslava Vilharja, Podružnična šola s prilagojenim uč.prog.",2010,2020,Primorsko-notranjska,Postojna,19.01.2021,28.01.2021,19.01.2021,1020,8. razred,6003,Sum na okužbo
@@ -5106,6 +5160,8 @@ ZAVSIFMAT,ZAVMATNAZ,ZAVSIF,ZAVNAZ,KAT_MAT,KATEGORIJA,REGIJA,OBCINA,DAT_OD,DAT_DO
 403,Glasbena šola Postojna,403,Glasbena šola Postojna,2030,2030,Primorsko-notranjska,Postojna,06.10.2020,16.10.2020,09.10.2020,1524,Violina,6007,Sum na okužbo
 403,Glasbena šola Postojna,403,Glasbena šola Postojna,2030,2030,Primorsko-notranjska,Postojna,07.10.2020,17.10.2020,09.10.2020,1520,Tolkala,6007,Sum na okužbo
 403,Glasbena šola Postojna,403,Glasbena šola Postojna,2030,2030,Primorsko-notranjska,Postojna,26.01.2021,03.02.2021,04.02.2021,1525,Violončelo,6008,Okužba s Covid-19
+405,Osnovna šola Pivka,3721,VRTEC PRI OŠ PIVKA,2010,1010,Primorsko-notranjska,Pivka,04.02.2021,14.02.2021,10.02.2021,1002,2. star. obd.,6004,Okužba s Covid-19
+405,Osnovna šola Pivka,3721,VRTEC PRI OŠ PIVKA,2010,1010,Primorsko-notranjska,Pivka,05.02.2021,15.02.2021,10.02.2021,1002,2. star. obd.,6004,Okužba s Covid-19
 405,Osnovna šola Pivka,3721,VRTEC PRI OŠ PIVKA,2010,1010,Primorsko-notranjska,Pivka,14.09.2020,28.09.2020,16.09.2020,1002,2. star. obd.,6003,Sum na okužbo
 405,Osnovna šola Pivka,405,Osnovna šola Pivka,2010,2010,Primorsko-notranjska,Pivka,01.02.2021,11.02.2021,03.02.2021,1004,1. razred,6003,Sum na okužbo
 405,Osnovna šola Pivka,405,Osnovna šola Pivka,2010,2010,Primorsko-notranjska,Pivka,01.02.2021,11.02.2021,03.02.2021,1005,2. razred,6003,Sum na okužbo
@@ -5364,6 +5420,7 @@ ZAVSIFMAT,ZAVMATNAZ,ZAVSIF,ZAVNAZ,KAT_MAT,KATEGORIJA,REGIJA,OBCINA,DAT_OD,DAT_DO
 434,Osnovna šola Gorje,434,Osnovna šola Gorje,2010,2010,Gorenjska,Gorje,23.09.2020,03.10.2020,23.09.2020,1007,4. razred,6003,Sum na okužbo
 434,Osnovna šola Gorje,434,Osnovna šola Gorje,2010,2010,Gorenjska,Gorje,23.09.2020,03.10.2020,23.09.2020,1010,7. razred,6003,Sum na okužbo
 434,Osnovna šola Gorje,434,Osnovna šola Gorje,2010,2010,Gorenjska,Gorje,23.09.2020,30.09.2020,23.09.2020,1008,5. razred,6004,Okužba s Covid-19
+435,Osnovna šola F. S. Finžgarja Lesce,435,Osnovna šola F. S. Finžgarja Lesce,2010,2010,Gorenjska,Radovljica,09.02.2021,19.02.2021,10.02.2021,1005,2. razred,6004,Okužba s Covid-19
 436,Osnovna šola prof. dr. Josipa Plemlja Bled,436,Osnovna šola prof. dr. Josipa Plemlja Bled,2010,2010,Gorenjska,Bled,07.10.2020,17.10.2020,09.10.2020,1011,8. razred,6004,Okužba s Covid-19
 436,Osnovna šola prof. dr. Josipa Plemlja Bled,436,Osnovna šola prof. dr. Josipa Plemlja Bled,2010,2010,Gorenjska,Bled,12.09.2020,19.09.2020,18.09.2020,1005,2. razred,6004,Okužba s Covid-19
 436,Osnovna šola prof. dr. Josipa Plemlja Bled,436,Osnovna šola prof. dr. Josipa Plemlja Bled,2010,2010,Gorenjska,Bled,27.10.2020,06.11.2020,27.10.2020,1004,1. razred,6004,Okužba s Covid-19
@@ -5561,9 +5618,15 @@ ZAVSIFMAT,ZAVMATNAZ,ZAVSIF,ZAVNAZ,KAT_MAT,KATEGORIJA,REGIJA,OBCINA,DAT_OD,DAT_DO
 458,Osnovna šola dr. Bogomirja Magajne Divača,803,"Osnovna šola dr. Bogomirja Magajne Divača, Podružnična šola Senožeče",2010,2010,Obalno-kraška,Divača,26.01.2021,29.01.2021,01.02.2021,1004,1. razred,6003,Sum na okužbo
 458,Osnovna šola dr. Bogomirja Magajne Divača,803,"Osnovna šola dr. Bogomirja Magajne Divača, Podružnična šola Senožeče",2010,2010,Obalno-kraška,Divača,26.01.2021,29.01.2021,01.02.2021,1005,2. razred,6018,Starši učenca niso poslali v šolo zaradi osebnih razlogov (nima opravičila zdravnika)
 458,Osnovna šola dr. Bogomirja Magajne Divača,804,"Osnovna šola dr. Bogomirja Magajne Divača, Podružnična šola Vreme",2010,2010,Obalno-kraška,Divača,29.01.2021,29.01.2021,01.02.2021,1004,1. razred,6003,Sum na okužbo
+459,Osnovna šola Dutovlje,459,Osnovna šola Dutovlje,2010,2010,Obalno-kraška,Sežana,09.02.2021,12.02.2021,10.02.2021,1006,3. razred,6003,Sum na okužbo
 459,Osnovna šola Dutovlje,459,Osnovna šola Dutovlje,2010,2010,Obalno-kraška,Sežana,26.01.2021,29.01.2021,27.01.2021,1004,1. razred,6018,Starši učenca niso poslali v šolo zaradi osebnih razlogov (nima opravičila zdravnika)
 459,Osnovna šola Dutovlje,459,Osnovna šola Dutovlje,2010,2010,Obalno-kraška,Sežana,26.01.2021,29.01.2021,27.01.2021,1005,2. razred,6003,Sum na okužbo
 459,Osnovna šola Dutovlje,459,Osnovna šola Dutovlje,2010,2010,Obalno-kraška,Sežana,26.01.2021,29.01.2021,27.01.2021,1006,3. razred,6003,Sum na okužbo
+459,Osnovna šola Dutovlje,807,Osnovna šola Dutovlje Podružnica Tomaj,2010,2010,Obalno-kraška,Sežana,09.02.2021,12.02.2021,10.02.2021,1004,1. razred,6003,Sum na okužbo
+459,Osnovna šola Dutovlje,807,Osnovna šola Dutovlje Podružnica Tomaj,2010,2010,Obalno-kraška,Sežana,09.02.2021,12.02.2021,10.02.2021,1004,1. razred,6003,Sum na okužbo
+459,Osnovna šola Dutovlje,807,Osnovna šola Dutovlje Podružnica Tomaj,2010,2010,Obalno-kraška,Sežana,09.02.2021,12.02.2021,10.02.2021,1005,2. razred,6003,Sum na okužbo
+459,Osnovna šola Dutovlje,807,Osnovna šola Dutovlje Podružnica Tomaj,2010,2010,Obalno-kraška,Sežana,09.02.2021,12.02.2021,10.02.2021,1006,3. razred,6003,Sum na okužbo
+459,Osnovna šola Dutovlje,807,Osnovna šola Dutovlje Podružnica Tomaj,2010,2010,Obalno-kraška,Sežana,09.02.2021,12.02.2021,10.02.2021,1006,3. razred,6003,Sum na okužbo
 459,Osnovna šola Dutovlje,807,Osnovna šola Dutovlje Podružnica Tomaj,2010,2010,Obalno-kraška,Sežana,26.01.2021,29.01.2021,27.01.2021,1004,1. razred,6003,Sum na okužbo
 459,Osnovna šola Dutovlje,807,Osnovna šola Dutovlje Podružnica Tomaj,2010,2010,Obalno-kraška,Sežana,26.01.2021,29.01.2021,27.01.2021,1005,2. razred,6018,Starši učenca niso poslali v šolo zaradi osebnih razlogov (nima opravičila zdravnika)
 459,Osnovna šola Dutovlje,807,Osnovna šola Dutovlje Podružnica Tomaj,2010,2010,Obalno-kraška,Sežana,26.01.2021,29.01.2021,27.01.2021,1006,3. razred,6003,Sum na okužbo
@@ -5746,10 +5809,9 @@ ZAVSIFMAT,ZAVMATNAZ,ZAVSIF,ZAVNAZ,KAT_MAT,KATEGORIJA,REGIJA,OBCINA,DAT_OD,DAT_DO
 480,Osnovna šola Franja Malgaja Šentjur,480,Osnovna šola Franja Malgaja Šentjur,2010,2010,Savinjska,Šentjur,30.09.2020,09.10.2020,05.10.2020,1012,9. razred,6004,Okužba s Covid-19
 481,Glasbena šola skladateljev Ipavcev Šentjur,481,Glasbena šola skladateljev Ipavcev Šentjur,2030,2030,Savinjska,Šentjur,18.09.2020,23.09.2020,21.09.2020,1520,Tolkala,6008,Okužba s Covid-19
 481,Glasbena šola skladateljev Ipavcev Šentjur,481,Glasbena šola skladateljev Ipavcev Šentjur,2030,2030,Savinjska,Šentjur,28.09.2020,08.10.2020,02.10.2020,1515,Petje,6008,Okužba s Covid-19
-482,Osnovna šola Slivnica pri Celju,482,Osnovna šola Slivnica pri Celju,2010,2010,Savinjska,Šentjur,01.02.2021,10.02.2021,01.02.2021,1004,1. razred,6003,Sum na okužbo
-482,Osnovna šola Slivnica pri Celju,482,Osnovna šola Slivnica pri Celju,2010,2010,Savinjska,Šentjur,27.01.2021,27.01.2021,27.01.2021,1006,3. razred,6018,Starši učenca niso poslali v šolo zaradi osebnih razlogov (nima opravičila zdravnika)
-482,Osnovna šola Slivnica pri Celju,825,"Osnovna šola Slivnica pri Celju, Podružnična šola Prevorje",2010,2010,Savinjska,Šentjur,01.02.2021,10.02.2021,01.02.2021,1005,2. razred,6003,Sum na okužbo
-482,Osnovna šola Slivnica pri Celju,825,"Osnovna šola Slivnica pri Celju, Podružnična šola Prevorje",2010,2010,Savinjska,Šentjur,01.02.2021,10.02.2021,01.02.2021,1005,2. razred,6003,Sum na okužbo
+482,Osnovna šola Slivnica pri Celju,482,Osnovna šola Slivnica pri Celju,2010,2010,Savinjska,Šentjur,30.01.2021,08.02.2021,10.02.2021,1004,1. razred,6003,Sum na okužbo
+482,Osnovna šola Slivnica pri Celju,825,"Osnovna šola Slivnica pri Celju, Podružnična šola Prevorje",2010,2010,Savinjska,Šentjur,30.01.2021,08.02.2021,10.02.2021,1005,2. razred,6003,Sum na okužbo
+482,Osnovna šola Slivnica pri Celju,825,"Osnovna šola Slivnica pri Celju, Podružnična šola Prevorje",2010,2010,Savinjska,Šentjur,30.01.2021,08.02.2021,10.02.2021,1005,2. razred,6003,Sum na okužbo
 483,Osnovna šola Ivana Groharja,483,Osnovna šola Ivana Groharja,2010,2010,Gorenjska,Škofja Loka,02.10.2020,10.10.2020,12.10.2020,1009,6. razred,6003,Sum na okužbo
 483,Osnovna šola Ivana Groharja,483,Osnovna šola Ivana Groharja,2010,2010,Gorenjska,Škofja Loka,05.10.2020,15.10.2020,06.10.2020,1009,6. razred,6004,Okužba s Covid-19
 483,Osnovna šola Ivana Groharja,483,Osnovna šola Ivana Groharja,2010,2010,Gorenjska,Škofja Loka,06.10.2020,12.10.2020,07.10.2020,1008,5. razred,6003,Sum na okužbo
@@ -6357,6 +6419,19 @@ ZAVSIFMAT,ZAVMATNAZ,ZAVSIF,ZAVNAZ,KAT_MAT,KATEGORIJA,REGIJA,OBCINA,DAT_OD,DAT_DO
 527,Osnovna šola Gustava Šiliha Velenje,859,"Osnovna šola Gustava Šiliha Velenje, Podružnična šola Šentilj",2010,2010,Savinjska,Velenje,04.02.2021,05.02.2021,08.02.2021,1006,3. razred,6018,Starši učenca niso poslali v šolo zaradi osebnih razlogov (nima opravičila zdravnika)
 527,Osnovna šola Gustava Šiliha Velenje,859,"Osnovna šola Gustava Šiliha Velenje, Podružnična šola Šentilj",2010,2010,Savinjska,Velenje,04.02.2021,05.02.2021,08.02.2021,1006,3. razred,6018,Starši učenca niso poslali v šolo zaradi osebnih razlogov (nima opravičila zdravnika)
 527,Osnovna šola Gustava Šiliha Velenje,859,"Osnovna šola Gustava Šiliha Velenje, Podružnična šola Šentilj",2010,2010,Savinjska,Velenje,04.02.2021,05.02.2021,08.02.2021,1006,3. razred,6018,Starši učenca niso poslali v šolo zaradi osebnih razlogov (nima opravičila zdravnika)
+527,Osnovna šola Gustava Šiliha Velenje,859,"Osnovna šola Gustava Šiliha Velenje, Podružnična šola Šentilj",2010,2010,Savinjska,Velenje,09.02.2021,10.02.2021,09.02.2021,1004,1. razred,6018,Starši učenca niso poslali v šolo zaradi osebnih razlogov (nima opravičila zdravnika)
+527,Osnovna šola Gustava Šiliha Velenje,859,"Osnovna šola Gustava Šiliha Velenje, Podružnična šola Šentilj",2010,2010,Savinjska,Velenje,09.02.2021,10.02.2021,09.02.2021,1005,2. razred,6018,Starši učenca niso poslali v šolo zaradi osebnih razlogov (nima opravičila zdravnika)
+527,Osnovna šola Gustava Šiliha Velenje,859,"Osnovna šola Gustava Šiliha Velenje, Podružnična šola Šentilj",2010,2010,Savinjska,Velenje,09.02.2021,10.02.2021,09.02.2021,1005,2. razred,6018,Starši učenca niso poslali v šolo zaradi osebnih razlogov (nima opravičila zdravnika)
+527,Osnovna šola Gustava Šiliha Velenje,859,"Osnovna šola Gustava Šiliha Velenje, Podružnična šola Šentilj",2010,2010,Savinjska,Velenje,09.02.2021,10.02.2021,09.02.2021,1005,2. razred,6018,Starši učenca niso poslali v šolo zaradi osebnih razlogov (nima opravičila zdravnika)
+527,Osnovna šola Gustava Šiliha Velenje,859,"Osnovna šola Gustava Šiliha Velenje, Podružnična šola Šentilj",2010,2010,Savinjska,Velenje,09.02.2021,10.02.2021,09.02.2021,1005,2. razred,6018,Starši učenca niso poslali v šolo zaradi osebnih razlogov (nima opravičila zdravnika)
+527,Osnovna šola Gustava Šiliha Velenje,859,"Osnovna šola Gustava Šiliha Velenje, Podružnična šola Šentilj",2010,2010,Savinjska,Velenje,09.02.2021,10.02.2021,09.02.2021,1005,2. razred,6018,Starši učenca niso poslali v šolo zaradi osebnih razlogov (nima opravičila zdravnika)
+527,Osnovna šola Gustava Šiliha Velenje,859,"Osnovna šola Gustava Šiliha Velenje, Podružnična šola Šentilj",2010,2010,Savinjska,Velenje,09.02.2021,10.02.2021,09.02.2021,1006,3. razred,6018,Starši učenca niso poslali v šolo zaradi osebnih razlogov (nima opravičila zdravnika)
+527,Osnovna šola Gustava Šiliha Velenje,859,"Osnovna šola Gustava Šiliha Velenje, Podružnična šola Šentilj",2010,2010,Savinjska,Velenje,09.02.2021,10.02.2021,09.02.2021,1006,3. razred,6018,Starši učenca niso poslali v šolo zaradi osebnih razlogov (nima opravičila zdravnika)
+527,Osnovna šola Gustava Šiliha Velenje,859,"Osnovna šola Gustava Šiliha Velenje, Podružnična šola Šentilj",2010,2010,Savinjska,Velenje,09.02.2021,12.02.2021,09.02.2021,1004,1. razred,6018,Starši učenca niso poslali v šolo zaradi osebnih razlogov (nima opravičila zdravnika)
+527,Osnovna šola Gustava Šiliha Velenje,859,"Osnovna šola Gustava Šiliha Velenje, Podružnična šola Šentilj",2010,2010,Savinjska,Velenje,09.02.2021,12.02.2021,09.02.2021,1004,1. razred,6018,Starši učenca niso poslali v šolo zaradi osebnih razlogov (nima opravičila zdravnika)
+527,Osnovna šola Gustava Šiliha Velenje,859,"Osnovna šola Gustava Šiliha Velenje, Podružnična šola Šentilj",2010,2010,Savinjska,Velenje,09.02.2021,12.02.2021,09.02.2021,1004,1. razred,6003,Sum na okužbo
+527,Osnovna šola Gustava Šiliha Velenje,859,"Osnovna šola Gustava Šiliha Velenje, Podružnična šola Šentilj",2010,2010,Savinjska,Velenje,09.02.2021,12.02.2021,09.02.2021,1006,3. razred,6018,Starši učenca niso poslali v šolo zaradi osebnih razlogov (nima opravičila zdravnika)
+527,Osnovna šola Gustava Šiliha Velenje,859,"Osnovna šola Gustava Šiliha Velenje, Podružnična šola Šentilj",2010,2010,Savinjska,Velenje,09.02.2021,12.02.2021,09.02.2021,1006,3. razred,6018,Starši učenca niso poslali v šolo zaradi osebnih razlogov (nima opravičila zdravnika)
 527,Osnovna šola Gustava Šiliha Velenje,859,"Osnovna šola Gustava Šiliha Velenje, Podružnična šola Šentilj",2010,2010,Savinjska,Velenje,26.01.2021,01.03.2021,02.02.2021,1006,3. razred,6018,Starši učenca niso poslali v šolo zaradi osebnih razlogov (nima opravičila zdravnika)
 527,Osnovna šola Gustava Šiliha Velenje,859,"Osnovna šola Gustava Šiliha Velenje, Podružnična šola Šentilj",2010,2010,Savinjska,Velenje,26.01.2021,02.02.2021,02.02.2021,1005,2. razred,6003,Sum na okužbo
 527,Osnovna šola Gustava Šiliha Velenje,859,"Osnovna šola Gustava Šiliha Velenje, Podružnična šola Šentilj",2010,2010,Savinjska,Velenje,26.01.2021,05.02.2021,02.02.2021,1004,1. razred,6003,Sum na okužbo
@@ -6434,6 +6509,26 @@ ZAVSIFMAT,ZAVMATNAZ,ZAVSIF,ZAVNAZ,KAT_MAT,KATEGORIJA,REGIJA,OBCINA,DAT_OD,DAT_DO
 535,Osnovna šola dr. Ivana Korošca Borovnica,10087,"Osnovna šola dr. Ivana Korošca Borovnica, Enota Vrtec",2010,1010,Osrednjeslovenska,Borovnica,09.10.2020,18.10.2020,13.10.2020,1002,2. star. obd.,6003,Sum na okužbo
 535,Osnovna šola dr. Ivana Korošca Borovnica,10087,"Osnovna šola dr. Ivana Korošca Borovnica, Enota Vrtec",2010,1010,Osrednjeslovenska,Borovnica,09.10.2020,18.10.2020,13.10.2020,1002,2. star. obd.,6003,Sum na okužbo
 535,Osnovna šola dr. Ivana Korošca Borovnica,10087,"Osnovna šola dr. Ivana Korošca Borovnica, Enota Vrtec",2010,1010,Osrednjeslovenska,Borovnica,09.10.2020,18.10.2020,13.10.2020,1002,2. star. obd.,6003,Sum na okužbo
+535,Osnovna šola dr. Ivana Korošca Borovnica,535,Osnovna šola dr. Ivana Korošca Borovnica,2010,2010,Osrednjeslovenska,Borovnica,04.02.2021,13.02.2021,09.02.2021,1006,3. razred,6004,Okužba s Covid-19
+535,Osnovna šola dr. Ivana Korošca Borovnica,535,Osnovna šola dr. Ivana Korošca Borovnica,2010,2010,Osrednjeslovenska,Borovnica,04.02.2021,13.02.2021,09.02.2021,1006,3. razred,6003,Sum na okužbo
+535,Osnovna šola dr. Ivana Korošca Borovnica,535,Osnovna šola dr. Ivana Korošca Borovnica,2010,2010,Osrednjeslovenska,Borovnica,04.02.2021,13.02.2021,09.02.2021,1006,3. razred,6003,Sum na okužbo
+535,Osnovna šola dr. Ivana Korošca Borovnica,535,Osnovna šola dr. Ivana Korošca Borovnica,2010,2010,Osrednjeslovenska,Borovnica,04.02.2021,13.02.2021,09.02.2021,1006,3. razred,6003,Sum na okužbo
+535,Osnovna šola dr. Ivana Korošca Borovnica,535,Osnovna šola dr. Ivana Korošca Borovnica,2010,2010,Osrednjeslovenska,Borovnica,04.02.2021,13.02.2021,09.02.2021,1006,3. razred,6004,Okužba s Covid-19
+535,Osnovna šola dr. Ivana Korošca Borovnica,535,Osnovna šola dr. Ivana Korošca Borovnica,2010,2010,Osrednjeslovenska,Borovnica,04.02.2021,13.02.2021,09.02.2021,1006,3. razred,6003,Sum na okužbo
+535,Osnovna šola dr. Ivana Korošca Borovnica,535,Osnovna šola dr. Ivana Korošca Borovnica,2010,2010,Osrednjeslovenska,Borovnica,04.02.2021,13.02.2021,09.02.2021,1006,3. razred,6003,Sum na okužbo
+535,Osnovna šola dr. Ivana Korošca Borovnica,535,Osnovna šola dr. Ivana Korošca Borovnica,2010,2010,Osrednjeslovenska,Borovnica,04.02.2021,13.02.2021,09.02.2021,1006,3. razred,6003,Sum na okužbo
+535,Osnovna šola dr. Ivana Korošca Borovnica,535,Osnovna šola dr. Ivana Korošca Borovnica,2010,2010,Osrednjeslovenska,Borovnica,04.02.2021,13.02.2021,09.02.2021,1006,3. razred,6003,Sum na okužbo
+535,Osnovna šola dr. Ivana Korošca Borovnica,535,Osnovna šola dr. Ivana Korošca Borovnica,2010,2010,Osrednjeslovenska,Borovnica,04.02.2021,13.02.2021,09.02.2021,1006,3. razred,6003,Sum na okužbo
+535,Osnovna šola dr. Ivana Korošca Borovnica,535,Osnovna šola dr. Ivana Korošca Borovnica,2010,2010,Osrednjeslovenska,Borovnica,04.02.2021,13.02.2021,09.02.2021,1006,3. razred,6003,Sum na okužbo
+535,Osnovna šola dr. Ivana Korošca Borovnica,535,Osnovna šola dr. Ivana Korošca Borovnica,2010,2010,Osrednjeslovenska,Borovnica,04.02.2021,13.02.2021,09.02.2021,1006,3. razred,6003,Sum na okužbo
+535,Osnovna šola dr. Ivana Korošca Borovnica,535,Osnovna šola dr. Ivana Korošca Borovnica,2010,2010,Osrednjeslovenska,Borovnica,04.02.2021,13.02.2021,09.02.2021,1006,3. razred,6003,Sum na okužbo
+535,Osnovna šola dr. Ivana Korošca Borovnica,535,Osnovna šola dr. Ivana Korošca Borovnica,2010,2010,Osrednjeslovenska,Borovnica,04.02.2021,13.02.2021,09.02.2021,1006,3. razred,6003,Sum na okužbo
+535,Osnovna šola dr. Ivana Korošca Borovnica,535,Osnovna šola dr. Ivana Korošca Borovnica,2010,2010,Osrednjeslovenska,Borovnica,04.02.2021,13.02.2021,09.02.2021,1006,3. razred,6003,Sum na okužbo
+535,Osnovna šola dr. Ivana Korošca Borovnica,535,Osnovna šola dr. Ivana Korošca Borovnica,2010,2010,Osrednjeslovenska,Borovnica,04.02.2021,13.02.2021,09.02.2021,1006,3. razred,6003,Sum na okužbo
+535,Osnovna šola dr. Ivana Korošca Borovnica,535,Osnovna šola dr. Ivana Korošca Borovnica,2010,2010,Osrednjeslovenska,Borovnica,04.02.2021,13.02.2021,09.02.2021,1006,3. razred,6003,Sum na okužbo
+535,Osnovna šola dr. Ivana Korošca Borovnica,535,Osnovna šola dr. Ivana Korošca Borovnica,2010,2010,Osrednjeslovenska,Borovnica,04.02.2021,13.02.2021,09.02.2021,1006,3. razred,6003,Sum na okužbo
+535,Osnovna šola dr. Ivana Korošca Borovnica,535,Osnovna šola dr. Ivana Korošca Borovnica,2010,2010,Osrednjeslovenska,Borovnica,04.02.2021,13.02.2021,09.02.2021,1006,3. razred,6003,Sum na okužbo
+535,Osnovna šola dr. Ivana Korošca Borovnica,535,Osnovna šola dr. Ivana Korošca Borovnica,2010,2010,Osrednjeslovenska,Borovnica,04.02.2021,13.02.2021,09.02.2021,1006,3. razred,6003,Sum na okužbo
 535,Osnovna šola dr. Ivana Korošca Borovnica,535,Osnovna šola dr. Ivana Korošca Borovnica,2010,2010,Osrednjeslovenska,Borovnica,06.10.2020,15.10.2020,08.10.2020,1006,3. razred,6003,Sum na okužbo
 535,Osnovna šola dr. Ivana Korošca Borovnica,535,Osnovna šola dr. Ivana Korošca Borovnica,2010,2010,Osrednjeslovenska,Borovnica,06.10.2020,15.10.2020,08.10.2020,1006,3. razred,6003,Sum na okužbo
 535,Osnovna šola dr. Ivana Korošca Borovnica,535,Osnovna šola dr. Ivana Korošca Borovnica,2010,2010,Osrednjeslovenska,Borovnica,06.10.2020,15.10.2020,08.10.2020,1006,3. razred,6004,Okužba s Covid-19
@@ -6904,6 +6999,7 @@ ZAVSIFMAT,ZAVMATNAZ,ZAVSIF,ZAVNAZ,KAT_MAT,KATEGORIJA,REGIJA,OBCINA,DAT_OD,DAT_DO
 590,Osnovna šola Selnica ob Dravi,590,Osnovna šola Selnica ob Dravi,2010,2010,Podravska,Selnica ob Dravi,03.10.2020,06.10.2020,05.10.2020,1005,2. razred,6003,Sum na okužbo
 590,Osnovna šola Selnica ob Dravi,590,Osnovna šola Selnica ob Dravi,2010,2010,Podravska,Selnica ob Dravi,03.10.2020,06.10.2020,05.10.2020,1009,6. razred,6003,Sum na okužbo
 590,Osnovna šola Selnica ob Dravi,590,Osnovna šola Selnica ob Dravi,2010,2010,Podravska,Selnica ob Dravi,05.10.2020,09.10.2020,05.10.2020,1006,3. razred,6003,Sum na okužbo
+590,Osnovna šola Selnica ob Dravi,590,Osnovna šola Selnica ob Dravi,2010,2010,Podravska,Selnica ob Dravi,09.02.2021,18.02.2021,09.02.2021,1006,3. razred,6003,Sum na okužbo
 590,Osnovna šola Selnica ob Dravi,590,Osnovna šola Selnica ob Dravi,2010,2010,Podravska,Selnica ob Dravi,10.09.2020,19.09.2020,14.09.2020,1012,9. razred,6003,Sum na okužbo
 590,Osnovna šola Selnica ob Dravi,590,Osnovna šola Selnica ob Dravi,2010,2010,Podravska,Selnica ob Dravi,10.10.2020,24.10.2020,14.10.2020,1006,3. razred,6004,Okužba s Covid-19
 590,Osnovna šola Selnica ob Dravi,590,Osnovna šola Selnica ob Dravi,2010,2010,Podravska,Selnica ob Dravi,12.10.2020,21.10.2020,12.10.2020,1006,3. razred,6004,Okužba s Covid-19
@@ -7046,9 +7142,9 @@ ZAVSIFMAT,ZAVMATNAZ,ZAVSIF,ZAVNAZ,KAT_MAT,KATEGORIJA,REGIJA,OBCINA,DAT_OD,DAT_DO
 600,Osnovna šola Dragotina Ketteja Ilirska Bistrica,600,Osnovna šola Dragotina Ketteja Ilirska Bistrica,2010,2010,Primorsko-notranjska,Ilirska Bistrica,19.09.2020,29.09.2020,21.09.2020,1010,7. razred,6003,Sum na okužbo
 600,Osnovna šola Dragotina Ketteja Ilirska Bistrica,600,Osnovna šola Dragotina Ketteja Ilirska Bistrica,2010,2010,Primorsko-notranjska,Ilirska Bistrica,21.01.2021,01.02.2021,01.02.2021,1004,1. razred,6003,Sum na okužbo
 600,Osnovna šola Dragotina Ketteja Ilirska Bistrica,600,Osnovna šola Dragotina Ketteja Ilirska Bistrica,2010,2010,Primorsko-notranjska,Ilirska Bistrica,21.09.2020,30.09.2020,22.09.2020,1007,4. razred,6003,Sum na okužbo
+600,Osnovna šola Dragotina Ketteja Ilirska Bistrica,600,Osnovna šola Dragotina Ketteja Ilirska Bistrica,2010,2010,Primorsko-notranjska,Ilirska Bistrica,25.01.2021,09.02.2021,10.02.2021,1004,1. razred,6018,Starši učenca niso poslali v šolo zaradi osebnih razlogov (nima opravičila zdravnika)
 600,Osnovna šola Dragotina Ketteja Ilirska Bistrica,600,Osnovna šola Dragotina Ketteja Ilirska Bistrica,2010,2010,Primorsko-notranjska,Ilirska Bistrica,25.01.2021,19.02.2021,01.02.2021,1005,2. razred,6018,Starši učenca niso poslali v šolo zaradi osebnih razlogov (nima opravičila zdravnika)
 600,Osnovna šola Dragotina Ketteja Ilirska Bistrica,600,Osnovna šola Dragotina Ketteja Ilirska Bistrica,2010,2010,Primorsko-notranjska,Ilirska Bistrica,25.01.2021,19.02.2021,01.02.2021,1006,3. razred,6018,Starši učenca niso poslali v šolo zaradi osebnih razlogov (nima opravičila zdravnika)
-600,Osnovna šola Dragotina Ketteja Ilirska Bistrica,600,Osnovna šola Dragotina Ketteja Ilirska Bistrica,2010,2010,Primorsko-notranjska,Ilirska Bistrica,25.01.2021,19.02.2021,02.02.2021,1004,1. razred,6018,Starši učenca niso poslali v šolo zaradi osebnih razlogov (nima opravičila zdravnika)
 602,Osnovna šola Stična,1215,"Osnovna šola Stična, Podružnična šola Stična",2010,2010,Osrednjeslovenska,Ivančna Gorica,24.01.2021,03.02.2021,01.02.2021,1005,2. razred,6003,Sum na okužbo
 602,Osnovna šola Stična,1215,"Osnovna šola Stična, Podružnična šola Stična",2010,2010,Osrednjeslovenska,Ivančna Gorica,24.01.2021,03.02.2021,01.02.2021,1006,3. razred,6003,Sum na okužbo
 602,Osnovna šola Stična,602,Osnovna šola Stična,2010,2010,Osrednjeslovenska,Ivančna Gorica,04.10.2020,14.10.2020,07.10.2020,1011,8. razred,6004,Okužba s Covid-19
@@ -7097,6 +7193,7 @@ ZAVSIFMAT,ZAVMATNAZ,ZAVSIF,ZAVNAZ,KAT_MAT,KATEGORIJA,REGIJA,OBCINA,DAT_OD,DAT_DO
 607,Osnovna šola Ob Dravinji Slovenske Konjice,607,Osnovna šola Ob Dravinji Slovenske Konjice,2010,2010,Savinjska,Slovenske Konjice,15.10.2020,25.10.2020,23.10.2020,1008,5. razred,6003,Sum na okužbo
 607,Osnovna šola Ob Dravinji Slovenske Konjice,607,Osnovna šola Ob Dravinji Slovenske Konjice,2010,2010,Savinjska,Slovenske Konjice,25.11.2020,05.12.2020,25.11.2020,1008,5. razred,6004,Okužba s Covid-19
 607,Osnovna šola Ob Dravinji Slovenske Konjice,607,Osnovna šola Ob Dravinji Slovenske Konjice,2010,2010,Savinjska,Slovenske Konjice,25.11.2020,05.12.2020,25.11.2020,1008,5. razred,6004,Okužba s Covid-19
+608,Osnovna šola Pod goro Slovenske Konjice,10949,Osnovna šola Pod goro Slovenske Konjice Enota s prilagojenim učnim programom,2010,2020,Savinjska,Slovenske Konjice,09.02.2021,19.02.2021,09.02.2021,1022,I. stopnja,6004,Okužba s Covid-19
 608,Osnovna šola Pod goro Slovenske Konjice,10949,Osnovna šola Pod goro Slovenske Konjice Enota s prilagojenim učnim programom,2010,2020,Savinjska,Slovenske Konjice,12.10.2020,22.10.2020,13.10.2020,1022,I. stopnja,6003,Sum na okužbo
 608,Osnovna šola Pod goro Slovenske Konjice,608,Osnovna šola Pod goro Slovenske Konjice,2010,2010,Savinjska,Slovenske Konjice,05.10.2020,15.10.2020,07.10.2020,1009,6. razred,6004,Okužba s Covid-19
 608,Osnovna šola Pod goro Slovenske Konjice,608,Osnovna šola Pod goro Slovenske Konjice,2010,2010,Savinjska,Slovenske Konjice,13.10.2020,18.10.2020,13.10.2020,1012,9. razred,6003,Sum na okužbo
