@@ -323,8 +323,11 @@ ZAVSIFMAT,ZAVMATNAZ,ZAVSIF,ZAVNAZ,KAT_MAT,KATEGORIJA,REGIJA,OBCINA,DAT_OD,DAT_DO
 1059,Vrtec Postojna,20315,"Vrtec Postojna, Enota Pastirček",1010,1010,Primorsko-notranjska,Postojna,27.11.2020,05.12.2020,02.12.2020,1001,1. star. obd.,6002,Okužba s Covid-19
 1059,Vrtec Postojna,20315,"Vrtec Postojna, Enota Pastirček",1010,1010,Primorsko-notranjska,Postojna,27.11.2020,05.12.2020,02.12.2020,1001,1. star. obd.,6002,Okužba s Covid-19
 1061,VRTEC DRAVOGRAD,14349,"VRTEC DRAVOGRAD, VRTEC ROBINDVOR",1010,1010,Koroška,Dravograd,16.11.2020,19.11.2020,16.11.2020,1003,Komb. 1. in 2. star. obd.,6002,Okužba s Covid-19
+1061,VRTEC DRAVOGRAD,14350,"VRTEC DRAVOGRAD, VRTEC ŠENTJANŽ",1010,1010,Koroška,Dravograd,09.02.2021,19.02.2020,26.02.2021,1002,2. star. obd.,6002,Okužba s Covid-19
+1061,VRTEC DRAVOGRAD,14350,"VRTEC DRAVOGRAD, VRTEC ŠENTJANŽ",1010,1010,Koroška,Dravograd,15.02.2021,24.02.2021,26.02.2021,1001,1. star. obd.,6001,Sum na okužbo
 1061,VRTEC DRAVOGRAD,14350,"VRTEC DRAVOGRAD, VRTEC ŠENTJANŽ",1010,1010,Koroška,Dravograd,16.02.2021,25.02.2021,19.02.2021,1001,1. star. obd.,6002,Okužba s Covid-19
 1061,VRTEC DRAVOGRAD,14729,"VRTEC DRAVOGRAD, VRTEC DRAVOGRAD, ENOTA DRAVOGRAD",1010,1010,Koroška,Dravograd,06.02.2021,13.02.2021,09.02.2021,1002,2. star. obd.,6002,Okužba s Covid-19
+1061,VRTEC DRAVOGRAD,14729,"VRTEC DRAVOGRAD, VRTEC DRAVOGRAD, ENOTA DRAVOGRAD",1010,1010,Koroška,Dravograd,22.02.2021,03.03.2021,26.02.2021,1001,1. star. obd.,6001,Sum na okužbo
 1063,Vrtec Mavrica Brežice,1063,Vrtec Mavrica Brežice,1010,1010,Posavska,Brežice,04.09.2020,18.09.2020,14.09.2020,1002,2. star. obd.,6001,Sum na okužbo
 1064,VIZ VRTEC MAVRICA IZOLA,11550,VIZ VRTEC MAVRICA IZOLA ENOTA LIVADE,1010,1010,Obalno-kraška,Izola,17.12.2020,26.12.2020,21.12.2020,1001,1. star. obd.,6001,Sum na okužbo
 1065,Vrtec Koper,11309,"Vrtec Koper, Enota Ribica",1010,1010,Obalno-kraška,Koper,08.10.2020,18.10.2020,08.10.2020,1001,1. star. obd.,6001,Sum na okužbo
@@ -943,6 +946,7 @@ ZAVSIFMAT,ZAVMATNAZ,ZAVSIF,ZAVNAZ,KAT_MAT,KATEGORIJA,REGIJA,OBCINA,DAT_OD,DAT_DO
 1100,Vrtec Murska Sobota,18996,"Vrtec Murska Sobota, enota GOZDIČEK",1010,1010,Pomurska,Murska Sobota,01.02.2021,08.02.2021,01.02.2021,1003,Komb. 1. in 2. star. obd.,6002,Okužba s Covid-19
 1100,Vrtec Murska Sobota,18996,"Vrtec Murska Sobota, enota GOZDIČEK",1010,1010,Pomurska,Murska Sobota,12.02.2021,22.02.2021,13.02.2021,1001,1. star. obd.,6002,Okužba s Covid-19
 1100,Vrtec Murska Sobota,18996,"Vrtec Murska Sobota, enota GOZDIČEK",1010,1010,Pomurska,Murska Sobota,16.02.2021,26.02.2021,16.02.2021,1001,1. star. obd.,6002,Okužba s Covid-19
+1101,Vrtec Mornarček Piran,1101,Vrtec Mornarček Piran,1010,1010,Obalno-kraška,Piran,26.02.2021,04.03.2021,26.02.2021,1002,2. star. obd.,6001,Sum na okužbo
 1102,JVIZ VRTCI OBČINE ŽALEC,11571,"JVIZ VRTCI OBČINE ŽALEC, ENOTA ŽALEC III.",1010,1010,Savinjska,Žalec,11.01.2021,21.01.2021,13.01.2021,1003,Komb. 1. in 2. star. obd.,6001,Sum na okužbo
 1102,JVIZ VRTCI OBČINE ŽALEC,11571,"JVIZ VRTCI OBČINE ŽALEC, ENOTA ŽALEC III.",1010,1010,Savinjska,Žalec,12.11.2020,15.11.2020,12.11.2020,1003,Komb. 1. in 2. star. obd.,6001,Sum na okužbo
 1102,JVIZ VRTCI OBČINE ŽALEC,11575,"JVIZ VRTCI OBČINE ŽALEC, ENOTA PETROVČE",1010,1010,Savinjska,Žalec,11.01.2021,21.01.2021,13.01.2021,1003,Komb. 1. in 2. star. obd.,6001,Sum na okužbo
@@ -1681,6 +1685,7 @@ ZAVSIFMAT,ZAVMATNAZ,ZAVSIF,ZAVNAZ,KAT_MAT,KATEGORIJA,REGIJA,OBCINA,DAT_OD,DAT_DO
 1255,Srednja gostinska in turistična šola Radovljica,1255,Srednja gostinska in turistična šola Radovljica,3010,3010,Gorenjska,Radovljica,21.09.2020,30.09.2020,21.09.2020,1031,4. letnik,6009,Sum na okužbo
 1255,Srednja gostinska in turistična šola Radovljica,1255,Srednja gostinska in turistična šola Radovljica,3010,3010,Gorenjska,Radovljica,28.09.2020,04.10.2020,28.09.2020,1029,2. letnik,6009,Sum na okužbo
 1255,Srednja gostinska in turistična šola Radovljica,1255,Srednja gostinska in turistična šola Radovljica,3010,3010,Gorenjska,Radovljica,30.09.2020,09.10.2020,05.10.2020,1029,2. letnik,6009,Sum na okužbo
+1256,Ekonomska gimnazija in srednja šola Radovljica,1256,Ekonomska gimnazija in srednja šola Radovljica,3010,3010,Gorenjska,Radovljica,16.02.2021,03.03.2021,26.02.2021,1030,3. letnik,6009,Sum na okužbo
 1256,Ekonomska gimnazija in srednja šola Radovljica,1256,Ekonomska gimnazija in srednja šola Radovljica,3010,3010,Gorenjska,Radovljica,16.02.2021,18.02.2021,17.02.2021,1031,4. letnik,6009,Sum na okužbo
 1256,Ekonomska gimnazija in srednja šola Radovljica,1256,Ekonomska gimnazija in srednja šola Radovljica,3010,3010,Gorenjska,Radovljica,16.09.2020,19.02.2021,19.02.2021,1031,4. letnik,6009,Sum na okužbo
 1259,Osnovna šola Šmartno v Tuhinju,1259,Osnovna šola Šmartno v Tuhinju,2010,2010,Osrednjeslovenska,Kamnik,01.10.2020,10.10.2020,07.10.2020,1012,9. razred,6003,Sum na okužbo
@@ -1756,6 +1761,7 @@ ZAVSIFMAT,ZAVMATNAZ,ZAVSIF,ZAVNAZ,KAT_MAT,KATEGORIJA,REGIJA,OBCINA,DAT_OD,DAT_DO
 1286,Gimnazija Litija,1286,Gimnazija Litija,3010,3010,Zasavska,Litija,01.10.2020,11.10.2020,02.10.2020,1031,4. letnik,6009,Sum na okužbo
 1286,Gimnazija Litija,1286,Gimnazija Litija,3010,3010,Zasavska,Litija,05.10.2020,08.10.2020,05.10.2020,1030,3. letnik,6009,Sum na okužbo
 1286,Gimnazija Litija,1286,Gimnazija Litija,3010,3010,Zasavska,Litija,15.09.2020,18.09.2020,21.09.2020,1031,4. letnik,6009,Sum na okužbo
+1286,Gimnazija Litija,1286,Gimnazija Litija,3010,3010,Zasavska,Litija,25.02.2021,04.03.2021,26.02.2021,1031,4. letnik,6009,Sum na okužbo
 1286,Gimnazija Litija,1286,Gimnazija Litija,3010,3010,Zasavska,Litija,25.09.2020,05.10.2020,25.09.2020,1028,1. letnik,6009,Sum na okužbo
 1286,Gimnazija Litija,1286,Gimnazija Litija,3010,3010,Zasavska,Litija,28.09.2020,08.10.2020,02.10.2020,1030,3. letnik,6009,Sum na okužbo
 1286,Gimnazija Litija,1286,Gimnazija Litija,3010,3010,Zasavska,Litija,28.09.2020,08.10.2020,28.09.2020,1030,3. letnik,6010,Okužba s Covid-19
@@ -2160,11 +2166,16 @@ ZAVSIFMAT,ZAVMATNAZ,ZAVSIF,ZAVNAZ,KAT_MAT,KATEGORIJA,REGIJA,OBCINA,DAT_OD,DAT_DO
 1370,Osnovna šola Orehek Kranj,1371,"Osnovna šola Orehek Kranj, Podružnična šola Mavčiče",2010,2010,Gorenjska,Kranj,28.10.2020,04.11.2020,30.10.2020,1004,1. razred,6004,Okužba s Covid-19
 1374,Osnovna šola Nazarje,1374,Osnovna šola Nazarje,2010,2010,Savinjska,Nazarje,02.02.2021,05.02.2021,04.02.2021,1004,1. razred,6003,Sum na okužbo
 1374,Osnovna šola Nazarje,1374,Osnovna šola Nazarje,2010,2010,Savinjska,Nazarje,22.02.2021,03.03.2021,25.02.2021,1004,1. razred,6003,Sum na okužbo
-1374,Osnovna šola Nazarje,1374,Osnovna šola Nazarje,2010,2010,Savinjska,Nazarje,22.02.2021,03.03.2021,25.02.2021,1007,4. razred,6003,Sum na okužbo
-1374,Osnovna šola Nazarje,1374,Osnovna šola Nazarje,2010,2010,Savinjska,Nazarje,23.02.2021,03.03.2021,25.02.2021,1004,1. razred,6003,Sum na okužbo
+1374,Osnovna šola Nazarje,1374,Osnovna šola Nazarje,2010,2010,Savinjska,Nazarje,22.02.2021,03.03.2021,26.02.2021,1007,4. razred,6003,Sum na okužbo
+1374,Osnovna šola Nazarje,1374,Osnovna šola Nazarje,2010,2010,Savinjska,Nazarje,23.02.2021,03.03.2021,26.02.2021,1004,1. razred,6004,Okužba s Covid-19
 1374,Osnovna šola Nazarje,1374,Osnovna šola Nazarje,2010,2010,Savinjska,Nazarje,24.02.2021,26.02.2021,25.02.2021,1010,7. razred,6003,Sum na okužbo
+1374,Osnovna šola Nazarje,1374,Osnovna šola Nazarje,2010,2010,Savinjska,Nazarje,25.02.2021,05.03.2021,26.02.2021,1008,5. razred,6004,Okužba s Covid-19
+1374,Osnovna šola Nazarje,1374,Osnovna šola Nazarje,2010,2010,Savinjska,Nazarje,26.02.2021,26.02.2021,26.02.2021,1005,2. razred,6003,Sum na okužbo
 1374,Osnovna šola Nazarje,1374,Osnovna šola Nazarje,2010,2010,Savinjska,Nazarje,28.01.2021,29.01.2021,01.02.2021,1005,2. razred,6003,Sum na okužbo
-1374,Osnovna šola Nazarje,1375,Osnovna šola Nazarje Podružnica Šmartno ob Dreti,2010,2010,Savinjska,Nazarje,23.02.2021,23.02.2021,22.02.2021,1006,3. razred,6003,Sum na okužbo
+1374,Osnovna šola Nazarje,1375,Osnovna šola Nazarje Podružnica Šmartno ob Dreti,2010,2010,Savinjska,Nazarje,23.02.2021,04.03.2021,26.02.2021,1006,3. razred,6003,Sum na okužbo
+1374,Osnovna šola Nazarje,9599,VVE pri OŠ Nazarje,2010,1010,Savinjska,Nazarje,24.02.2021,26.02.2021,26.02.2021,1001,1. star. obd.,6003,Sum na okužbo
+1374,Osnovna šola Nazarje,9599,VVE pri OŠ Nazarje,2010,1010,Savinjska,Nazarje,24.02.2021,26.02.2021,26.02.2021,1002,2. star. obd.,6003,Sum na okužbo
+1374,Osnovna šola Nazarje,9599,VVE pri OŠ Nazarje,2010,1010,Savinjska,Nazarje,26.02.2021,26.02.2021,26.02.2021,1001,1. star. obd.,6003,Sum na okužbo
 1383,Vrtec Nazaret,1383,Vrtec Nazaret,1010,1010,Osrednjeslovenska,Ljubljana,28.12.2020,07.01.2021,30.12.2020,1001,1. star. obd.,6001,Sum na okužbo
 1383,Vrtec Nazaret,18910,Vrtec Nazaret,1010,1010,Osrednjeslovenska,Ljubljana,01.02.2021,05.02.2021,12.02.2021,1002,2. star. obd.,6001,Sum na okužbo
 1383,Vrtec Nazaret,18910,Vrtec Nazaret,1010,1010,Osrednjeslovenska,Ljubljana,06.12.2020,16.12.2020,10.12.2020,1002,2. star. obd.,6001,Sum na okužbo
@@ -2408,8 +2419,10 @@ ZAVSIFMAT,ZAVMATNAZ,ZAVSIF,ZAVNAZ,KAT_MAT,KATEGORIJA,REGIJA,OBCINA,DAT_OD,DAT_DO
 158,Osnovna šola Domžale,158,Osnovna šola Domžale,2010,2010,Osrednjeslovenska,Domžale,19.02.2021,28.02.2021,22.02.2021,1005,2. razred,6004,Okužba s Covid-19
 158,Osnovna šola Domžale,158,Osnovna šola Domžale,2010,2010,Osrednjeslovenska,Domžale,20.10.2020,30.10.2020,20.10.2020,1004,1. razred,6004,Okužba s Covid-19
 158,Osnovna šola Domžale,158,Osnovna šola Domžale,2010,2010,Osrednjeslovenska,Domžale,21.10.2020,31.10.2020,21.10.2020,1007,4. razred,6003,Sum na okužbo
+158,Osnovna šola Domžale,158,Osnovna šola Domžale,2010,2010,Osrednjeslovenska,Domžale,23.02.2021,05.03.2021,25.02.2021,1007,4. razred,6004,Okužba s Covid-19
 158,Osnovna šola Domžale,158,Osnovna šola Domžale,2010,2010,Osrednjeslovenska,Domžale,23.10.2020,06.11.2020,23.10.2020,1004,1. razred,6004,Okužba s Covid-19
 158,Osnovna šola Domžale,158,Osnovna šola Domžale,2010,2010,Osrednjeslovenska,Domžale,25.01.2021,03.02.2021,02.02.2021,1005,2. razred,6003,Sum na okužbo
+158,Osnovna šola Domžale,158,Osnovna šola Domžale,2010,2010,Osrednjeslovenska,Domžale,25.02.2021,07.03.2021,26.02.2021,1007,4. razred,6004,Okužba s Covid-19
 158,Osnovna šola Domžale,158,Osnovna šola Domžale,2010,2010,Osrednjeslovenska,Domžale,26.01.2021,04.02.2021,02.02.2021,1004,1. razred,6003,Sum na okužbo
 158,Osnovna šola Domžale,158,Osnovna šola Domžale,2010,2010,Osrednjeslovenska,Domžale,26.01.2021,04.02.2021,02.02.2021,1005,2. razred,6003,Sum na okužbo
 158,Osnovna šola Domžale,158,Osnovna šola Domžale,2010,2010,Osrednjeslovenska,Domžale,30.09.2020,09.10.2020,02.10.2020,1010,7. razred,6003,Sum na okužbo
@@ -2618,6 +2631,7 @@ ZAVSIFMAT,ZAVMATNAZ,ZAVSIF,ZAVNAZ,KAT_MAT,KATEGORIJA,REGIJA,OBCINA,DAT_OD,DAT_DO
 178,Osnovna šola Louisa Adamiča Grosuplje,178,Osnovna šola Louisa Adamiča Grosuplje,2010,2010,Osrednjeslovenska,Grosuplje,01.10.2020,10.10.2020,02.10.2020,1005,2. razred,6003,Sum na okužbo
 178,Osnovna šola Louisa Adamiča Grosuplje,178,Osnovna šola Louisa Adamiča Grosuplje,2010,2010,Osrednjeslovenska,Grosuplje,05.10.2020,09.10.2020,05.10.2020,1010,7. razred,6003,Sum na okužbo
 178,Osnovna šola Louisa Adamiča Grosuplje,178,Osnovna šola Louisa Adamiča Grosuplje,2010,2010,Osrednjeslovenska,Grosuplje,17.02.2021,26.02.2021,16.02.2021,1012,9. razred,6004,Okužba s Covid-19
+178,Osnovna šola Louisa Adamiča Grosuplje,178,Osnovna šola Louisa Adamiča Grosuplje,2010,2010,Osrednjeslovenska,Grosuplje,24.02.2021,05.03.2021,26.02.2021,1011,8. razred,6004,Okužba s Covid-19
 178,Osnovna šola Louisa Adamiča Grosuplje,178,Osnovna šola Louisa Adamiča Grosuplje,2010,2010,Osrednjeslovenska,Grosuplje,27.01.2021,05.02.2021,27.01.2021,1005,2. razred,6003,Sum na okužbo
 17950,"JANA, predšolska vzgoja, svetovanje, storitve, d.o.o., Zasebni vrtec",17950,"JANA, predšolska vzgoja, svetovanje, storitve, d.o.o., Zasebni vrtec",1010,1010,Jugovzhodna Slovenija,Novo mesto,29.10.2020,07.11.2020,04.11.2020,1001,1. star. obd.,6002,Okužba s Covid-19
 17950,"JANA, predšolska vzgoja, svetovanje, storitve, d.o.o., Zasebni vrtec",17950,"JANA, predšolska vzgoja, svetovanje, storitve, d.o.o., Zasebni vrtec",1010,1010,Jugovzhodna Slovenija,Novo mesto,29.10.2020,07.11.2020,04.11.2020,1003,Komb. 1. in 2. star. obd.,6002,Okužba s Covid-19
@@ -2778,6 +2792,7 @@ ZAVSIFMAT,ZAVMATNAZ,ZAVSIF,ZAVNAZ,KAT_MAT,KATEGORIJA,REGIJA,OBCINA,DAT_OD,DAT_DO
 18,Šolski center Krško - Sevnica,10107,"Šolski center Krško - Sevnica, Srednja šola Krško",3010,3010,Posavska,Krško,07.12.2020,21.12.2020,07.12.2020,1038,Vzgojna skupina v DD,6010,Okužba s Covid-19
 18,Šolski center Krško - Sevnica,10107,"Šolski center Krško - Sevnica, Srednja šola Krško",3010,3010,Posavska,Krško,17.01.2021,28.01.2021,20.01.2021,1038,Vzgojna skupina v DD,6010,Okužba s Covid-19
 18,Šolski center Krško - Sevnica,10107,"Šolski center Krško - Sevnica, Srednja šola Krško",3010,3010,Posavska,Krško,24.02.2021,06.03.2021,24.02.2021,1030,3. letnik,6010,Okužba s Covid-19
+18,Šolski center Krško - Sevnica,10107,"Šolski center Krško - Sevnica, Srednja šola Krško",3010,3010,Posavska,Krško,25.02.2021,07.03.2021,26.02.2021,1030,3. letnik,6010,Okužba s Covid-19
 18,Šolski center Krško - Sevnica,10107,"Šolski center Krško - Sevnica, Srednja šola Krško",3010,3010,Posavska,Krško,27.01.2021,10.02.2021,28.01.2021,1038,Vzgojna skupina v DD,6010,Okužba s Covid-19
 18,Šolski center Krško - Sevnica,10107,"Šolski center Krško - Sevnica, Srednja šola Krško",3010,3010,Posavska,Krško,30.09.2020,10.10.2020,09.10.2020,1028,1. letnik,6010,Okužba s Covid-19
 191,Osnovna šola Rudolfa Ukoviča Podgrad,191,Osnovna šola Rudolfa Ukoviča Podgrad,2010,2010,Primorsko-notranjska,Ilirska Bistrica,01.02.2021,05.02.2021,03.02.2021,1006,3. razred,6004,Okužba s Covid-19
@@ -2829,10 +2844,16 @@ ZAVSIFMAT,ZAVMATNAZ,ZAVSIF,ZAVNAZ,KAT_MAT,KATEGORIJA,REGIJA,OBCINA,DAT_OD,DAT_DO
 198,Osnovna šola Komenda Moste,198,Osnovna šola Komenda Moste,2010,2010,Osrednjeslovenska,Komenda,21.02.2021,03.03.2021,23.02.2021,1009,6. razred,6004,Okužba s Covid-19
 198,Osnovna šola Komenda Moste,198,Osnovna šola Komenda Moste,2010,2010,Osrednjeslovenska,Komenda,21.02.2021,03.03.2021,23.02.2021,1010,7. razred,6004,Okužba s Covid-19
 198,Osnovna šola Komenda Moste,198,Osnovna šola Komenda Moste,2010,2010,Osrednjeslovenska,Komenda,22.02.2021,02.03.2021,23.02.2021,1009,6. razred,6004,Okužba s Covid-19
+198,Osnovna šola Komenda Moste,198,Osnovna šola Komenda Moste,2010,2010,Osrednjeslovenska,Komenda,22.02.2021,02.03.2021,26.02.2021,1009,6. razred,6004,Okužba s Covid-19
+198,Osnovna šola Komenda Moste,198,Osnovna šola Komenda Moste,2010,2010,Osrednjeslovenska,Komenda,22.02.2021,05.03.2021,26.02.2021,1010,7. razred,6004,Okužba s Covid-19
 198,Osnovna šola Komenda Moste,198,Osnovna šola Komenda Moste,2010,2010,Osrednjeslovenska,Komenda,22.10.2020,01.11.2020,22.10.2020,1008,5. razred,6003,Sum na okužbo
 198,Osnovna šola Komenda Moste,198,Osnovna šola Komenda Moste,2010,2010,Osrednjeslovenska,Komenda,22.10.2020,01.11.2020,22.10.2020,1008,5. razred,6003,Sum na okužbo
 198,Osnovna šola Komenda Moste,198,Osnovna šola Komenda Moste,2010,2010,Osrednjeslovenska,Komenda,22.10.2020,01.11.2020,22.10.2020,1008,5. razred,6003,Sum na okužbo
+198,Osnovna šola Komenda Moste,198,Osnovna šola Komenda Moste,2010,2010,Osrednjeslovenska,Komenda,23.02.2021,05.03.2021,25.02.2021,1008,5. razred,6003,Sum na okužbo
+198,Osnovna šola Komenda Moste,198,Osnovna šola Komenda Moste,2010,2010,Osrednjeslovenska,Komenda,23.02.2021,05.03.2021,25.02.2021,1009,6. razred,6004,Okužba s Covid-19
+198,Osnovna šola Komenda Moste,198,Osnovna šola Komenda Moste,2010,2010,Osrednjeslovenska,Komenda,23.02.2021,05.03.2021,25.02.2021,1011,8. razred,6003,Sum na okužbo
 198,Osnovna šola Komenda Moste,198,Osnovna šola Komenda Moste,2010,2010,Osrednjeslovenska,Komenda,23.10.2020,02.11.2020,26.10.2020,1008,5. razred,6003,Sum na okužbo
+198,Osnovna šola Komenda Moste,198,Osnovna šola Komenda Moste,2010,2010,Osrednjeslovenska,Komenda,24.02.2021,05.03.2021,26.02.2021,1009,6. razred,6004,Okužba s Covid-19
 198,Osnovna šola Komenda Moste,198,Osnovna šola Komenda Moste,2010,2010,Osrednjeslovenska,Komenda,27.09.2020,02.10.2020,02.10.2020,1009,6. razred,6003,Sum na okužbo
 198,Osnovna šola Komenda Moste,198,Osnovna šola Komenda Moste,2010,2010,Osrednjeslovenska,Komenda,27.09.2020,02.10.2020,02.10.2020,1009,6. razred,6003,Sum na okužbo
 198,Osnovna šola Komenda Moste,198,Osnovna šola Komenda Moste,2010,2010,Osrednjeslovenska,Komenda,27.09.2020,02.10.2020,02.10.2020,1009,6. razred,6003,Sum na okužbo
@@ -2864,8 +2885,11 @@ ZAVSIFMAT,ZAVMATNAZ,ZAVSIF,ZAVNAZ,KAT_MAT,KATEGORIJA,REGIJA,OBCINA,DAT_OD,DAT_DO
 198,Osnovna šola Komenda Moste,3545,Osnovna šola Komenda Moste Podružnica Moste,2010,2010,Osrednjeslovenska,Komenda,21.01.2021,31.01.2021,25.01.2021,1005,2. razred,6003,Sum na okužbo
 198,Osnovna šola Komenda Moste,3545,Osnovna šola Komenda Moste Podružnica Moste,2010,2010,Osrednjeslovenska,Komenda,21.02.2021,03.03.2021,24.02.2021,1005,2. razred,6004,Okužba s Covid-19
 198,Osnovna šola Komenda Moste,3545,Osnovna šola Komenda Moste Podružnica Moste,2010,2010,Osrednjeslovenska,Komenda,21.10.2020,31.10.2020,22.10.2020,1006,3. razred,6003,Sum na okužbo
+198,Osnovna šola Komenda Moste,3545,Osnovna šola Komenda Moste Podružnica Moste,2010,2010,Osrednjeslovenska,Komenda,22.02.2021,02.03.2021,26.02.2021,1007,4. razred,6004,Okužba s Covid-19
 198,Osnovna šola Komenda Moste,3545,Osnovna šola Komenda Moste Podružnica Moste,2010,2010,Osrednjeslovenska,Komenda,22.10.2020,01.11.2020,22.10.2020,1006,3. razred,6003,Sum na okužbo
 198,Osnovna šola Komenda Moste,3545,Osnovna šola Komenda Moste Podružnica Moste,2010,2010,Osrednjeslovenska,Komenda,22.10.2020,01.11.2020,23.10.2020,1005,2. razred,6003,Sum na okužbo
+198,Osnovna šola Komenda Moste,3545,Osnovna šola Komenda Moste Podružnica Moste,2010,2010,Osrednjeslovenska,Komenda,23.02.2021,05.03.2021,25.02.2021,1005,2. razred,6004,Okužba s Covid-19
+198,Osnovna šola Komenda Moste,3545,Osnovna šola Komenda Moste Podružnica Moste,2010,2010,Osrednjeslovenska,Komenda,24.02.2021,05.03.2021,26.02.2021,1007,4. razred,6003,Sum na okužbo
 198,Osnovna šola Komenda Moste,3545,Osnovna šola Komenda Moste Podružnica Moste,2010,2010,Osrednjeslovenska,Komenda,26.01.2021,29.01.2021,25.01.2021,1006,3. razred,6004,Okužba s Covid-19
 198,Osnovna šola Komenda Moste,3545,Osnovna šola Komenda Moste Podružnica Moste,2010,2010,Osrednjeslovenska,Komenda,27.01.2021,06.02.2021,26.01.2021,1005,2. razred,6003,Sum na okužbo
 198,Osnovna šola Komenda Moste,3545,Osnovna šola Komenda Moste Podružnica Moste,2010,2010,Osrednjeslovenska,Komenda,27.01.2021,06.02.2021,26.01.2021,1005,2. razred,6004,Okužba s Covid-19
@@ -3137,7 +3161,8 @@ ZAVSIFMAT,ZAVMATNAZ,ZAVSIF,ZAVNAZ,KAT_MAT,KATEGORIJA,REGIJA,OBCINA,DAT_OD,DAT_DO
 20775,Srednja elektro-računalniška šola Maribor,20775,Srednja elektro-računalniška šola Maribor,3010,3010,Podravska,Maribor,18.09.2020,28.09.2020,18.09.2020,1028,1. letnik,6009,Sum na okužbo
 20775,Srednja elektro-računalniška šola Maribor,20775,Srednja elektro-računalniška šola Maribor,3010,3010,Podravska,Maribor,20.09.2020,30.09.2020,21.09.2020,1031,4. letnik,6009,Sum na okužbo
 20775,Srednja elektro-računalniška šola Maribor,20775,Srednja elektro-računalniška šola Maribor,3010,3010,Podravska,Maribor,21.09.2020,30.09.2020,23.09.2020,1028,1. letnik,6009,Sum na okužbo
-20775,Srednja elektro-računalniška šola Maribor,20775,Srednja elektro-računalniška šola Maribor,3010,3010,Podravska,Maribor,24.02.2021,03.03.2021,25.02.2021,1031,4. letnik,6010,Okužba s Covid-19
+20775,Srednja elektro-računalniška šola Maribor,20775,Srednja elektro-računalniška šola Maribor,3010,3010,Podravska,Maribor,23.02.2021,03.03.2021,26.02.2021,1031,4. letnik,6010,Okužba s Covid-19
+20775,Srednja elektro-računalniška šola Maribor,20775,Srednja elektro-računalniška šola Maribor,3010,3010,Podravska,Maribor,23.02.2021,04.03.2021,26.02.2021,1031,4. letnik,6010,Okužba s Covid-19
 20775,Srednja elektro-računalniška šola Maribor,20775,Srednja elektro-računalniška šola Maribor,3010,3010,Podravska,Maribor,30.09.2020,10.10.2020,01.10.2020,1031,4. letnik,6010,Okužba s Covid-19
 210,Osnovna šola Elvire Vatovec Prade - Koper,210,Osnovna šola Elvire Vatovec Prade - Koper,2010,2010,Obalno-kraška,Koper,26.01.2021,29.01.2021,26.01.2021,1004,1. razred,6003,Sum na okužbo
 210,Osnovna šola Elvire Vatovec Prade - Koper,210,Osnovna šola Elvire Vatovec Prade - Koper,2010,2010,Obalno-kraška,Koper,26.01.2021,29.01.2021,26.01.2021,1005,2. razred,6003,Sum na okužbo
@@ -3217,6 +3242,7 @@ ZAVSIFMAT,ZAVMATNAZ,ZAVSIF,ZAVNAZ,KAT_MAT,KATEGORIJA,REGIJA,OBCINA,DAT_OD,DAT_DO
 216,Osnovna šola Dekani,216,Osnovna šola Dekani,2010,2010,Obalno-kraška,Koper,21.01.2021,31.01.2021,25.01.2021,1004,1. razred,6003,Sum na okužbo
 216,Osnovna šola Dekani,216,Osnovna šola Dekani,2010,2010,Obalno-kraška,Koper,21.01.2021,31.01.2021,25.01.2021,1005,2. razred,6003,Sum na okužbo
 216,Osnovna šola Dekani,216,Osnovna šola Dekani,2010,2010,Obalno-kraška,Koper,24.11.2020,04.12.2020,24.11.2020,1006,3. razred,6004,Okužba s Covid-19
+216,Osnovna šola Dekani,216,Osnovna šola Dekani,2010,2010,Obalno-kraška,Koper,25.02.2021,07.03.2021,26.02.2021,1007,4. razred,6004,Okužba s Covid-19
 21775,"Antonina, zavod za vzgojo, izobraževanje in družino, Hiša otrok Antonina, zasebni vrtec montessori",21775,"Antonina, zavod za vzgojo, izobraževanje in družino, Hiša otrok Antonina, zasebni vrtec montessori",1010,1010,Goriška,Miren-Kostanjevica,09.02.2021,18.02.2021,16.02.2021,1003,Komb. 1. in 2. star. obd.,6001,Sum na okužbo
 21775,"Antonina, zavod za vzgojo, izobraževanje in družino, Hiša otrok Antonina, zasebni vrtec montessori",21775,"Antonina, zavod za vzgojo, izobraževanje in družino, Hiša otrok Antonina, zasebni vrtec montessori",1010,1010,Goriška,Miren-Kostanjevica,09.02.2021,19.02.2021,11.02.2021,1003,Komb. 1. in 2. star. obd.,6002,Okužba s Covid-19
 21795,"Zasebni vrtec Vesela hiša, predšolska vzgoja in izobraževanje, d.o.o.",21795,"Zasebni vrtec Vesela hiša, predšolska vzgoja in izobraževanje, d.o.o.",1010,1010,Savinjska,Celje,12.02.2021,19.02.2021,12.02.2021,1001,1. star. obd.,6002,Okužba s Covid-19
@@ -3694,6 +3720,7 @@ ZAVSIFMAT,ZAVMATNAZ,ZAVSIF,ZAVNAZ,KAT_MAT,KATEGORIJA,REGIJA,OBCINA,DAT_OD,DAT_DO
 248,Osnovna šola Sveta Ana,248,Osnovna šola Sveta Ana,2010,2010,Podravska,Sveta Ana,09.02.2021,15.02.2021,10.02.2021,1005,2. razred,6003,Sum na okužbo
 248,Osnovna šola Sveta Ana,248,Osnovna šola Sveta Ana,2010,2010,Podravska,Sveta Ana,10.02.2021,19.02.2021,10.02.2021,1006,3. razred,6003,Sum na okužbo
 248,Osnovna šola Sveta Ana,248,Osnovna šola Sveta Ana,2010,2010,Podravska,Sveta Ana,23.10.2020,23.10.2020,23.10.2020,1005,2. razred,6004,Okužba s Covid-19
+248,Osnovna šola Sveta Ana,248,Osnovna šola Sveta Ana,2010,2010,Podravska,Sveta Ana,26.02.2021,07.03.2021,26.02.2021,1012,9. razred,6004,Okužba s Covid-19
 248,Osnovna šola Sveta Ana,3787,"Osnovna šola Sveta Ana, Enota vrtec",2010,1010,Podravska,Sveta Ana,11.02.2021,20.02.2021,15.02.2021,1001,1. star. obd.,6003,Sum na okužbo
 248,Osnovna šola Sveta Ana,3787,"Osnovna šola Sveta Ana, Enota vrtec",2010,1010,Podravska,Sveta Ana,16.11.2020,25.11.2020,16.11.2020,1001,1. star. obd.,6003,Sum na okužbo
 248,Osnovna šola Sveta Ana,3787,"Osnovna šola Sveta Ana, Enota vrtec",2010,1010,Podravska,Sveta Ana,24.11.2020,30.11.2020,24.11.2020,1001,1. star. obd.,6003,Sum na okužbo
@@ -4090,7 +4117,10 @@ ZAVSIFMAT,ZAVMATNAZ,ZAVSIF,ZAVNAZ,KAT_MAT,KATEGORIJA,REGIJA,OBCINA,DAT_OD,DAT_DO
 289,Osnovna šola Ketteja in Murna,289,Osnovna šola Ketteja in Murna,2010,2010,Osrednjeslovenska,Ljubljana,05.10.2020,08.10.2020,05.10.2020,1012,9. razred,6003,Sum na okužbo
 289,Osnovna šola Ketteja in Murna,289,Osnovna šola Ketteja in Murna,2010,2010,Osrednjeslovenska,Ljubljana,15.10.2020,18.10.2020,15.10.2020,1009,6. razred,6003,Sum na okužbo
 289,Osnovna šola Ketteja in Murna,289,Osnovna šola Ketteja in Murna,2010,2010,Osrednjeslovenska,Ljubljana,15.10.2020,22.10.2020,15.10.2020,1006,3. razred,6003,Sum na okužbo
+289,Osnovna šola Ketteja in Murna,289,Osnovna šola Ketteja in Murna,2010,2010,Osrednjeslovenska,Ljubljana,19.02.2021,28.02.2021,25.02.2021,1011,8. razred,6004,Okužba s Covid-19
+289,Osnovna šola Ketteja in Murna,289,Osnovna šola Ketteja in Murna,2010,2010,Osrednjeslovenska,Ljubljana,21.02.2021,02.03.2021,25.02.2021,1011,8. razred,6004,Okužba s Covid-19
 289,Osnovna šola Ketteja in Murna,289,Osnovna šola Ketteja in Murna,2010,2010,Osrednjeslovenska,Ljubljana,23.10.2020,27.10.2020,23.10.2020,1007,4. razred,6004,Okužba s Covid-19
+289,Osnovna šola Ketteja in Murna,289,Osnovna šola Ketteja in Murna,2010,2010,Osrednjeslovenska,Ljubljana,25.02.2021,06.03.2021,25.02.2021,1011,8. razred,6004,Okužba s Covid-19
 291,Osnovna šola Zadobrova,291,Osnovna šola Zadobrova,2010,2010,Osrednjeslovenska,Ljubljana,02.10.2020,08.10.2020,06.10.2020,1012,9. razred,6003,Sum na okužbo
 291,Osnovna šola Zadobrova,291,Osnovna šola Zadobrova,2010,2010,Osrednjeslovenska,Ljubljana,03.10.2020,13.10.2020,05.10.2020,1005,2. razred,6003,Sum na okužbo
 291,Osnovna šola Zadobrova,291,Osnovna šola Zadobrova,2010,2010,Osrednjeslovenska,Ljubljana,05.10.2020,11.10.2020,05.10.2020,1005,2. razred,6003,Sum na okužbo
@@ -4582,9 +4612,11 @@ ZAVSIFMAT,ZAVMATNAZ,ZAVSIF,ZAVNAZ,KAT_MAT,KATEGORIJA,REGIJA,OBCINA,DAT_OD,DAT_DO
 335,Osnovna šola Tabor Logatec,335,Osnovna šola Tabor Logatec,2010,2010,Osrednjeslovenska,Logatec,01.02.2021,05.02.2021,22.02.2021,1004,1. razred,6003,Sum na okužbo
 335,Osnovna šola Tabor Logatec,335,Osnovna šola Tabor Logatec,2010,2010,Osrednjeslovenska,Logatec,01.02.2021,05.02.2021,22.02.2021,1004,1. razred,6003,Sum na okužbo
 335,Osnovna šola Tabor Logatec,335,Osnovna šola Tabor Logatec,2010,2010,Osrednjeslovenska,Logatec,15.02.2021,16.02.2021,22.02.2021,1006,3. razred,6003,Sum na okužbo
+335,Osnovna šola Tabor Logatec,335,Osnovna šola Tabor Logatec,2010,2010,Osrednjeslovenska,Logatec,15.02.2021,17.02.2021,25.02.2021,1007,4. razred,6004,Okužba s Covid-19
 335,Osnovna šola Tabor Logatec,335,Osnovna šola Tabor Logatec,2010,2010,Osrednjeslovenska,Logatec,15.02.2021,19.02.2021,22.02.2021,1005,2. razred,6004,Okužba s Covid-19
 335,Osnovna šola Tabor Logatec,335,Osnovna šola Tabor Logatec,2010,2010,Osrednjeslovenska,Logatec,15.02.2021,19.02.2021,22.02.2021,1010,7. razred,6003,Sum na okužbo
-335,Osnovna šola Tabor Logatec,335,Osnovna šola Tabor Logatec,2010,2010,Osrednjeslovenska,Logatec,15.02.2021,25.02.2021,24.02.2021,1007,4. razred,6004,Okužba s Covid-19
+335,Osnovna šola Tabor Logatec,335,Osnovna šola Tabor Logatec,2010,2010,Osrednjeslovenska,Logatec,15.02.2021,19.02.2021,25.02.2021,1007,4. razred,6004,Okužba s Covid-19
+335,Osnovna šola Tabor Logatec,335,Osnovna šola Tabor Logatec,2010,2010,Osrednjeslovenska,Logatec,15.02.2021,19.02.2021,25.02.2021,1007,4. razred,6004,Okužba s Covid-19
 335,Osnovna šola Tabor Logatec,335,Osnovna šola Tabor Logatec,2010,2010,Osrednjeslovenska,Logatec,19.02.2021,26.02.2021,22.02.2021,1010,7. razred,6003,Sum na okužbo
 335,Osnovna šola Tabor Logatec,335,Osnovna šola Tabor Logatec,2010,2010,Osrednjeslovenska,Logatec,26.01.2021,01.02.2021,22.02.2021,1004,1. razred,6003,Sum na okužbo
 335,Osnovna šola Tabor Logatec,335,Osnovna šola Tabor Logatec,2010,2010,Osrednjeslovenska,Logatec,27.01.2021,04.02.2021,27.01.2021,1006,3. razred,6004,Okužba s Covid-19
@@ -4642,7 +4674,8 @@ ZAVSIFMAT,ZAVMATNAZ,ZAVSIF,ZAVNAZ,KAT_MAT,KATEGORIJA,REGIJA,OBCINA,DAT_OD,DAT_DO
 342,Osnovna šola Frana Kocbeka Gornji Grad,342,Osnovna šola Frana Kocbeka Gornji Grad,2010,2010,Savinjska,Gornji Grad,14.09.2020,24.09.2020,14.09.2020,1012,9. razred,6003,Sum na okužbo
 342,Osnovna šola Frana Kocbeka Gornji Grad,342,Osnovna šola Frana Kocbeka Gornji Grad,2010,2010,Savinjska,Gornji Grad,14.09.2020,24.09.2020,14.09.2020,1012,9. razred,6003,Sum na okužbo
 342,Osnovna šola Frana Kocbeka Gornji Grad,342,Osnovna šola Frana Kocbeka Gornji Grad,2010,2010,Savinjska,Gornji Grad,16.11.2020,26.11.2020,16.11.2020,1008,5. razred,6003,Sum na okužbo
-342,Osnovna šola Frana Kocbeka Gornji Grad,342,Osnovna šola Frana Kocbeka Gornji Grad,2010,2010,Savinjska,Gornji Grad,22.02.2021,26.02.2021,23.02.2021,1012,9. razred,6003,Sum na okužbo
+342,Osnovna šola Frana Kocbeka Gornji Grad,342,Osnovna šola Frana Kocbeka Gornji Grad,2010,2010,Savinjska,Gornji Grad,22.02.2021,24.02.2021,26.02.2021,1012,9. razred,6003,Sum na okužbo
+342,Osnovna šola Frana Kocbeka Gornji Grad,342,Osnovna šola Frana Kocbeka Gornji Grad,2010,2010,Savinjska,Gornji Grad,26.02.2021,05.03.2021,26.02.2021,1010,7. razred,6003,Sum na okužbo
 343,Osnovna šola Bakovci,343,Osnovna šola Bakovci,2010,2010,Pomurska,Murska Sobota,09.10.2020,18.10.2020,13.10.2020,1012,9. razred,6003,Sum na okužbo
 343,Osnovna šola Bakovci,343,Osnovna šola Bakovci,2010,2010,Pomurska,Murska Sobota,10.10.2020,18.10.2020,13.10.2020,1009,6. razred,6003,Sum na okužbo
 343,Osnovna šola Bakovci,343,Osnovna šola Bakovci,2010,2010,Pomurska,Murska Sobota,15.10.2020,23.10.2020,16.10.2020,1004,1. razred,6003,Sum na okužbo
@@ -4780,7 +4813,7 @@ ZAVSIFMAT,ZAVMATNAZ,ZAVSIF,ZAVNAZ,KAT_MAT,KATEGORIJA,REGIJA,OBCINA,DAT_OD,DAT_DO
 347,Osnovna šola Šalovci,347,Osnovna šola Šalovci,2010,2010,Pomurska,Šalovci,09.10.2020,23.10.2020,19.10.2020,1004,1. razred,6003,Sum na okužbo
 347,Osnovna šola Šalovci,347,Osnovna šola Šalovci,2010,2010,Pomurska,Šalovci,17.10.2020,31.10.2020,19.10.2020,1007,4. razred,6004,Okužba s Covid-19
 347,Osnovna šola Šalovci,347,Osnovna šola Šalovci,2010,2010,Pomurska,Šalovci,17.10.2020,31.10.2020,19.10.2020,1008,5. razred,6004,Okužba s Covid-19
-347,Osnovna šola Šalovci,347,Osnovna šola Šalovci,2010,2010,Pomurska,Šalovci,24.02.2021,06.03.2021,24.02.2021,1005,2. razred,6003,Sum na okužbo
+347,Osnovna šola Šalovci,347,Osnovna šola Šalovci,2010,2010,Pomurska,Šalovci,24.02.2021,03.03.2021,26.02.2021,1005,2. razred,6003,Sum na okužbo
 347,Osnovna šola Šalovci,3712,"Osnovna šola Šalovci, Enota Vrtca Šalovci",2010,1010,Pomurska,Šalovci,30.11.2020,10.12.2020,30.11.2020,1001,1. star. obd.,6003,Sum na okužbo
 3491,Glasbena šola Jesenice,3491,Glasbena šola Jesenice,2030,2030,Gorenjska,Jesenice,18.09.2020,02.10.2020,21.09.2020,1507,Harmonika,6008,Okužba s Covid-19
 3492,Osnovna šola Poldeta Stražišarja Jesenice,3492,Osnovna šola Poldeta Stražišarja Jesenice,2020,2020,Gorenjska,Jesenice,01.01.2021,11.01.2021,05.01.2021,1019,7. razred,6005,Sum na okužbo
@@ -5711,6 +5744,8 @@ ZAVSIFMAT,ZAVMATNAZ,ZAVSIF,ZAVNAZ,KAT_MAT,KATEGORIJA,REGIJA,OBCINA,DAT_OD,DAT_DO
 409,Osnovna šola Breg,409,Osnovna šola Breg,2010,2010,Podravska,Ptuj,23.10.2020,03.11.2020,23.10.2020,1004,1. razred,6003,Sum na okužbo
 409,Osnovna šola Breg,409,Osnovna šola Breg,2010,2010,Podravska,Ptuj,23.10.2020,03.11.2020,23.10.2020,1006,3. razred,6003,Sum na okužbo
 409,Osnovna šola Breg,409,Osnovna šola Breg,2010,2010,Podravska,Ptuj,23.10.2020,03.11.2020,23.10.2020,1006,3. razred,6004,Okužba s Covid-19
+409,Osnovna šola Breg,409,Osnovna šola Breg,2010,2010,Podravska,Ptuj,24.02.2021,06.03.2021,26.02.2021,1007,4. razred,6003,Sum na okužbo
+409,Osnovna šola Breg,409,Osnovna šola Breg,2010,2010,Podravska,Ptuj,24.02.2021,06.03.2021,26.02.2021,1009,6. razred,6003,Sum na okužbo
 409,Osnovna šola Breg,409,Osnovna šola Breg,2010,2010,Podravska,Ptuj,24.11.2020,07.12.2020,27.11.2020,1008,5. razred,6004,Okužba s Covid-19
 409,Osnovna šola Breg,409,Osnovna šola Breg,2010,2010,Podravska,Ptuj,26.01.2021,08.02.2021,26.01.2021,1004,1. razred,6003,Sum na okužbo
 409,Osnovna šola Breg,409,Osnovna šola Breg,2010,2010,Podravska,Ptuj,26.01.2021,09.02.2021,26.01.2021,1004,1. razred,6004,Okužba s Covid-19
@@ -5753,6 +5788,9 @@ ZAVSIFMAT,ZAVMATNAZ,ZAVSIF,ZAVNAZ,KAT_MAT,KATEGORIJA,REGIJA,OBCINA,DAT_OD,DAT_DO
 410,Osnovna šola Ljudski vrt Ptuj,410,Osnovna šola Ljudski vrt Ptuj,2010,2010,Podravska,Ptuj,23.11.2020,03.12.2020,23.11.2020,1008,5. razred,6003,Sum na okužbo
 410,Osnovna šola Ljudski vrt Ptuj,410,Osnovna šola Ljudski vrt Ptuj,2010,2010,Podravska,Ptuj,23.11.2020,03.12.2020,23.11.2020,1065,Skupina NIP IP ...,6003,Sum na okužbo
 410,Osnovna šola Ljudski vrt Ptuj,410,Osnovna šola Ljudski vrt Ptuj,2010,2010,Podravska,Ptuj,23.11.2020,03.12.2020,23.11.2020,1065,Skupina NIP IP ...,6003,Sum na okužbo
+410,Osnovna šola Ljudski vrt Ptuj,410,Osnovna šola Ljudski vrt Ptuj,2010,2010,Podravska,Ptuj,25.02.2021,05.03.2021,26.02.2021,1005,2. razred,6003,Sum na okužbo
+410,Osnovna šola Ljudski vrt Ptuj,410,Osnovna šola Ljudski vrt Ptuj,2010,2010,Podravska,Ptuj,25.02.2021,05.03.2021,26.02.2021,1012,9. razred,6003,Sum na okužbo
+410,Osnovna šola Ljudski vrt Ptuj,410,Osnovna šola Ljudski vrt Ptuj,2010,2010,Podravska,Ptuj,26.02.2021,26.02.2021,26.02.2021,1004,1. razred,6003,Sum na okužbo
 410,Osnovna šola Ljudski vrt Ptuj,410,Osnovna šola Ljudski vrt Ptuj,2010,2010,Podravska,Ptuj,28.09.2020,05.10.2020,28.09.2020,1011,8. razred,6003,Sum na okužbo
 410,Osnovna šola Ljudski vrt Ptuj,410,Osnovna šola Ljudski vrt Ptuj,2010,2010,Podravska,Ptuj,28.09.2020,08.10.2020,28.09.2020,1009,6. razred,6003,Sum na okužbo
 410,Osnovna šola Ljudski vrt Ptuj,410,Osnovna šola Ljudski vrt Ptuj,2010,2010,Podravska,Ptuj,29.01.2021,01.02.2021,29.01.2021,1006,3. razred,6003,Sum na okužbo
@@ -5882,6 +5920,7 @@ ZAVSIFMAT,ZAVMATNAZ,ZAVSIF,ZAVNAZ,KAT_MAT,KATEGORIJA,REGIJA,OBCINA,DAT_OD,DAT_DO
 429,Osnovna šola Muta,967,"Osnovna šola Muta, Oddelki osnovne šole s prilagojenim programom",2010,2020,Koroška,Muta,31.10.2020,10.11.2020,01.11.2020,1027,VI. stopnja,6004,Okužba s Covid-19
 42,Biotehniška šola Maribor,42,Biotehniška šola Maribor,3010,3010,Podravska,Maribor,15.10.2020,18.10.2020,15.10.2020,1031,4. letnik,6010,Okužba s Covid-19
 42,Biotehniška šola Maribor,42,Biotehniška šola Maribor,3010,3010,Podravska,Maribor,20.10.2020,30.10.2020,20.10.2020,1038,Vzgojna skupina v DD,6010,Okužba s Covid-19
+42,Biotehniška šola Maribor,42,Biotehniška šola Maribor,3010,3010,Podravska,Maribor,26.02.2021,12.03.2021,26.02.2021,1028,1. letnik,6010,Okužba s Covid-19
 430,Osnovna šola Vuzenica,1159,"Osnovna šola Vuzenica, Enota Vrtec Vuzenica",2010,1010,Koroška,Vuzenica,04.02.2021,12.02.2021,04.02.2021,1002,2. star. obd.,6003,Sum na okužbo
 430,Osnovna šola Vuzenica,1159,"Osnovna šola Vuzenica, Enota Vrtec Vuzenica",2010,1010,Koroška,Vuzenica,09.09.2020,23.09.2020,15.09.2020,1002,2. star. obd.,6003,Sum na okužbo
 430,Osnovna šola Vuzenica,1159,"Osnovna šola Vuzenica, Enota Vrtec Vuzenica",2010,1010,Koroška,Vuzenica,10.09.2020,24.09.2020,15.09.2020,1002,2. star. obd.,6003,Sum na okužbo
@@ -6002,6 +6041,8 @@ ZAVSIFMAT,ZAVMATNAZ,ZAVSIF,ZAVNAZ,KAT_MAT,KATEGORIJA,REGIJA,OBCINA,DAT_OD,DAT_DO
 439,Osnovna šola Koroški jeklarji Ravne na Koroškem,439,Osnovna šola Koroški jeklarji Ravne na Koroškem,2010,2010,Koroška,Ravne na Koroškem,22.02.2021,01.03.2021,23.02.2021,1008,5. razred,6003,Sum na okužbo
 439,Osnovna šola Koroški jeklarji Ravne na Koroškem,439,Osnovna šola Koroški jeklarji Ravne na Koroškem,2010,2010,Koroška,Ravne na Koroškem,22.02.2021,01.03.2021,23.02.2021,1011,8. razred,6003,Sum na okužbo
 439,Osnovna šola Koroški jeklarji Ravne na Koroškem,439,Osnovna šola Koroški jeklarji Ravne na Koroškem,2010,2010,Koroška,Ravne na Koroškem,22.02.2021,02.03.2021,23.02.2021,1011,8. razred,6003,Sum na okužbo
+439,Osnovna šola Koroški jeklarji Ravne na Koroškem,439,Osnovna šola Koroški jeklarji Ravne na Koroškem,2010,2010,Koroška,Ravne na Koroškem,25.02.2021,05.03.2021,26.02.2021,1004,1. razred,6003,Sum na okužbo
+439,Osnovna šola Koroški jeklarji Ravne na Koroškem,439,Osnovna šola Koroški jeklarji Ravne na Koroškem,2010,2010,Koroška,Ravne na Koroškem,26.02.2021,05.03.2021,26.02.2021,1004,1. razred,6003,Sum na okužbo
 439,Osnovna šola Koroški jeklarji Ravne na Koroškem,776,"Osnovna šola Koroški jeklarji Ravne na Koroškem, Podružnična šola Kotlje",2010,2010,Koroška,Ravne na Koroškem,11.02.2021,20.02.2021,11.02.2021,1005,2. razred,6003,Sum na okužbo
 439,Osnovna šola Koroški jeklarji Ravne na Koroškem,776,"Osnovna šola Koroški jeklarji Ravne na Koroškem, Podružnična šola Kotlje",2010,2010,Koroška,Ravne na Koroškem,11.10.2020,21.10.2020,13.10.2020,1005,2. razred,6003,Sum na okužbo
 439,Osnovna šola Koroški jeklarji Ravne na Koroškem,776,"Osnovna šola Koroški jeklarji Ravne na Koroškem, Podružnična šola Kotlje",2010,2010,Koroška,Ravne na Koroškem,14.10.2020,23.10.2020,15.10.2020,1006,3. razred,6003,Sum na okužbo
@@ -6199,6 +6240,7 @@ ZAVSIFMAT,ZAVMATNAZ,ZAVSIF,ZAVNAZ,KAT_MAT,KATEGORIJA,REGIJA,OBCINA,DAT_OD,DAT_DO
 461,Osnovna šola Dragomirja Benčiča - Brkina Hrpelje,461,Osnovna šola Dragomirja Benčiča - Brkina Hrpelje,2010,2010,Obalno-kraška,Hrpelje-Kozina,25.09.2020,27.09.2020,25.09.2020,1010,7. razred,6003,Sum na okužbo
 461,Osnovna šola Dragomirja Benčiča - Brkina Hrpelje,461,Osnovna šola Dragomirja Benčiča - Brkina Hrpelje,2010,2010,Obalno-kraška,Hrpelje-Kozina,25.09.2020,27.09.2020,25.09.2020,1012,9. razred,6003,Sum na okužbo
 463,Prva osnovna šola Slovenj Gradec,463,Prva osnovna šola Slovenj Gradec,2010,2010,Koroška,Slovenj Gradec,10.10.2020,18.10.2020,09.10.2020,1008,5. razred,6004,Okužba s Covid-19
+463,Prva osnovna šola Slovenj Gradec,463,Prva osnovna šola Slovenj Gradec,2010,2010,Koroška,Slovenj Gradec,25.02.2021,07.03.2021,26.02.2021,1005,2. razred,6004,Okužba s Covid-19
 464,Tretja osnovna šola Slovenj Gradec,464,Tretja osnovna šola Slovenj Gradec,2020,2020,Koroška,Slovenj Gradec,18.01.2021,25.01.2021,19.01.2021,1018,6. razred,6005,Sum na okužbo
 464,Tretja osnovna šola Slovenj Gradec,464,Tretja osnovna šola Slovenj Gradec,2020,2020,Koroška,Slovenj Gradec,18.01.2021,25.01.2021,19.01.2021,1018,6. razred,6005,Sum na okužbo
 464,Tretja osnovna šola Slovenj Gradec,464,Tretja osnovna šola Slovenj Gradec,2020,2020,Koroška,Slovenj Gradec,18.01.2021,25.01.2021,19.01.2021,1018,6. razred,6005,Sum na okužbo
@@ -6336,6 +6378,7 @@ ZAVSIFMAT,ZAVMATNAZ,ZAVSIF,ZAVNAZ,KAT_MAT,KATEGORIJA,REGIJA,OBCINA,DAT_OD,DAT_DO
 482,Osnovna šola Slivnica pri Celju,482,Osnovna šola Slivnica pri Celju,2010,2010,Savinjska,Šentjur,21.02.2021,05.03.2021,24.02.2021,1006,3. razred,6003,Sum na okužbo
 482,Osnovna šola Slivnica pri Celju,482,Osnovna šola Slivnica pri Celju,2010,2010,Savinjska,Šentjur,21.02.2021,05.03.2021,24.02.2021,1010,7. razred,6003,Sum na okužbo
 482,Osnovna šola Slivnica pri Celju,482,Osnovna šola Slivnica pri Celju,2010,2010,Savinjska,Šentjur,22.02.2021,05.03.2021,24.02.2021,1004,1. razred,6003,Sum na okužbo
+482,Osnovna šola Slivnica pri Celju,482,Osnovna šola Slivnica pri Celju,2010,2010,Savinjska,Šentjur,25.02.2021,04.03.2021,26.02.2021,1005,2. razred,6003,Sum na okužbo
 482,Osnovna šola Slivnica pri Celju,482,Osnovna šola Slivnica pri Celju,2010,2010,Savinjska,Šentjur,30.01.2021,08.02.2021,10.02.2021,1004,1. razred,6003,Sum na okužbo
 482,Osnovna šola Slivnica pri Celju,825,"Osnovna šola Slivnica pri Celju, Podružnična šola Prevorje",2010,2010,Savinjska,Šentjur,30.01.2021,08.02.2021,10.02.2021,1005,2. razred,6003,Sum na okužbo
 482,Osnovna šola Slivnica pri Celju,825,"Osnovna šola Slivnica pri Celju, Podružnična šola Prevorje",2010,2010,Savinjska,Šentjur,30.01.2021,08.02.2021,10.02.2021,1005,2. razred,6003,Sum na okužbo
@@ -6666,6 +6709,7 @@ ZAVSIFMAT,ZAVMATNAZ,ZAVSIF,ZAVNAZ,KAT_MAT,KATEGORIJA,REGIJA,OBCINA,DAT_OD,DAT_DO
 495,Osnovna šola Šmarje pri Jelšah,3529,Osnovna šola Šmarje pri Jelšah Podružnica Sv. Štefan,2010,2010,Savinjska,Šmarje pri Jelšah,25.01.2021,04.02.2021,27.01.2021,1005,2. razred,6003,Sum na okužbo
 495,Osnovna šola Šmarje pri Jelšah,3530,Osnovna šola Šmarje pri Jelšah Podružnica Kristan vrh,2010,2010,Savinjska,Šmarje pri Jelšah,08.10.2020,17.10.2020,12.10.2020,1004,1. razred,6003,Sum na okužbo
 495,Osnovna šola Šmarje pri Jelšah,3530,Osnovna šola Šmarje pri Jelšah Podružnica Kristan vrh,2010,2010,Savinjska,Šmarje pri Jelšah,21.09.2020,22.09.2020,25.09.2020,1006,3. razred,6003,Sum na okužbo
+495,Osnovna šola Šmarje pri Jelšah,3530,Osnovna šola Šmarje pri Jelšah Podružnica Kristan vrh,2010,2010,Savinjska,Šmarje pri Jelšah,23.02.2021,05.03.2021,26.02.2021,1006,3. razred,6004,Okužba s Covid-19
 495,Osnovna šola Šmarje pri Jelšah,3530,Osnovna šola Šmarje pri Jelšah Podružnica Kristan vrh,2010,2010,Savinjska,Šmarje pri Jelšah,28.01.2021,07.02.2021,28.01.2021,1004,1. razred,6003,Sum na okužbo
 495,Osnovna šola Šmarje pri Jelšah,495,Osnovna šola Šmarje pri Jelšah,2010,2010,Savinjska,Šmarje pri Jelšah,01.02.2021,11.02.2021,01.02.2021,1005,2. razred,6003,Sum na okužbo
 495,Osnovna šola Šmarje pri Jelšah,495,Osnovna šola Šmarje pri Jelšah,2010,2010,Savinjska,Šmarje pri Jelšah,01.02.2021,11.02.2021,01.02.2021,1006,3. razred,6003,Sum na okužbo
@@ -6695,15 +6739,16 @@ ZAVSIFMAT,ZAVMATNAZ,ZAVSIF,ZAVNAZ,KAT_MAT,KATEGORIJA,REGIJA,OBCINA,DAT_OD,DAT_DO
 495,Osnovna šola Šmarje pri Jelšah,495,Osnovna šola Šmarje pri Jelšah,2010,2010,Savinjska,Šmarje pri Jelšah,21.12.2020,31.12.2020,23.12.2020,1008,5. razred,6003,Sum na okužbo
 495,Osnovna šola Šmarje pri Jelšah,495,Osnovna šola Šmarje pri Jelšah,2010,2010,Savinjska,Šmarje pri Jelšah,22.02.2021,03.03.2021,25.02.2021,1005,2. razred,6003,Sum na okužbo
 495,Osnovna šola Šmarje pri Jelšah,495,Osnovna šola Šmarje pri Jelšah,2010,2010,Savinjska,Šmarje pri Jelšah,22.02.2021,04.03.2021,22.02.2021,1004,1. razred,6003,Sum na okužbo
-495,Osnovna šola Šmarje pri Jelšah,495,Osnovna šola Šmarje pri Jelšah,2010,2010,Savinjska,Šmarje pri Jelšah,22.02.2021,05.03.2021,24.02.2021,1004,1. razred,6004,Okužba s Covid-19
-495,Osnovna šola Šmarje pri Jelšah,495,Osnovna šola Šmarje pri Jelšah,2010,2010,Savinjska,Šmarje pri Jelšah,22.02.2021,05.03.2021,25.02.2021,1004,1. razred,6003,Sum na okužbo
+495,Osnovna šola Šmarje pri Jelšah,495,Osnovna šola Šmarje pri Jelšah,2010,2010,Savinjska,Šmarje pri Jelšah,22.02.2021,06.03.2021,25.02.2021,1004,1. razred,6004,Okužba s Covid-19
 495,Osnovna šola Šmarje pri Jelšah,495,Osnovna šola Šmarje pri Jelšah,2010,2010,Savinjska,Šmarje pri Jelšah,22.02.2021,22.02.2021,23.02.2021,1011,8. razred,6003,Sum na okužbo
 495,Osnovna šola Šmarje pri Jelšah,495,Osnovna šola Šmarje pri Jelšah,2010,2010,Savinjska,Šmarje pri Jelšah,22.02.2021,22.02.2021,24.02.2021,1008,5. razred,6003,Sum na okužbo
 495,Osnovna šola Šmarje pri Jelšah,495,Osnovna šola Šmarje pri Jelšah,2010,2010,Savinjska,Šmarje pri Jelšah,22.02.2021,24.02.2021,23.02.2021,1009,6. razred,6003,Sum na okužbo
-495,Osnovna šola Šmarje pri Jelšah,495,Osnovna šola Šmarje pri Jelšah,2010,2010,Savinjska,Šmarje pri Jelšah,22.02.2021,24.03.2021,25.02.2021,1006,3. razred,6003,Sum na okužbo
+495,Osnovna šola Šmarje pri Jelšah,495,Osnovna šola Šmarje pri Jelšah,2010,2010,Savinjska,Šmarje pri Jelšah,22.02.2021,24.02.2021,26.02.2021,1006,3. razred,6003,Sum na okužbo
 495,Osnovna šola Šmarje pri Jelšah,495,Osnovna šola Šmarje pri Jelšah,2010,2010,Savinjska,Šmarje pri Jelšah,22.02.2021,26.02.2021,22.02.2021,1010,7. razred,6003,Sum na okužbo
 495,Osnovna šola Šmarje pri Jelšah,495,Osnovna šola Šmarje pri Jelšah,2010,2010,Savinjska,Šmarje pri Jelšah,22.02.2021,26.02.2021,25.02.2021,1004,1. razred,6003,Sum na okužbo
 495,Osnovna šola Šmarje pri Jelšah,495,Osnovna šola Šmarje pri Jelšah,2010,2010,Savinjska,Šmarje pri Jelšah,22.09.2020,23.09.2020,01.10.2020,1010,7. razred,6003,Sum na okužbo
+495,Osnovna šola Šmarje pri Jelšah,495,Osnovna šola Šmarje pri Jelšah,2010,2010,Savinjska,Šmarje pri Jelšah,23.02.2021,03.03.2021,26.02.2021,1011,8. razred,6003,Sum na okužbo
+495,Osnovna šola Šmarje pri Jelšah,495,Osnovna šola Šmarje pri Jelšah,2010,2010,Savinjska,Šmarje pri Jelšah,23.02.2021,03.03.2021,26.02.2021,1012,9. razred,6003,Sum na okužbo
 495,Osnovna šola Šmarje pri Jelšah,495,Osnovna šola Šmarje pri Jelšah,2010,2010,Savinjska,Šmarje pri Jelšah,24.02.2021,03.03.2021,24.02.2021,1009,6. razred,6003,Sum na okužbo
 495,Osnovna šola Šmarje pri Jelšah,495,Osnovna šola Šmarje pri Jelšah,2010,2010,Savinjska,Šmarje pri Jelšah,24.02.2021,06.03.2021,24.02.2021,1010,7. razred,6003,Sum na okužbo
 495,Osnovna šola Šmarje pri Jelšah,495,Osnovna šola Šmarje pri Jelšah,2010,2010,Savinjska,Šmarje pri Jelšah,25.09.2020,29.09.2020,07.10.2020,1012,9. razred,6003,Sum na okužbo
@@ -6861,6 +6906,7 @@ ZAVSIFMAT,ZAVMATNAZ,ZAVSIF,ZAVNAZ,KAT_MAT,KATEGORIJA,REGIJA,OBCINA,DAT_OD,DAT_DO
 501,Osnovna šola Podčetrtek,1247,"Osnovna šola Podčetrtek, Vrtec Podčetrtek z oddelki v Podčetrtku in Pristavi pri Mestinju",2010,1010,Savinjska,Podčetrtek,24.01.2021,02.02.2021,12.02.2021,1001,1. star. obd.,6003,Sum na okužbo
 501,Osnovna šola Podčetrtek,1247,"Osnovna šola Podčetrtek, Vrtec Podčetrtek z oddelki v Podčetrtku in Pristavi pri Mestinju",2010,1010,Savinjska,Podčetrtek,24.01.2021,02.02.2021,12.02.2021,1002,2. star. obd.,6003,Sum na okužbo
 501,Osnovna šola Podčetrtek,1247,"Osnovna šola Podčetrtek, Vrtec Podčetrtek z oddelki v Podčetrtku in Pristavi pri Mestinju",2010,1010,Savinjska,Podčetrtek,25.01.2021,03.02.2021,15.02.2021,1001,1. star. obd.,6003,Sum na okužbo
+501,Osnovna šola Podčetrtek,1247,"Osnovna šola Podčetrtek, Vrtec Podčetrtek z oddelki v Podčetrtku in Pristavi pri Mestinju",2010,1010,Savinjska,Podčetrtek,26.02.2021,07.03.2021,26.02.2021,1001,1. star. obd.,6003,Sum na okužbo
 501,Osnovna šola Podčetrtek,1247,"Osnovna šola Podčetrtek, Vrtec Podčetrtek z oddelki v Podčetrtku in Pristavi pri Mestinju",2010,1010,Savinjska,Podčetrtek,26.10.2020,06.11.2020,04.11.2020,1001,1. star. obd.,6004,Okužba s Covid-19
 501,Osnovna šola Podčetrtek,1247,"Osnovna šola Podčetrtek, Vrtec Podčetrtek z oddelki v Podčetrtku in Pristavi pri Mestinju",2010,1010,Savinjska,Podčetrtek,27.01.2021,05.02.2021,12.02.2021,1001,1. star. obd.,6003,Sum na okužbo
 501,Osnovna šola Podčetrtek,501,Osnovna šola Podčetrtek,2010,2010,Savinjska,Podčetrtek,02.10.2020,07.10.2020,05.10.2020,1009,6. razred,6003,Sum na okužbo
@@ -6878,7 +6924,8 @@ ZAVSIFMAT,ZAVMATNAZ,ZAVSIF,ZAVNAZ,KAT_MAT,KATEGORIJA,REGIJA,OBCINA,DAT_OD,DAT_DO
 501,Osnovna šola Podčetrtek,785,"Osnovna šola Podčetrtek, Podružnična osnovna šola Pristava pri Mestinju",2010,2010,Savinjska,Podčetrtek,26.11.2020,06.12.2020,26.11.2020,1007,4. razred,6004,Okužba s Covid-19
 503,Osnovna šola Kozje,503,Osnovna šola Kozje,2010,2010,Savinjska,Kozje,01.02.2021,10.02.2021,05.02.2021,1004,1. razred,6003,Sum na okužbo
 503,Osnovna šola Kozje,503,Osnovna šola Kozje,2010,2010,Savinjska,Kozje,05.02.2021,15.02.2021,05.02.2021,1004,1. razred,6003,Sum na okužbo
-503,Osnovna šola Kozje,503,Osnovna šola Kozje,2010,2010,Savinjska,Kozje,20.02.2021,02.03.2021,22.02.2021,1010,7. razred,6003,Sum na okužbo
+503,Osnovna šola Kozje,503,Osnovna šola Kozje,2010,2010,Savinjska,Kozje,20.02.2021,25.02.2021,26.02.2021,1010,7. razred,6003,Sum na okužbo
+503,Osnovna šola Kozje,503,Osnovna šola Kozje,2010,2010,Savinjska,Kozje,25.02.2021,07.03.2021,26.02.2021,1010,7. razred,6004,Okužba s Covid-19
 504,Osnovna šola Lesično,504,Osnovna šola Lesično,2010,2010,Savinjska,Kozje,01.02.2021,01.02.2021,01.02.2021,1004,1. razred,6003,Sum na okužbo
 504,Osnovna šola Lesično,504,Osnovna šola Lesično,2010,2010,Savinjska,Kozje,01.02.2021,01.02.2021,01.02.2021,1006,3. razred,6003,Sum na okužbo
 504,Osnovna šola Lesično,504,Osnovna šola Lesično,2010,2010,Savinjska,Kozje,01.02.2021,03.02.2021,01.02.2021,1005,2. razred,6004,Okužba s Covid-19
@@ -7259,11 +7306,12 @@ ZAVSIFMAT,ZAVMATNAZ,ZAVSIF,ZAVNAZ,KAT_MAT,KATEGORIJA,REGIJA,OBCINA,DAT_OD,DAT_DO
 544,Osnovna šola Griže,544,Osnovna šola Griže,2010,2010,Savinjska,Žalec,22.02.2021,04.03.2021,23.02.2021,1010,7. razred,6003,Sum na okužbo
 544,Osnovna šola Griže,544,Osnovna šola Griže,2010,2010,Savinjska,Žalec,23.02.2021,05.03.2021,25.02.2021,1007,4. razred,6003,Sum na okužbo
 544,Osnovna šola Griže,544,Osnovna šola Griže,2010,2010,Savinjska,Žalec,23.02.2021,05.03.2021,25.02.2021,1012,9. razred,6003,Sum na okužbo
-544,Osnovna šola Griže,544,Osnovna šola Griže,2010,2010,Savinjska,Žalec,23.02.2021,05.03.2021,25.02.2021,1012,9. razred,6003,Sum na okužbo
 544,Osnovna šola Griže,544,Osnovna šola Griže,2010,2010,Savinjska,Žalec,25.01.2021,04.02.2021,28.01.2021,1004,1. razred,6003,Sum na okužbo
+544,Osnovna šola Griže,544,Osnovna šola Griže,2010,2010,Savinjska,Žalec,25.02.2021,05.03.2021,25.02.2021,1012,9. razred,6004,Okužba s Covid-19
 544,Osnovna šola Griže,544,Osnovna šola Griže,2010,2010,Savinjska,Žalec,26.01.2021,05.02.2021,03.02.2021,1004,1. razred,6003,Sum na okužbo
 544,Osnovna šola Griže,544,Osnovna šola Griže,2010,2010,Savinjska,Žalec,26.01.2021,05.02.2021,28.01.2021,1005,2. razred,6003,Sum na okužbo
 544,Osnovna šola Griže,544,Osnovna šola Griže,2010,2010,Savinjska,Žalec,26.01.2021,05.02.2021,28.01.2021,1006,3. razred,6003,Sum na okužbo
+544,Osnovna šola Griže,544,Osnovna šola Griže,2010,2010,Savinjska,Žalec,26.02.2021,08.03.2021,26.02.2021,1012,9. razred,6003,Sum na okužbo
 544,Osnovna šola Griže,544,Osnovna šola Griže,2010,2010,Savinjska,Žalec,27.01.2021,06.02.2021,28.01.2021,1005,2. razred,6003,Sum na okužbo
 544,Osnovna šola Griže,873,"Osnovna šola Griže, Podružnična osnovna šola Liboje",2010,2010,Savinjska,Žalec,02.02.2021,12.02.2021,03.02.2021,1005,2. razred,6003,Sum na okužbo
 544,Osnovna šola Griže,873,"Osnovna šola Griže, Podružnična osnovna šola Liboje",2010,2010,Savinjska,Žalec,18.10.2020,22.10.2020,30.10.2020,1008,5. razred,6003,Sum na okužbo
@@ -7320,6 +7368,7 @@ ZAVSIFMAT,ZAVMATNAZ,ZAVSIF,ZAVNAZ,KAT_MAT,KATEGORIJA,REGIJA,OBCINA,DAT_OD,DAT_DO
 550,Osnovna šola Prebold,550,Osnovna šola Prebold,2010,2010,Savinjska,Prebold,08.12.2020,18.12.2020,10.12.2020,1008,5. razred,6003,Sum na okužbo
 550,Osnovna šola Prebold,550,Osnovna šola Prebold,2010,2010,Savinjska,Prebold,21.09.2020,05.10.2020,21.09.2020,1006,3. razred,6003,Sum na okužbo
 550,Osnovna šola Prebold,550,Osnovna šola Prebold,2010,2010,Savinjska,Prebold,21.09.2020,05.10.2020,21.09.2020,1009,6. razred,6003,Sum na okužbo
+550,Osnovna šola Prebold,550,Osnovna šola Prebold,2010,2010,Savinjska,Prebold,24.02.2021,06.03.2021,25.02.2021,1007,4. razred,6003,Sum na okužbo
 550,Osnovna šola Prebold,550,Osnovna šola Prebold,2010,2010,Savinjska,Prebold,25.09.2020,05.10.2020,25.09.2020,1005,2. razred,6003,Sum na okužbo
 550,Osnovna šola Prebold,550,Osnovna šola Prebold,2010,2010,Savinjska,Prebold,25.09.2020,05.10.2020,25.09.2020,1008,5. razred,6003,Sum na okužbo
 551,Osnovna šola Polzela,1365,"Osnovna šola Polzela, Enota Vrtec Polzela",2010,1010,Savinjska,Polzela,08.09.2020,18.09.2020,12.09.2020,1002,2. star. obd.,6003,Sum na okužbo
@@ -7414,6 +7463,7 @@ ZAVSIFMAT,ZAVMATNAZ,ZAVSIF,ZAVNAZ,KAT_MAT,KATEGORIJA,REGIJA,OBCINA,DAT_OD,DAT_DO
 564,Osnovna šola Draga Kobala Maribor,564,Osnovna šola Draga Kobala Maribor,2010,2010,Podravska,Maribor,15.02.2021,25.02.2021,22.02.2021,1004,1. razred,6003,Sum na okužbo
 564,Osnovna šola Draga Kobala Maribor,564,Osnovna šola Draga Kobala Maribor,2010,2010,Podravska,Maribor,19.02.2021,01.03.2021,20.02.2021,1010,7. razred,6003,Sum na okužbo
 564,Osnovna šola Draga Kobala Maribor,564,Osnovna šola Draga Kobala Maribor,2010,2010,Podravska,Maribor,21.02.2021,03.03.2021,21.02.2021,1006,3. razred,6003,Sum na okužbo
+564,Osnovna šola Draga Kobala Maribor,564,Osnovna šola Draga Kobala Maribor,2010,2010,Podravska,Maribor,25.02.2021,04.03.2021,26.02.2021,1012,9. razred,6003,Sum na okužbo
 564,Osnovna šola Draga Kobala Maribor,564,Osnovna šola Draga Kobala Maribor,2010,2010,Podravska,Maribor,26.01.2021,05.02.2021,26.01.2021,1005,2. razred,6003,Sum na okužbo
 565,Osnovna šola Franca Rozmana - Staneta Maribor,565,Osnovna šola Franca Rozmana - Staneta Maribor,2010,2010,Podravska,Maribor,09.02.2021,12.02.2021,13.02.2021,1006,3. razred,6004,Okužba s Covid-19
 565,Osnovna šola Franca Rozmana - Staneta Maribor,943,Osnovna šola Franca Rozmana - Staneta Maribor Podružnična šola Ivana Cankarja Košaki,2010,2010,Podravska,Maribor,26.01.2021,06.02.2021,11.02.2021,1005,2. razred,6003,Sum na okužbo
@@ -7519,7 +7569,7 @@ ZAVSIFMAT,ZAVMATNAZ,ZAVSIF,ZAVNAZ,KAT_MAT,KATEGORIJA,REGIJA,OBCINA,DAT_OD,DAT_DO
 576,Osnovna šola Miklavž na Dravskem polju,576,Osnovna šola Miklavž na Dravskem polju,2010,2010,Podravska,Miklavž na Dravskem polju,19.02.2021,01.03.2021,25.02.2021,1007,4. razred,6003,Sum na okužbo
 576,Osnovna šola Miklavž na Dravskem polju,576,Osnovna šola Miklavž na Dravskem polju,2010,2010,Podravska,Miklavž na Dravskem polju,19.02.2021,28.02.2021,22.02.2021,1004,1. razred,6003,Sum na okužbo
 576,Osnovna šola Miklavž na Dravskem polju,576,Osnovna šola Miklavž na Dravskem polju,2010,2010,Podravska,Miklavž na Dravskem polju,23.02.2021,04.03.2021,24.02.2021,1011,8. razred,6003,Sum na okužbo
-576,Osnovna šola Miklavž na Dravskem polju,576,Osnovna šola Miklavž na Dravskem polju,2010,2010,Podravska,Miklavž na Dravskem polju,23.02.2021,04.03.2021,25.02.2021,1007,4. razred,6003,Sum na okužbo
+576,Osnovna šola Miklavž na Dravskem polju,576,Osnovna šola Miklavž na Dravskem polju,2010,2010,Podravska,Miklavž na Dravskem polju,23.02.2021,04.03.2021,26.02.2021,1009,6. razred,6003,Sum na okužbo
 576,Osnovna šola Miklavž na Dravskem polju,576,Osnovna šola Miklavž na Dravskem polju,2010,2010,Podravska,Miklavž na Dravskem polju,23.10.2020,06.11.2020,09.11.2020,1004,1. razred,6003,Sum na okužbo
 576,Osnovna šola Miklavž na Dravskem polju,576,Osnovna šola Miklavž na Dravskem polju,2010,2010,Podravska,Miklavž na Dravskem polju,27.10.2020,06.11.2020,09.11.2020,1004,1. razred,6003,Sum na okužbo
 576,Osnovna šola Miklavž na Dravskem polju,576,Osnovna šola Miklavž na Dravskem polju,2010,2010,Podravska,Miklavž na Dravskem polju,29.10.2020,08.11.2020,08.11.2020,1005,2. razred,6003,Sum na okužbo
@@ -7613,7 +7663,8 @@ ZAVSIFMAT,ZAVMATNAZ,ZAVSIF,ZAVNAZ,KAT_MAT,KATEGORIJA,REGIJA,OBCINA,DAT_OD,DAT_DO
 590,Osnovna šola Selnica ob Dravi,590,Osnovna šola Selnica ob Dravi,2010,2010,Podravska,Selnica ob Dravi,14.02.2021,24.02.2021,14.02.2021,1004,1. razred,6003,Sum na okužbo
 590,Osnovna šola Selnica ob Dravi,590,Osnovna šola Selnica ob Dravi,2010,2010,Podravska,Selnica ob Dravi,16.09.2020,25.09.2020,21.09.2020,1009,6. razred,6003,Sum na okužbo
 590,Osnovna šola Selnica ob Dravi,590,Osnovna šola Selnica ob Dravi,2010,2010,Podravska,Selnica ob Dravi,24.02.2021,05.03.2021,24.02.2021,1011,8. razred,6003,Sum na okužbo
-590,Osnovna šola Selnica ob Dravi,590,Osnovna šola Selnica ob Dravi,2010,2010,Podravska,Selnica ob Dravi,24.02.2021,05.03.2021,24.02.2021,1012,9. razred,6003,Sum na okužbo
+590,Osnovna šola Selnica ob Dravi,590,Osnovna šola Selnica ob Dravi,2010,2010,Podravska,Selnica ob Dravi,24.02.2021,05.03.2021,26.02.2021,1012,9. razred,6004,Okužba s Covid-19
+590,Osnovna šola Selnica ob Dravi,590,Osnovna šola Selnica ob Dravi,2010,2010,Podravska,Selnica ob Dravi,26.02.2021,07.02.2021,26.02.2021,1012,9. razred,6003,Sum na okužbo
 590,Osnovna šola Selnica ob Dravi,590,Osnovna šola Selnica ob Dravi,2010,2010,Podravska,Selnica ob Dravi,29.09.2020,05.10.2020,29.09.2020,1012,9. razred,6003,Sum na okužbo
 590,Osnovna šola Selnica ob Dravi,590,Osnovna šola Selnica ob Dravi,2010,2010,Podravska,Selnica ob Dravi,30.01.2021,08.02.2021,04.02.2021,1004,1. razred,6003,Sum na okužbo
 590,Osnovna šola Selnica ob Dravi,590,Osnovna šola Selnica ob Dravi,2010,2010,Podravska,Selnica ob Dravi,30.09.2020,09.10.2020,01.10.2020,1006,3. razred,6003,Sum na okužbo
@@ -7711,6 +7762,7 @@ ZAVSIFMAT,ZAVMATNAZ,ZAVSIF,ZAVNAZ,KAT_MAT,KATEGORIJA,REGIJA,OBCINA,DAT_OD,DAT_DO
 5,Šolski center Celje,1295,"Šolski center Celje, Srednja šola za strojništvo, mehatroniko in medije",3010,3010,Savinjska,Celje,24.09.2020,29.09.2020,25.09.2020,1030,3. letnik,6009,Sum na okužbo
 5,Šolski center Celje,1295,"Šolski center Celje, Srednja šola za strojništvo, mehatroniko in medije",3010,3010,Savinjska,Celje,25.09.2020,05.10.2020,28.09.2020,1029,2. letnik,6009,Sum na okužbo
 5,Šolski center Celje,1295,"Šolski center Celje, Srednja šola za strojništvo, mehatroniko in medije",3010,3010,Savinjska,Celje,25.09.2020,30.09.2020,25.09.2020,1029,2. letnik,6009,Sum na okužbo
+5,Šolski center Celje,1295,"Šolski center Celje, Srednja šola za strojništvo, mehatroniko in medije",3010,3010,Savinjska,Celje,26.02.2021,05.03.2021,26.02.2021,1029,2. letnik,6010,Okužba s Covid-19
 5,Šolski center Celje,1295,"Šolski center Celje, Srednja šola za strojništvo, mehatroniko in medije",3010,3010,Savinjska,Celje,29.09.2020,10.08.2020,30.09.2020,1031,4. letnik,6009,Sum na okužbo
 5,Šolski center Celje,1296,"Šolski center Celje, Srednja šola za kemijo, elektrotehniko in računalništvo",3010,3010,Savinjska,Celje,05.09.2020,18.09.2020,18.09.2020,1029,2. letnik,6009,Sum na okužbo
 5,Šolski center Celje,1296,"Šolski center Celje, Srednja šola za kemijo, elektrotehniko in računalništvo",3010,3010,Savinjska,Celje,05.09.2020,18.09.2020,18.09.2020,1031,4. letnik,6009,Sum na okužbo
@@ -7826,6 +7878,9 @@ ZAVSIFMAT,ZAVMATNAZ,ZAVSIF,ZAVNAZ,KAT_MAT,KATEGORIJA,REGIJA,OBCINA,DAT_OD,DAT_DO
 607,Osnovna šola Ob Dravinji Slovenske Konjice,607,Osnovna šola Ob Dravinji Slovenske Konjice,2010,2010,Savinjska,Slovenske Konjice,22.02.2021,04.03.2021,25.02.2021,1012,9. razred,6004,Okužba s Covid-19
 607,Osnovna šola Ob Dravinji Slovenske Konjice,607,Osnovna šola Ob Dravinji Slovenske Konjice,2010,2010,Savinjska,Slovenske Konjice,25.11.2020,05.12.2020,25.11.2020,1008,5. razred,6004,Okužba s Covid-19
 607,Osnovna šola Ob Dravinji Slovenske Konjice,607,Osnovna šola Ob Dravinji Slovenske Konjice,2010,2010,Savinjska,Slovenske Konjice,25.11.2020,05.12.2020,25.11.2020,1008,5. razred,6004,Okužba s Covid-19
+607,Osnovna šola Ob Dravinji Slovenske Konjice,607,Osnovna šola Ob Dravinji Slovenske Konjice,2010,2010,Savinjska,Slovenske Konjice,26.02.2021,08.03.2021,26.02.2021,1011,8. razred,6003,Sum na okužbo
+607,Osnovna šola Ob Dravinji Slovenske Konjice,607,Osnovna šola Ob Dravinji Slovenske Konjice,2010,2010,Savinjska,Slovenske Konjice,26.02.2021,08.03.2021,26.02.2021,1012,9. razred,6003,Sum na okužbo
+607,Osnovna šola Ob Dravinji Slovenske Konjice,607,Osnovna šola Ob Dravinji Slovenske Konjice,2010,2010,Savinjska,Slovenske Konjice,26.02.2021,08.03.2021,26.02.2021,1012,9. razred,6003,Sum na okužbo
 608,Osnovna šola Pod goro Slovenske Konjice,10949,Osnovna šola Pod goro Slovenske Konjice Enota s prilagojenim učnim programom,2010,2020,Savinjska,Slovenske Konjice,09.02.2021,19.02.2021,09.02.2021,1022,I. stopnja,6004,Okužba s Covid-19
 608,Osnovna šola Pod goro Slovenske Konjice,10949,Osnovna šola Pod goro Slovenske Konjice Enota s prilagojenim učnim programom,2010,2020,Savinjska,Slovenske Konjice,12.10.2020,22.10.2020,13.10.2020,1022,I. stopnja,6003,Sum na okužbo
 608,Osnovna šola Pod goro Slovenske Konjice,608,Osnovna šola Pod goro Slovenske Konjice,2010,2010,Savinjska,Slovenske Konjice,05.10.2020,15.10.2020,07.10.2020,1009,6. razred,6004,Okužba s Covid-19
@@ -7850,6 +7905,10 @@ ZAVSIFMAT,ZAVMATNAZ,ZAVSIF,ZAVNAZ,KAT_MAT,KATEGORIJA,REGIJA,OBCINA,DAT_OD,DAT_DO
 609,Osnovna šola Loče,609,Osnovna šola Loče,2010,2010,Savinjska,Slovenske Konjice,15.10.2020,18.10.2020,15.10.2020,1011,8. razred,6003,Sum na okužbo
 609,Osnovna šola Loče,609,Osnovna šola Loče,2010,2010,Savinjska,Slovenske Konjice,15.10.2020,18.10.2020,15.10.2020,1012,9. razred,6003,Sum na okužbo
 609,Osnovna šola Loče,609,Osnovna šola Loče,2010,2010,Savinjska,Slovenske Konjice,15.10.2020,25.10.2020,15.10.2020,1007,4. razred,6003,Sum na okužbo
+609,Osnovna šola Loče,609,Osnovna šola Loče,2010,2010,Savinjska,Slovenske Konjice,23.02.2021,03.03.2021,26.02.2021,1010,7. razred,6003,Sum na okužbo
+609,Osnovna šola Loče,609,Osnovna šola Loče,2010,2010,Savinjska,Slovenske Konjice,23.02.2021,03.03.2021,26.02.2021,1011,8. razred,6003,Sum na okužbo
+609,Osnovna šola Loče,609,Osnovna šola Loče,2010,2010,Savinjska,Slovenske Konjice,23.02.2021,03.03.2021,26.02.2021,1011,8. razred,6003,Sum na okužbo
+609,Osnovna šola Loče,609,Osnovna šola Loče,2010,2010,Savinjska,Slovenske Konjice,23.02.2021,03.03.2021,26.02.2021,1012,9. razred,6003,Sum na okužbo
 609,Osnovna šola Loče,609,Osnovna šola Loče,2010,2010,Savinjska,Slovenske Konjice,24.02.2021,04.03.2021,24.02.2021,1010,7. razred,6003,Sum na okužbo
 609,Osnovna šola Loče,609,Osnovna šola Loče,2010,2010,Savinjska,Slovenske Konjice,24.02.2021,04.03.2021,24.02.2021,1012,9. razred,6003,Sum na okužbo
 609,Osnovna šola Loče,609,Osnovna šola Loče,2010,2010,Savinjska,Slovenske Konjice,25.02.2021,07.03.2021,25.02.2021,1005,2. razred,6003,Sum na okužbo
@@ -7998,6 +8057,8 @@ ZAVSIFMAT,ZAVMATNAZ,ZAVSIF,ZAVNAZ,KAT_MAT,KATEGORIJA,REGIJA,OBCINA,DAT_OD,DAT_DO
 67,Šolski center Rogaška Slatina,67,Šolski center Rogaška Slatina,3010,3010,Savinjska,Rogaška Slatina,12.10.2020,13.10.2020,13.10.2020,1030,3. letnik,6009,Sum na okužbo
 67,Šolski center Rogaška Slatina,67,Šolski center Rogaška Slatina,3010,3010,Savinjska,Rogaška Slatina,13.10.2020,18.10.2020,13.10.2020,1030,3. letnik,6010,Okužba s Covid-19
 67,Šolski center Rogaška Slatina,67,Šolski center Rogaška Slatina,3010,3010,Savinjska,Rogaška Slatina,22.09.2020,23.09.2020,23.09.2020,1029,2. letnik,6009,Sum na okužbo
+67,Šolski center Rogaška Slatina,67,Šolski center Rogaška Slatina,3010,3010,Savinjska,Rogaška Slatina,23.02.2021,05.03.2021,25.02.2021,1028,1. letnik,6010,Okužba s Covid-19
+67,Šolski center Rogaška Slatina,67,Šolski center Rogaška Slatina,3010,3010,Savinjska,Rogaška Slatina,23.02.2021,05.03.2021,25.02.2021,1031,4. letnik,6010,Okužba s Covid-19
 67,Šolski center Rogaška Slatina,67,Šolski center Rogaška Slatina,3010,3010,Savinjska,Rogaška Slatina,23.09.2020,28.09.2020,28.09.2020,1029,2. letnik,6009,Sum na okužbo
 72,Biotehniški center Naklo,10749,"Biotehniški center Naklo, Srednja šola",3010,3010,Gorenjska,Naklo,03.10.2020,18.10.2020,05.10.2020,1028,1. letnik,6009,Sum na okužbo
 72,Biotehniški center Naklo,10749,"Biotehniški center Naklo, Srednja šola",3010,3010,Gorenjska,Naklo,05.10.2020,10.10.2020,06.10.2020,1028,1. letnik,6009,Sum na okužbo
@@ -8090,6 +8151,7 @@ ZAVSIFMAT,ZAVMATNAZ,ZAVSIF,ZAVNAZ,KAT_MAT,KATEGORIJA,REGIJA,OBCINA,DAT_OD,DAT_DO
 88,Strokovni izobraževalni center Ljubljana,14749,"Strokovni izobraževalni center Ljubljana, Srednja poklicna in strokovna šola Bežigrad",3010,3010,Osrednjeslovenska,Ljubljana,15.10.2020,18.10.2020,16.10.2020,1029,2. letnik,6010,Okužba s Covid-19
 88,Strokovni izobraževalni center Ljubljana,14749,"Strokovni izobraževalni center Ljubljana, Srednja poklicna in strokovna šola Bežigrad",3010,3010,Osrednjeslovenska,Ljubljana,15.10.2020,18.10.2020,16.10.2020,1029,2. letnik,6010,Okužba s Covid-19
 88,Strokovni izobraževalni center Ljubljana,14749,"Strokovni izobraževalni center Ljubljana, Srednja poklicna in strokovna šola Bežigrad",3010,3010,Osrednjeslovenska,Ljubljana,16.09.2020,24.09.2020,21.09.2020,1028,1. letnik,6010,Okužba s Covid-19
+89,Srednja gradbena šola in gimnazija Maribor,89,Srednja gradbena šola in gimnazija Maribor,3010,3010,Podravska,Maribor,23.02.2021,04.03.2021,26.02.2021,1031,4. letnik,6010,Okužba s Covid-19
 91,Gimnazija in ekonomska srednja šola Trbovlje,91,Gimnazija in ekonomska srednja šola Trbovlje,3010,3010,Zasavska,Trbovlje,13.10.2020,18.10.2020,13.10.2020,1031,4. letnik,6010,Okužba s Covid-19
 91,Gimnazija in ekonomska srednja šola Trbovlje,91,Gimnazija in ekonomska srednja šola Trbovlje,3010,3010,Zasavska,Trbovlje,15.02.2021,19.02.2021,15.02.2021,1031,4. letnik,6009,Sum na okužbo
 92,Konservatorij za glasbo in balet Maribor,22635,"Konservatorij za glasbo in balet Maribor, Glasbena in baletna šola Center",3010,2030,Podravska,Maribor,05.10.2020,11.10.2020,07.10.2020,1505,Flavta,6009,Sum na okužbo
@@ -8099,6 +8161,8 @@ ZAVSIFMAT,ZAVMATNAZ,ZAVSIF,ZAVNAZ,KAT_MAT,KATEGORIJA,REGIJA,OBCINA,DAT_OD,DAT_DO
 92,Konservatorij za glasbo in balet Maribor,22635,"Konservatorij za glasbo in balet Maribor, Glasbena in baletna šola Center",3010,2030,Podravska,Maribor,13.10.2020,21.10.2020,13.10.2020,1524,Violina,6010,Okužba s Covid-19
 92,Konservatorij za glasbo in balet Maribor,22635,"Konservatorij za glasbo in balet Maribor, Glasbena in baletna šola Center",3010,2030,Podravska,Maribor,13.10.2020,27.10.2020,13.10.2020,1510,Klavir,6009,Sum na okužbo
 92,Konservatorij za glasbo in balet Maribor,22635,"Konservatorij za glasbo in balet Maribor, Glasbena in baletna šola Center",3010,2030,Podravska,Maribor,21.09.2020,30.09.2020,28.09.2020,1515,Petje,6010,Okužba s Covid-19
+92,Konservatorij za glasbo in balet Maribor,22635,"Konservatorij za glasbo in balet Maribor, Glasbena in baletna šola Center",3010,2030,Podravska,Maribor,24.02.2021,05.03.2021,25.02.2021,1508,Kitara,6009,Sum na okužbo
+92,Konservatorij za glasbo in balet Maribor,22635,"Konservatorij za glasbo in balet Maribor, Glasbena in baletna šola Center",3010,2030,Podravska,Maribor,25.02.2021,06.03.2021,25.02.2021,1524,Violina,6009,Sum na okužbo
 92,Konservatorij za glasbo in balet Maribor,22636,"Konservatorij za glasbo in balet Maribor, enota v podr. šoli Tabor",3010,2030,Podravska,Maribor,04.10.2020,08.10.2020,05.10.2020,1524,Violina,6009,Sum na okužbo
 92,Konservatorij za glasbo in balet Maribor,22636,"Konservatorij za glasbo in balet Maribor, enota v podr. šoli Tabor",3010,2030,Podravska,Maribor,10.10.2020,17.10.2020,13.10.2020,1507,Harmonika,6009,Sum na okužbo
 92,Konservatorij za glasbo in balet Maribor,22636,"Konservatorij za glasbo in balet Maribor, enota v podr. šoli Tabor",3010,2030,Podravska,Maribor,10.10.2020,17.10.2020,13.10.2020,1510,Klavir,6009,Sum na okužbo
@@ -8176,6 +8240,7 @@ ZAVSIFMAT,ZAVMATNAZ,ZAVSIF,ZAVNAZ,KAT_MAT,KATEGORIJA,REGIJA,OBCINA,DAT_OD,DAT_DO
 969,Druga osnovna šola Slovenj Gradec,969,Druga osnovna šola Slovenj Gradec,2010,2010,Koroška,Slovenj Gradec,21.10.2020,31.10.2020,23.10.2020,1004,1. razred,6003,Sum na okužbo
 969,Druga osnovna šola Slovenj Gradec,969,Druga osnovna šola Slovenj Gradec,2010,2010,Koroška,Slovenj Gradec,21.10.2020,31.10.2020,23.10.2020,1006,3. razred,6003,Sum na okužbo
 969,Druga osnovna šola Slovenj Gradec,969,Druga osnovna šola Slovenj Gradec,2010,2010,Koroška,Slovenj Gradec,21.10.2020,31.10.2020,23.10.2020,1007,4. razred,6004,Okužba s Covid-19
+969,Druga osnovna šola Slovenj Gradec,969,Druga osnovna šola Slovenj Gradec,2010,2010,Koroška,Slovenj Gradec,22.02.2021,03.03.2021,25.02.2021,1004,1. razred,6004,Okužba s Covid-19
 969,Druga osnovna šola Slovenj Gradec,969,Druga osnovna šola Slovenj Gradec,2010,2010,Koroška,Slovenj Gradec,22.10.2020,01.11.2020,23.10.2020,1005,2. razred,6003,Sum na okužbo
 969,Druga osnovna šola Slovenj Gradec,969,Druga osnovna šola Slovenj Gradec,2010,2010,Koroška,Slovenj Gradec,23.10.2020,02.11.2020,23.10.2020,1006,3. razred,6003,Sum na okužbo
 969,Druga osnovna šola Slovenj Gradec,969,Druga osnovna šola Slovenj Gradec,2010,2010,Koroška,Slovenj Gradec,25.01.2021,04.02.2021,26.01.2021,1006,3. razred,6003,Sum na okužbo
@@ -8195,11 +8260,12 @@ ZAVSIFMAT,ZAVMATNAZ,ZAVSIF,ZAVNAZ,KAT_MAT,KATEGORIJA,REGIJA,OBCINA,DAT_OD,DAT_DO
 984,Glasbena šola Rogaška Slatina,984,Glasbena šola Rogaška Slatina,2030,2030,Savinjska,Rogaška Slatina,07.10.2020,12.10.2020,07.10.2020,1510,Klavir,6007,Sum na okužbo
 984,Glasbena šola Rogaška Slatina,984,Glasbena šola Rogaška Slatina,2030,2030,Savinjska,Rogaška Slatina,07.10.2020,12.10.2020,07.10.2020,1524,Violina,6007,Sum na okužbo
 9854,Osnovna šola Drska,9854,Osnovna šola Drska,2010,2010,Jugovzhodna Slovenija,Novo mesto,12.10.2020,18.10.2020,14.10.2020,1012,9. razred,6004,Okužba s Covid-19
-9854,Osnovna šola Drska,9854,Osnovna šola Drska,2010,2010,Jugovzhodna Slovenija,Novo mesto,22.02.2021,05.03.2021,25.02.2021,1005,2. razred,6003,Sum na okužbo
-9854,Osnovna šola Drska,9854,Osnovna šola Drska,2010,2010,Jugovzhodna Slovenija,Novo mesto,22.02.2021,05.03.2021,25.02.2021,1012,9. razred,6003,Sum na okužbo
+9854,Osnovna šola Drska,9854,Osnovna šola Drska,2010,2010,Jugovzhodna Slovenija,Novo mesto,22.02.2021,05.03.2021,26.02.2021,1005,2. razred,6003,Sum na okužbo
+9854,Osnovna šola Drska,9854,Osnovna šola Drska,2010,2010,Jugovzhodna Slovenija,Novo mesto,22.02.2021,05.03.2021,26.02.2021,1012,9. razred,6003,Sum na okužbo
 9854,Osnovna šola Drska,9854,Osnovna šola Drska,2010,2010,Jugovzhodna Slovenija,Novo mesto,22.02.2021,25.02.2021,22.02.2021,1011,8. razred,6003,Sum na okužbo
-9854,Osnovna šola Drska,9854,Osnovna šola Drska,2010,2010,Jugovzhodna Slovenija,Novo mesto,24.02.2021,03.03.2021,25.02.2021,1010,7. razred,6003,Sum na okužbo
-9854,Osnovna šola Drska,9854,Osnovna šola Drska,2010,2010,Jugovzhodna Slovenija,Novo mesto,24.02.2021,05.03.2021,25.02.2021,1009,6. razred,6003,Sum na okužbo
+9854,Osnovna šola Drska,9854,Osnovna šola Drska,2010,2010,Jugovzhodna Slovenija,Novo mesto,24.02.2021,03.03.2021,26.02.2021,1010,7. razred,6003,Sum na okužbo
+9854,Osnovna šola Drska,9854,Osnovna šola Drska,2010,2010,Jugovzhodna Slovenija,Novo mesto,24.02.2021,05.03.2021,26.02.2021,1009,6. razred,6003,Sum na okužbo
+9854,Osnovna šola Drska,9854,Osnovna šola Drska,2010,2010,Jugovzhodna Slovenija,Novo mesto,26.02.2021,26.02.2021,26.02.2021,1010,7. razred,6003,Sum na okužbo
 9854,Osnovna šola Drska,9854,Osnovna šola Drska,2010,2010,Jugovzhodna Slovenija,Novo mesto,28.09.2020,03.10.2020,27.09.2020,1008,5. razred,6004,Okužba s Covid-19
 9871,Vrtec Pedenjped Novo mesto,11409,"Vrtec Pedenjped Novo mesto, METKA",1010,1010,Jugovzhodna Slovenija,Novo mesto,05.12.2020,14.12.2020,07.12.2020,1002,2. star. obd.,6001,Sum na okužbo
 9871,Vrtec Pedenjped Novo mesto,11409,"Vrtec Pedenjped Novo mesto, METKA",1010,1010,Jugovzhodna Slovenija,Novo mesto,10.11.2020,20.11.2020,10.11.2020,1002,2. star. obd.,6002,Okužba s Covid-19
@@ -8320,6 +8386,7 @@ ZAVSIFMAT,ZAVMATNAZ,ZAVSIF,ZAVNAZ,KAT_MAT,KATEGORIJA,REGIJA,OBCINA,DAT_OD,DAT_DO
 9871,Vrtec Pedenjped Novo mesto,17671,"Vrtec Pedenjped Novo mesto, SAPRAMIŠKA",1010,1010,Jugovzhodna Slovenija,Novo mesto,21.12.2020,30.12.2020,24.12.2020,1001,1. star. obd.,6001,Sum na okužbo
 9871,Vrtec Pedenjped Novo mesto,17671,"Vrtec Pedenjped Novo mesto, SAPRAMIŠKA",1010,1010,Jugovzhodna Slovenija,Novo mesto,21.12.2020,30.12.2020,24.12.2020,1001,1. star. obd.,6001,Sum na okužbo
 9871,Vrtec Pedenjped Novo mesto,17671,"Vrtec Pedenjped Novo mesto, SAPRAMIŠKA",1010,1010,Jugovzhodna Slovenija,Novo mesto,26.01.2021,04.02.2021,27.01.2021,1002,2. star. obd.,6001,Sum na okužbo
+9871,Vrtec Pedenjped Novo mesto,18590,"Vrtec Pedenjped Novo mesto, CEPETAVČEK",1010,1010,Jugovzhodna Slovenija,Novo mesto,24.02.2021,05.03.2021,26.02.2021,1001,1. star. obd.,6001,Sum na okužbo
 98,Gimnazija Nova Gorica,98,Gimnazija Nova Gorica,3010,3010,Goriška,Nova Gorica,05.10.2020,12.10.2020,07.10.2020,1029,2. letnik,6009,Sum na okužbo
 98,Gimnazija Nova Gorica,98,Gimnazija Nova Gorica,3010,3010,Goriška,Nova Gorica,06.10.2020,13.10.2020,07.10.2020,1031,4. letnik,6009,Sum na okužbo
 98,Gimnazija Nova Gorica,98,Gimnazija Nova Gorica,3010,3010,Goriška,Nova Gorica,06.10.2020,13.10.2020,07.10.2020,1031,4. letnik,6009,Sum na okužbo
