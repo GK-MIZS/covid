@@ -16401,44 +16401,81 @@ ZAVSIFMAT,ZAVMATNAZ,ZAVSIF,ZAVNAZ,KAT_MAT,KATEGORIJA,REGIJA,OBCINA,DAT_OD,DAT_DO
 9,"Šolski center za pošto, ekonomijo in telekomunikacije Ljubljana",3816,"Šolski center za pošto, ekonomijo in telekomunikacije Ljubljana, Srednja tehniška in strokovna šola",3010,3010,Osrednjeslovenska,Ljubljana,28.09.2020,08.10.2020,30.09.2020,5013,Učitelj,6010,Okužba s Covid-19
 9,"Šolski center za pošto, ekonomijo in telekomunikacije Ljubljana",3816,"Šolski center za pošto, ekonomijo in telekomunikacije Ljubljana, Srednja tehniška in strokovna šola",3010,3010,Osrednjeslovenska,Ljubljana,28.09.2020,11.10.2020,30.09.2020,5013,Učitelj,6010,Okužba s Covid-19
 9,"Šolski center za pošto, ekonomijo in telekomunikacije Ljubljana",9574,"Šolski center za pošto, ekonomijo in telekomunikacije Ljubljana, Višja strokovna šola",3010,5040,Osrednjeslovenska,Ljubljana,24.02.2021,10.03.2021,25.02.2021,5025,Drugi delavci,6010,Okužba s Covid-19
+10549,Osnovna šola Dragomelj,10549,Osnovna šola Dragomelj,2010,2010,Osrednjeslovenska,Domžale,06.09.2021,13.09.2021,06.09.2021,5005,Drugi strokovni delavec,6003,Sum na okužbo
 10550,Osnovna šola Koper,10550,Osnovna šola Koper,2010,2010,Obalno-kraška,Koper,02.09.2021,11.09.2021,03.09.2021,5004,Učitelj,6004,Okužba s Covid-19
+1061,VRTEC DRAVOGRAD,14350,"VRTEC DRAVOGRAD, VRTEC ŠENTJANŽ",1010,1010,Koroška,Dravograd,27.08.2021,02.09.2021,06.09.2021,5003,Drugi delavci,6001,Sum na okužbo
+1061,VRTEC DRAVOGRAD,14729,"VRTEC DRAVOGRAD, VRTEC DRAVOGRAD, ENOTA DRAVOGRAD",1010,1010,Koroška,Dravograd,25.08.2021,04.09.2021,06.09.2021,5003,Drugi delavci,6002,Okužba s Covid-19
 1065,Vrtec Koper,11309,"Vrtec Koper, Enota Ribica",1010,1010,Obalno-kraška,Koper,31.08.2021,10.09.2021,01.09.2021,5001,Vzgojitelj,6002,Okužba s Covid-19
+1082,Vrtec Otona Župančiča Slovenska Bistrica,11113,"Vrtec Otona Župančiča Slovenska Bistrica, Enota Ciciban",1010,1010,Podravska,Slovenska Bistrica,03.09.2021,12.09.2021,06.09.2021,5003,Drugi delavci,6001,Sum na okužbo
 1085,Vrtec Ptuj,14114,"Vrtec Ptuj, Enota Mačice",1010,1010,Podravska,Ptuj,26.08.2021,04.09.2021,02.09.2021,5001,Vzgojitelj,6001,Sum na okužbo
 1085,Vrtec Ptuj,14114,"Vrtec Ptuj, Enota Mačice",1010,1010,Podravska,Ptuj,26.08.2021,04.09.2021,02.09.2021,5001,Vzgojitelj,6001,Sum na okužbo
 1085,Vrtec Ptuj,14114,"Vrtec Ptuj, Enota Mačice",1010,1010,Podravska,Ptuj,26.08.2021,04.09.2021,02.09.2021,5001,Vzgojitelj,6001,Sum na okužbo
+1088,Vrtec Vrhnika,19350,"Vrtec Vrhnika, enota Komarček",1010,1010,Osrednjeslovenska,Vrhnika,03.09.2021,13.09.2021,06.09.2021,5002,Drugi strokovni delavec,6001,Sum na okužbo
+1088,Vrtec Vrhnika,19350,"Vrtec Vrhnika, enota Komarček",1010,1010,Osrednjeslovenska,Vrhnika,05.09.2021,15.09.2021,06.09.2021,5001,Vzgojitelj,6002,Okužba s Covid-19
 1089,OTROŠKI VRTEC AJDOVŠČINA,14050,"OTROŠKI VRTEC AJDOVŠČINA, ENOTA RIBNIK",1010,1010,Goriška,Ajdovščina,31.08.2021,10.09.2021,02.09.2021,5002,Drugi strokovni delavec,6002,Okužba s Covid-19
 1089,OTROŠKI VRTEC AJDOVŠČINA,14051,"OTROŠKI VRTEC AJDOVŠČINA, ENOTA VIPAVA",1010,1010,Goriška,Vipava,01.09.2021,11.09.2021,01.09.2021,5002,Drugi strokovni delavec,6001,Sum na okužbo
 1089,OTROŠKI VRTEC AJDOVŠČINA,14054,"OTROŠKI VRTEC AJDOVŠČINA, ENOTA VRTEC VIPAVSKI KRIŽ",1010,1010,Goriška,Ajdovščina,29.08.2021,08.09.2021,01.09.2021,5002,Drugi strokovni delavec,6001,Sum na okužbo
 1092,Vrtec Radenci-Radenski mehurčki,14369,"Vrtec Radenci-Radenski mehurčki, enota Grozdek",1010,1010,Pomurska,Radenci,24.06.2021,02.07.2021,02.09.2021,5001,Vzgojitelj,6001,Sum na okužbo
 1095,Vrtec Antona Medveda Kamnik,13350,"Vrtec  Antona Medveda Kamnik, enota Tinkara",1010,1010,Osrednjeslovenska,Kamnik,31.08.2021,09.09.2021,02.09.2021,5002,Drugi strokovni delavec,6002,Okužba s Covid-19
 1106,Vrtec Ciciban Sevnica,17210,"Vrtec Ciciban Sevnica, Centralni vrtec",1010,1010,Posavska,Sevnica,30.08.2021,06.09.2021,02.09.2021,5001,Vzgojitelj,6002,Okužba s Covid-19
+1196,Vrtec La Coccinella Piran,1196,Vrtec La Coccinella Piran,1010,1010,Obalno-kraška,Piran,06.09.2021,16.09.2021,06.09.2021,5003,Drugi delavci,6001,Sum na okužbo
+1203,Osnovna šola Lovrenc na Pohorju,1058,"Osnovna šola Lovrenc na Pohorju, Vrtec Lovrenc na Pohorju",2010,1010,Podravska,Lovrenc na Pohorju,19.08.2021,29.08.2021,06.09.2021,5001,Vzgojitelj,6004,Okužba s Covid-19
+1203,Osnovna šola Lovrenc na Pohorju,1203,Osnovna šola Lovrenc na Pohorju,2010,2010,Podravska,Lovrenc na Pohorju,01.09.2021,19.09.2021,06.09.2021,5004,Učitelj,6004,Okužba s Covid-19
+1212,Vrtec Radovljica,1212,Vrtec Radovljica,1010,1010,Gorenjska,Radovljica,28.08.2021,06.09.2021,06.09.2021,5002,Drugi strokovni delavec,6001,Sum na okužbo
+1212,Vrtec Radovljica,12411,"Vrtec Radovljica, Enota Kropa",1010,1010,Gorenjska,Radovljica,02.09.2021,04.09.2021,06.09.2021,5003,Drugi delavci,6001,Sum na okužbo
+1212,Vrtec Radovljica,12411,"Vrtec Radovljica, Enota Kropa",1010,1010,Gorenjska,Radovljica,04.09.2021,13.09.2021,06.09.2021,5003,Drugi delavci,6002,Okužba s Covid-19
 122,Osnovna šola Brežice,122,Osnovna šola Brežice,2010,2010,Posavska,Brežice,31.08.2021,09.09.2021,03.09.2021,5005,Drugi strokovni delavec,6004,Okužba s Covid-19
+1273,Vrtec Medvode,14889,"Vrtec Medvode, enota Ostržek",1010,1010,Osrednjeslovenska,Medvode,31.08.2021,10.09.2021,03.09.2021,5001,Vzgojitelj,6002,Okužba s Covid-19
 1315,Osnovna šola Poljane,1328,"Osnovna šola Poljane, Vrtec Agata",2010,1010,Gorenjska,Gorenja vas-Poljane,01.09.2021,09.09.2021,02.09.2021,5001,Vzgojitelj,6003,Sum na okužbo
 1315,Osnovna šola Poljane,1328,"Osnovna šola Poljane, Vrtec Agata",2010,1010,Gorenjska,Gorenja vas-Poljane,01.09.2021,09.09.2021,02.09.2021,5001,Vzgojitelj,6004,Okužba s Covid-19
 1325,Vrtec Urša,1325,Vrtec Urša,1010,1010,Osrednjeslovenska,Domžale,01.09.2021,14.09.2021,02.09.2021,5003,Drugi delavci,6002,Okužba s Covid-19
 1325,Vrtec Urša,1325,Vrtec Urša,1010,1010,Osrednjeslovenska,Domžale,30.08.2021,12.09.2021,01.09.2021,5003,Drugi delavci,6002,Okužba s Covid-19
+1344,Osnovna šola Koroška Bela Jesenice,1344,Osnovna šola Koroška Bela Jesenice,2010,2010,Gorenjska,Jesenice,05.09.2021,15.09.2021,05.09.2021,5004,Učitelj,6003,Sum na okužbo
+1359,Ekonomska šola Ljubljana,1359,Ekonomska šola Ljubljana,3010,3010,Osrednjeslovenska,Ljubljana,03.09.2021,12.09.2021,06.09.2021,5013,Učitelj,6009,Sum na okužbo
 14637,VVZ SLOVENJ GRADEC,11211,"VVZ Slovenj Gradec, ENOTA ŠMARTNO",1010,1010,Koroška,Slovenj Gradec,18.08.2021,27.08.2021,03.09.2021,5001,Vzgojitelj,6001,Sum na okužbo
 14637,VVZ SLOVENJ GRADEC,11213,"VVZ Slovenj Gradec, ENOTA MAISTROVA",1010,1010,Koroška,Slovenj Gradec,26.08.2021,05.09.2021,03.09.2021,5003,Drugi delavci,6002,Okužba s Covid-19
 14637,VVZ SLOVENJ GRADEC,11213,"VVZ Slovenj Gradec, ENOTA MAISTROVA",1010,1010,Koroška,Slovenj Gradec,27.08.2021,02.09.2021,03.09.2021,5002,Drugi strokovni delavec,6001,Sum na okužbo
 15009,Vrtec Škratek Svit Vodice,16249,"Vrtec Škratek Svit Vodice, enota Skaručna",1010,1010,Osrednjeslovenska,Vodice,30.08.2021,09.09.2021,02.09.2021,5001,Vzgojitelj,6002,Okužba s Covid-19
 15009,Vrtec Škratek Svit Vodice,16249,"Vrtec Škratek Svit Vodice, enota Skaručna",1010,1010,Osrednjeslovenska,Vodice,30.08.2021,09.09.2021,02.09.2021,5002,Drugi strokovni delavec,6001,Sum na okužbo
+15009,Vrtec Škratek Svit Vodice,16850,"Vrtec Škratek Svit Vodice, enota Utik",1010,1010,Osrednjeslovenska,Vodice,06.09.0021,08.09.2021,06.09.2021,5002,Drugi strokovni delavec,6001,Sum na okužbo
+15009,Vrtec Škratek Svit Vodice,16850,"Vrtec Škratek Svit Vodice, enota Utik",1010,1010,Osrednjeslovenska,Vodice,06.09.2021,08.09.2021,06.09.2021,5001,Vzgojitelj,6001,Sum na okužbo
 160,Osnovna šola Venclja Perka,160,Osnovna šola Venclja Perka,2010,2010,Osrednjeslovenska,Domžale,28.08.2021,07.09.2021,02.09.2021,5004,Učitelj,6004,Okužba s Covid-19
-185,Osnovna šola Idrija,185,Osnovna šola Idrija,2010,2010,Goriška,Idrija,30.08.2021,09.08.2021,01.09.2021,5006,Drugi delavci,6004,Okužba s Covid-19
+167,Osnovna šola Jurija Vege,167,Osnovna šola Jurija Vege,2010,2010,Osrednjeslovenska,Moravče,02.09.2021,11.09.2021,03.09.2021,5004,Učitelj,6004,Okužba s Covid-19
+167,Osnovna šola Jurija Vege,167,Osnovna šola Jurija Vege,2010,2010,Osrednjeslovenska,Moravče,02.09.2021,11.09.2021,03.09.2021,5004,Učitelj,6004,Okužba s Covid-19
+167,Osnovna šola Jurija Vege,167,Osnovna šola Jurija Vege,2010,2010,Osrednjeslovenska,Moravče,02.09.2021,11.09.2021,03.09.2021,5004,Učitelj,6003,Sum na okužbo
+167,Osnovna šola Jurija Vege,167,Osnovna šola Jurija Vege,2010,2010,Osrednjeslovenska,Moravče,30.08.2021,08.09.2021,03.09.2021,5006,Drugi delavci,6004,Okužba s Covid-19
+167,Osnovna šola Jurija Vege,673,"Osnovna šola Jurija Vege, Podružnična šola Vrhpolje",2010,2010,Osrednjeslovenska,Moravče,02.09.2021,11.09.2021,03.09.2021,5004,Učitelj,6003,Sum na okužbo
+167,Osnovna šola Jurija Vege,673,"Osnovna šola Jurija Vege, Podružnična šola Vrhpolje",2010,2010,Osrednjeslovenska,Moravče,02.09.2021,11.09.2021,03.09.2021,5004,Učitelj,6003,Sum na okužbo
+168,Osnovna šola Neznanih talcev Dravograd,168,Osnovna šola Neznanih talcev Dravograd,2010,2010,Koroška,Dravograd,02.09.2021,11.09.2021,05.09.2021,5004,Učitelj,6003,Sum na okužbo
+185,Osnovna šola Idrija,185,Osnovna šola Idrija,2010,2010,Goriška,Idrija,30.08.2021,10.09.2021,03.09.2021,5006,Drugi delavci,6004,Okužba s Covid-19
+198,Osnovna šola Komenda Moste,198,Osnovna šola Komenda Moste,2010,2010,Osrednjeslovenska,Komenda,03.09.2021,13.09.2021,03.09.2021,5005,Drugi strokovni delavec,6003,Sum na okužbo
+198,Osnovna šola Komenda Moste,3545,Osnovna šola Komenda Moste Podružnica Moste,2010,2010,Osrednjeslovenska,Komenda,03.09.2021,13.09.2021,03.09.2021,5004,Učitelj,6003,Sum na okužbo
 20111,"Gimnazija, elektro in pomorska šola Piran",20111,"Gimnazija, elektro in pomorska šola Piran",3010,3010,Obalno-kraška,Piran,01.09.2021,13.09.2021,02.09.2021,5013,Učitelj,6010,Okužba s Covid-19
 20111,"Gimnazija, elektro in pomorska šola Piran",20111,"Gimnazija, elektro in pomorska šola Piran",3010,3010,Obalno-kraška,Piran,25.08.2021,07.09.2021,01.09.2021,5013,Učitelj,6010,Okužba s Covid-19
 20112,Srednja šola Izola,20112,Srednja šola Izola,3010,3010,Obalno-kraška,Izola,01.09.2021,10.09.2021,02.09.2021,5015,Drugi delavci,6010,Okužba s Covid-19
 20112,Srednja šola Izola,20112,Srednja šola Izola,3010,3010,Obalno-kraška,Izola,01.09.2021,10.09.2021,02.09.2021,5015,Drugi delavci,6010,Okužba s Covid-19
 20112,Srednja šola Izola,20112,Srednja šola Izola,3010,3010,Obalno-kraška,Izola,01.09.2021,10.09.2021,02.09.2021,5015,Drugi delavci,6010,Okužba s Covid-19
 20,"Srednja gradbena, geodetska in okoljevarstvena šola Ljubljana",20,"Srednja gradbena, geodetska in okoljevarstvena šola Ljubljana",3010,3010,Osrednjeslovenska,Ljubljana,26.08.2021,05.09.2021,02.09.2021,5013,Učitelj,6010,Okužba s Covid-19
+225,Osnovna šola Stražišče Kranj,225,Osnovna šola Stražišče Kranj,2010,2010,Gorenjska,Kranj,04.09.2021,14.09.2021,06.09.2021,5004,Učitelj,6003,Sum na okužbo
+225,Osnovna šola Stražišče Kranj,225,Osnovna šola Stražišče Kranj,2010,2010,Gorenjska,Kranj,04.09.2021,14.09.2021,06.09.2021,5004,Učitelj,6004,Okužba s Covid-19
+225,Osnovna šola Stražišče Kranj,225,Osnovna šola Stražišče Kranj,2010,2010,Gorenjska,Kranj,04.09.2021,14.09.2021,06.09.2021,5005,Drugi strokovni delavec,6004,Okužba s Covid-19
+229,Osnovna šola Helene Puhar Kranj,229,Osnovna šola Helene Puhar Kranj,2020,2020,Gorenjska,Kranj,06.09.2021,08.09.2021,06.09.2021,5007,Učitelj,6005,Sum na okužbo
 23155,Osnovna šola Šmarje - Sap,23155,Osnovna šola Šmarje - Sap,2010,2010,Osrednjeslovenska,Grosuplje,31.08.2021,09.09.2021,01.09.2021,5005,Drugi strokovni delavec,6003,Sum na okužbo
 23155,Osnovna šola Šmarje - Sap,23155,Osnovna šola Šmarje - Sap,2010,2010,Osrednjeslovenska,Grosuplje,31.08.2021,12.09.2021,01.09.2021,5004,Učitelj,6004,Okužba s Covid-19
+237,Osnovna šola Leskovec pri Krškem,237,Osnovna šola Leskovec pri Krškem,2010,2010,Posavska,Krško,04.09.2021,12.09.2021,06.09.2021,5004,Učitelj,6003,Sum na okužbo
 244,Glasbena šola Laško - Radeče,244,Glasbena šola Laško - Radeče,2030,2030,Posavska,Radeče,30.08.2021,08.09.2021,01.09.2021,5012,Drugi delavci,6008,Okužba s Covid-19
 244,Glasbena šola Laško - Radeče,244,Glasbena šola Laško - Radeče,2030,2030,Posavska,Radeče,31.08.2021,09.09.2021,01.09.2021,5010,Učitelj,6008,Okužba s Covid-19
+297,Osnovna šola Vižmarje - Brod,297,Osnovna šola Vižmarje - Brod,2010,2010,Osrednjeslovenska,Ljubljana,06.09.2021,10.09.2021,06.09.2021,5004,Učitelj,6003,Sum na okužbo
+297,Osnovna šola Vižmarje - Brod,297,Osnovna šola Vižmarje - Brod,2010,2010,Osrednjeslovenska,Ljubljana,06.09.2021,12.09.2021,06.09.2021,5004,Učitelj,6003,Sum na okužbo
+297,Osnovna šola Vižmarje - Brod,297,Osnovna šola Vižmarje - Brod,2010,2010,Osrednjeslovenska,Ljubljana,06.09.2021,12.09.2021,06.09.2021,5004,Učitelj,6003,Sum na okužbo
 300,Osnovna šola Riharda Jakopiča Ljubljana,300,Osnovna šola Riharda Jakopiča Ljubljana,2010,2010,Osrednjeslovenska,Ljubljana,01.09.2021,03.09.2021,03.09.2021,5004,Učitelj,6003,Sum na okužbo
 300,Osnovna šola Riharda Jakopiča Ljubljana,300,Osnovna šola Riharda Jakopiča Ljubljana,2010,2010,Osrednjeslovenska,Ljubljana,01.09.2021,03.09.2021,03.09.2021,5004,Učitelj,6003,Sum na okužbo
 300,Osnovna šola Riharda Jakopiča Ljubljana,300,Osnovna šola Riharda Jakopiča Ljubljana,2010,2010,Osrednjeslovenska,Ljubljana,02.09.2021,12.09.2021,02.09.2021,5004,Učitelj,6004,Okužba s Covid-19
 311,Osnovna šola Vodice,311,Osnovna šola Vodice,2010,2010,Osrednjeslovenska,Vodice,30.08.2021,08.09.2021,03.09.2021,5004,Učitelj,6004,Okužba s Covid-19
-3492,Osnovna šola Poldeta Stražišarja Jesenice,3492,Osnovna šola Poldeta Stražišarja Jesenice,2020,2020,Gorenjska,Jesenice,25.08.2021,04.09.2021,03.09.2021,5007,Učitelj,6006,Okužba s Covid-19
+319,Osnovna šola Škofljica,3788,Osnovna šola Škofljica Podružnica Lavrica,2010,2010,Osrednjeslovenska,Škofljica,03.09.2021,10.09.2021,05.09.2021,5004,Učitelj,6003,Sum na okužbo
+329,Osnovna šola Janka Ribiča Cezanjevci,329,Osnovna šola Janka Ribiča Cezanjevci,2010,2010,Pomurska,Ljutomer,03.09.2021,12.09.2021,06.09.2021,5006,Drugi delavci,6004,Okužba s Covid-19
+3492,Osnovna šola Poldeta Stražišarja Jesenice,3492,Osnovna šola Poldeta Stražišarja Jesenice,2020,2020,Gorenjska,Jesenice,06.09.2021,16.09.2021,06.09.2021,5007,Učitelj,6005,Sum na okužbo
+3492,Osnovna šola Poldeta Stražišarja Jesenice,3492,Osnovna šola Poldeta Stražišarja Jesenice,2020,2020,Gorenjska,Jesenice,25.08.2021,20.09.2021,06.09.2021,5007,Učitelj,6006,Okužba s Covid-19
 358,Osnovna šola Milojke Štrukelj Nova Gorica,358,Osnovna šola Milojke Štrukelj Nova Gorica,2010,2010,Goriška,Nova Gorica,20.08.2021,01.09.2021,03.09.2021,5006,Drugi delavci,6004,Okužba s Covid-19
 358,Osnovna šola Milojke Štrukelj Nova Gorica,358,Osnovna šola Milojke Štrukelj Nova Gorica,2010,2010,Goriška,Nova Gorica,22.08.2021,04.09.2021,03.09.2021,5004,Učitelj,6003,Sum na okužbo
 358,Osnovna šola Milojke Štrukelj Nova Gorica,358,Osnovna šola Milojke Štrukelj Nova Gorica,2010,2010,Goriška,Nova Gorica,22.08.2021,04.09.2021,03.09.2021,5005,Drugi strokovni delavec,6004,Okužba s Covid-19
@@ -16446,18 +16483,50 @@ ZAVSIFMAT,ZAVMATNAZ,ZAVSIF,ZAVNAZ,KAT_MAT,KATEGORIJA,REGIJA,OBCINA,DAT_OD,DAT_DO
 363,Osnovna šola Kanal,1172,"Osnovna šola Kanal, Enota Vrtec Kanal",2010,1010,Goriška,Kanal,03.09.2021,13.09.2021,03.09.2021,5001,Vzgojitelj,6003,Sum na okužbo
 363,Osnovna šola Kanal,1172,"Osnovna šola Kanal, Enota Vrtec Kanal",2010,1010,Goriška,Kanal,31.08.2021,10.09.2021,02.09.2021,5002,Drugi strokovni delavec,6004,Okužba s Covid-19
 36,Gimnazija Šentvid,36,Gimnazija Šentvid,3010,3010,Osrednjeslovenska,Ljubljana,20.08.2021,10.09.2021,01.09.2021,5013,Učitelj,6010,Okužba s Covid-19
+372,Osnovna šola Otočec,25095,"Osnovna šola Otočec, enota vrtec Otočec",2010,1010,Jugovzhodna Slovenija,Novo mesto,01.09.2021,03.09.2021,06.09.2021,5003,Drugi delavci,6004,Okužba s Covid-19
+372,Osnovna šola Otočec,372,Osnovna šola Otočec,2010,2010,Jugovzhodna Slovenija,Novo mesto,29.08.2021,08.09.2021,03.09.2021,5004,Učitelj,6004,Okužba s Covid-19
+385,Osnovna šola Dolenjske Toplice,385,Osnovna šola Dolenjske Toplice,2010,2010,Jugovzhodna Slovenija,Dolenjske Toplice,02.09.2021,11.09.2021,03.09.2021,5004,Učitelj,6003,Sum na okužbo
+387,Osnovna šola Žužemberk,1226,Osnovna šola Žužemberk - Vrtec Sonček,2010,1010,Jugovzhodna Slovenija,Žužemberk,03.09.2021,13.09.2021,04.09.2021,5001,Vzgojitelj,6004,Okužba s Covid-19
+400,Osnovna šola Sečovlje,1155,"Osnovna šola Sečovlje, enota Vrtec",2010,1010,Obalno-kraška,Piran,01.09.2021,11.09.2021,03.09.2021,5001,Vzgojitelj,6004,Okužba s Covid-19
+400,Osnovna šola Sečovlje,754,"Osnovna šola Sečovlje, Podružnična šola Sveti Peter",2010,2010,Obalno-kraška,Piran,01.09.2021,10.09.2021,03.09.2021,5004,Učitelj,6004,Okužba s Covid-19
 401,Osnovna šola Miroslava Vilharja Postojna,401,Osnovna šola Miroslava Vilharja Postojna,2010,2010,Primorsko-notranjska,Postojna,01.09.2021,01.09.2021,01.09.2021,5004,Učitelj,6003,Sum na okužbo
 401,Osnovna šola Miroslava Vilharja Postojna,401,Osnovna šola Miroslava Vilharja Postojna,2010,2010,Primorsko-notranjska,Postojna,01.09.2021,09.09.2021,02.09.2021,5004,Učitelj,6003,Sum na okužbo
+401,Osnovna šola Miroslava Vilharja Postojna,401,Osnovna šola Miroslava Vilharja Postojna,2010,2010,Primorsko-notranjska,Postojna,04.09.2021,13.09.2021,06.09.2021,5004,Učitelj,6004,Okužba s Covid-19
+419,Osnovna šola Videm,762,"Osnovna šola Videm, Podružnična šola Sela",2010,2010,Podravska,Videm,05.09.2021,15.09.2021,06.09.2021,5006,Drugi delavci,6004,Okužba s Covid-19
+424,Osnovna šola Cirkovce,19930,"Osnovna šola Cirkovce, Enota Vrtec Cirkovce",2010,1010,Podravska,Kidričevo,01.09.2021,17.09.2021,06.09.2021,5003,Drugi delavci,6004,Okužba s Covid-19
 429,Osnovna šola Muta,429,Osnovna šola Muta,2010,2010,Koroška,Muta,23.08.2021,01.09.2021,02.09.2021,5005,Drugi strokovni delavec,6004,Okužba s Covid-19
 429,Osnovna šola Muta,429,Osnovna šola Muta,2010,2010,Koroška,Muta,28.08.2021,06.09.2021,02.09.2021,5004,Učitelj,6004,Okužba s Covid-19
 430,Osnovna šola Vuzenica,1159,"Osnovna šola Vuzenica, Enota Vrtec Vuzenica",2010,1010,Koroška,Vuzenica,31.08.2021,02.09.2021,03.09.2021,5001,Vzgojitelj,6004,Okužba s Covid-19
+442,Osnovna šola Franja Goloba Prevalje,20915,"OSNOVNA ŠOLA FRANJA GOLOBA PREVALJE VRTEC KROJAČEK HLAČEK PREVALJE, enota",2010,1010,Koroška,Prevalje,02.09.2021,12.09.2021,06.09.2021,5002,Drugi strokovni delavec,6003,Sum na okužbo
+461,Osnovna šola Dragomirja Benčiča - Brkina Hrpelje,461,Osnovna šola Dragomirja Benčiča - Brkina Hrpelje,2010,2010,Obalno-kraška,Hrpelje-Kozina,06.09.2021,10.09.2021,06.09.2021,5004,Učitelj,6004,Okužba s Covid-19
+468,Osnovna šola Pohorskega odreda Slovenska Bistrica,468,Osnovna šola Pohorskega odreda Slovenska Bistrica,2010,2010,Podravska,Slovenska Bistrica,03.09.2021,13.09.2021,06.09.2021,5004,Učitelj,6003,Sum na okužbo
+468,Osnovna šola Pohorskega odreda Slovenska Bistrica,468,Osnovna šola Pohorskega odreda Slovenska Bistrica,2010,2010,Podravska,Slovenska Bistrica,06.09.2021,13.09.2021,06.09.2021,5004,Učitelj,6003,Sum na okužbo
+468,Osnovna šola Pohorskega odreda Slovenska Bistrica,468,Osnovna šola Pohorskega odreda Slovenska Bistrica,2010,2010,Podravska,Slovenska Bistrica,06.09.2021,13.09.2021,06.09.2021,5004,Učitelj,6003,Sum na okužbo
+468,Osnovna šola Pohorskega odreda Slovenska Bistrica,468,Osnovna šola Pohorskega odreda Slovenska Bistrica,2010,2010,Podravska,Slovenska Bistrica,07.09.2021,13.09.2021,06.09.2021,5004,Učitelj,6003,Sum na okužbo
 468,Osnovna šola Pohorskega odreda Slovenska Bistrica,468,Osnovna šola Pohorskega odreda Slovenska Bistrica,2010,2010,Podravska,Slovenska Bistrica,23.08.2021,08.09.2021,03.09.2021,5004,Učitelj,6004,Okužba s Covid-19
 476,Osnovna šola Anice Černejeve Makole,476,Osnovna šola Anice Černejeve Makole,2010,2010,Podravska,Makole,02.09.2021,12.09.2021,03.09.2021,5006,Drugi delavci,6004,Okužba s Covid-19
+483,Osnovna šola Ivana Groharja,483,Osnovna šola Ivana Groharja,2010,2010,Gorenjska,Škofja Loka,03.09.2021,13.09.2021,06.09.2021,5004,Učitelj,6003,Sum na okužbo
+483,Osnovna šola Ivana Groharja,483,Osnovna šola Ivana Groharja,2010,2010,Gorenjska,Škofja Loka,03.09.2021,13.09.2021,06.09.2021,5004,Učitelj,6003,Sum na okužbo
+488,Osnovna šola Ivana Tavčarja Gorenja vas,488,Osnovna šola Ivana Tavčarja Gorenja vas,2010,2010,Gorenjska,Gorenja vas-Poljane,01.09.2021,10.09.2021,04.09.2021,5004,Učitelj,6004,Okužba s Covid-19
+490,Osnovna šola Železniki,490,Osnovna šola Železniki,2010,2010,Gorenjska,Železniki,03.09.2021,11.09.2021,06.09.2021,5004,Učitelj,6003,Sum na okužbo
+490,Osnovna šola Železniki,490,Osnovna šola Železniki,2010,2010,Gorenjska,Železniki,03.09.2021,11.09.2021,06.09.2021,5004,Učitelj,6003,Sum na okužbo
+490,Osnovna šola Železniki,490,Osnovna šola Železniki,2010,2010,Gorenjska,Železniki,03.09.2021,11.09.2021,06.09.2021,5004,Učitelj,6004,Okužba s Covid-19
 511,Osnovna šola Simona Kosa Podbrdo,511,Osnovna šola Simona Kosa Podbrdo,2010,2010,Goriška,Tolmin,30.08.2021,08.09.2021,03.09.2021,5006,Drugi delavci,6003,Sum na okužbo
 516,Osnovna šola dr. Pavla Lunačka Šentrupert,1227,"Osnovna šola dr. Pavla Lunačka Šentrupert, Vrtec Čebelica",2010,1010,Jugovzhodna Slovenija,Šentrupert,30.08.2021,08.09.2021,02.09.2021,5001,Vzgojitelj,6003,Sum na okužbo
-76,II. gimnazija Maribor,76,II. gimnazija Maribor,3010,3010,Podravska,Maribor,30.08.2021,08.09.2021,02.09.2021,5013,Učitelj,6009,Sum na okužbo
+536,Osnovna šola Ivana Cankarja Vrhnika,536,Osnovna šola Ivana Cankarja Vrhnika,2010,2010,Osrednjeslovenska,Vrhnika,06.09.2021,15.09.2021,06.09.2021,5006,Drugi delavci,6004,Okužba s Covid-19
+54,Srednja trgovska šola Ljubljana,54,Srednja trgovska šola Ljubljana,3010,3010,Osrednjeslovenska,Ljubljana,24.08.2021,10.09.2021,06.09.2021,5013,Učitelj,6010,Okužba s Covid-19
+551,Osnovna šola Polzela,551,Osnovna šola Polzela,2010,2010,Savinjska,Polzela,06.09.2021,16.09.2021,06.09.2021,5004,Učitelj,6004,Okužba s Covid-19
+564,Osnovna šola Draga Kobala Maribor,564,Osnovna šola Draga Kobala Maribor,2010,2010,Podravska,Maribor,05.09.2021,15.09.2021,05.09.2021,5004,Učitelj,6004,Okužba s Covid-19
+598,Osnovna šola Dobje,598,Osnovna šola Dobje,2010,2010,Savinjska,Dobje,30.08.2021,08.09.2021,06.09.2021,5004,Učitelj,6004,Okužba s Covid-19
+608,Osnovna šola Pod goro Slovenske Konjice,608,Osnovna šola Pod goro Slovenske Konjice,2010,2010,Savinjska,Slovenske Konjice,06.09.2021,12.09.2021,05.09.2021,5004,Učitelj,6004,Okužba s Covid-19
+633,Zavod sv. Frančiška Saleškega Gimnazija Želimlje,633,Zavod sv. Frančiška Saleškega Gimnazija Želimlje,3010,3010,Osrednjeslovenska,Škofljica,02.09.2021,11.09.2021,06.09.2021,5013,Učitelj,6009,Sum na okužbo
+635,Osnovna šola II Murska Sobota,635,Osnovna šola II Murska Sobota,2010,2010,Pomurska,Murska Sobota,31.08.2021,10.09.2021,06.09.2021,5004,Učitelj,6004,Okužba s Covid-19
+637,Osnovna šola IV. Murska Sobota,637,Osnovna šola IV. Murska Sobota,2020,2020,Pomurska,Murska Sobota,06.09.2021,11.09.2021,06.09.2021,5007,Učitelj,6005,Sum na okužbo
+76,II. gimnazija Maribor,76,II. gimnazija Maribor,3010,3010,Podravska,Maribor,30.08.2021,11.09.2021,06.09.2021,5013,Učitelj,6009,Sum na okužbo
 79,Grm Novo mesto - center biotehnike in turizma,82,"Grm Novo mesto - center biotehnike in turizma, Srednja šola za gostinstvo in turizem",3010,3010,Jugovzhodna Slovenija,Novo mesto,01.09.2021,10.09.2021,02.09.2021,5013,Učitelj,6010,Okužba s Covid-19
 7,Srednja tehniška šola Koper,7,Srednja tehniška šola Koper,3010,3010,Obalno-kraška,Koper,30.08.2021,10.09.2021,03.09.2021,5013,Učitelj,6010,Okužba s Covid-19
+84,Šolski center Slovenj Gradec,1298,"Šolski center Slovenj Gradec, Gimnazija",3010,3010,Koroška,Slovenj Gradec,02.09.2021,11.09.2021,06.09.2021,5013,Učitelj,6009,Sum na okužbo
 9854,Osnovna šola Drska,9854,Osnovna šola Drska,2010,2010,Jugovzhodna Slovenija,Novo mesto,01.09.2021,04.09.2021,02.09.2021,5006,Drugi delavci,6003,Sum na okužbo
 9854,Osnovna šola Drska,9854,Osnovna šola Drska,2010,2010,Jugovzhodna Slovenija,Novo mesto,01.09.2021,04.09.2021,02.09.2021,5006,Drugi delavci,6003,Sum na okužbo
 9854,Osnovna šola Drska,9854,Osnovna šola Drska,2010,2010,Jugovzhodna Slovenija,Novo mesto,01.09.2021,04.09.2021,02.09.2021,5006,Drugi delavci,6004,Okužba s Covid-19
+9854,Osnovna šola Drska,9854,Osnovna šola Drska,2010,2010,Jugovzhodna Slovenija,Novo mesto,03.09.2021,12.09.2021,04.09.2021,5004,Učitelj,6003,Sum na okužbo
